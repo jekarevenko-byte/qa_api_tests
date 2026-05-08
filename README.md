@@ -3,38 +3,26 @@
 Автоматизированный набор тестов API, созданный на основе **pytest** +**queries**, ориентированный на [JSONPlaceholder](https://jsonplaceholder.typicode.com) в качестве демонстрационного REST API. Проект разработан как реальный шаблон: чистая структура, типизированные модели, пользовательские утверждения и конвейер CI, готовый к внедрению в любой проект.
 
 ## Структура проекта
-qa_api_tests/
-├── .github/
-│ └── workflows/
-│ └── tests.yml
-│
-├── configs/
-│ └── config.py
-│
-├── src/
-│ ├── clients/
-│ │ ├── base_client.py
-│ │ ├── users_client.py
-│ │ └── posts_client.py
-│ ├── models/
-│ │ └── schemas.py
-│ └── utils/
-│ ├── assertions.py
-│ └── factories.py
-│
-├── tests/
-│ ├── api/
-│ │ ├── test_users.py
-│ │ └── test_posts.py
-│ └── integration/
-│ └── test_user_posts_flow.py
-│
-├── reports/
-├── .env.example
-├── conftest.py
-├── pytest.ini
-└── requirements.txt
 
+qa_api_tests/
+├── configs/config.py              ← BASE_URL, timeout из .env
+├── src/
+│   ├── clients/
+│   │   ├── base_client.py         ← requests.Session + логирование
+│   │   ├── users_client.py        ← методы /users
+│   │   └── posts_client.py        ← методы /posts
+│   ├── models/schemas.py          ← Pydantic-модели (UserModel, PostModel, …)
+│   └── utils/
+│       ├── assertions.py          ← кастомные хелперы assert_ok / assert_schema / …
+│       └── factories.py           ← Faker-фабрики make_user() / make_post()
+├── tests/
+│   ├── api/test_users.py          ← 15 тестов: CRUD + negative
+│   ├── api/test_posts.py          ← 16 тестов: CRUD + parametrize + filter
+│   └── integration/test_user_posts_flow.py  ← cross-resource consistency
+├── conftest.py                    ← session-scope фикстуры
+├── pytest.ini                     ← markers, HTML-отчёт, логирование
+├── .github/workflows/tests.yml    ← GitHub Actions CI (matrix Py 3.11/3.12)
+└── README.md
 
 # Старт
 
@@ -84,8 +72,6 @@ pytest -n 4
 # With verbose output + HTML report
 pytest -v --html=reports/report.html
 ```
-
----
 
 ## Архитектура
 
@@ -157,8 +143,6 @@ from src.utils.assertions import (
 )
 ```
 
----
-
 ## Маркеры
 
 | Marker | Description |
@@ -168,8 +152,6 @@ from src.utils.assertions import (
 | `users` | /users endpoint tests |
 | `posts` | /posts endpoint tests |
 | `negative` | Error / 4xx path tests |
-
----
 
 ## Действия CI / GitHub
 
@@ -181,8 +163,6 @@ The pipeline in `.github/workflows/tests.yml` runs on every push and PR:
 4. Uploads the **HTML report** as an artifact
 
 Matrix: Python 3.11 and 3.12.
-
----
 
 ## Зависимости
 
@@ -196,5 +176,4 @@ Matrix: Python 3.11 and 3.12.
 | `pytest-xdist` | Parallel test execution |
 | `python-dotenv` | Environment variable loading |
 
----
 
