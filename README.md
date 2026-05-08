@@ -3,41 +3,40 @@
 Автоматизированный набор тестов API, созданный на основе **pytest** +**queries**, ориентированный на [JSONPlaceholder](https://jsonplaceholder.typicode.com) в качестве демонстрационного REST API. Проект разработан как реальный шаблон: чистая структура, типизированные модели, пользовательские утверждения и конвейер CI, готовый к внедрению в любой проект.
 
 ## Структура проекта
-
 qa_api_tests/
 ├── .github/
-│   └── workflows/
-│       └── tests.yml          # GitHub Actions CI
+│ └── workflows/
+│ └── tests.yml
 │
 ├── configs/
-│   └── config.py              # Env-based configuration (BASE_URL, timeout, etc.)
+│ └── config.py
 │
 ├── src/
-│   ├── clients/
-│   │   ├── base_client.py     # requests.Session wrapper with logging
-│   │   ├── users_client.py    # /users endpoint methods
-│   │   └── posts_client.py    # /posts endpoint methods
-│   ├── models/
-│   │   └── schemas.py         # Pydantic response models (UserModel, PostModel, …)
-│   └── utils/
-│       ├── assertions.py      # Custom assertion helpers
-│       └── factories.py       # Faker-based test data factories
+│ ├── clients/
+│ │ ├── base_client.py
+│ │ ├── users_client.py
+│ │ └── posts_client.py
+│ ├── models/
+│ │ └── schemas.py
+│ └── utils/
+│ ├── assertions.py
+│ └── factories.py
 │
 ├── tests/
-│   ├── api/
-│   │   ├── test_users.py      # CRUD + negative tests for /users
-│   │   └── test_posts.py      # CRUD + negative + parametrised tests for /posts
-│   └── integration/
-│       └── test_user_posts_flow.py  # Cross-resource consistency tests
+│ ├── api/
+│ │ ├── test_users.py
+│ │ └── test_posts.py
+│ └── integration/
+│ └── test_user_posts_flow.py
 │
-├── reports/                   # Auto-generated HTML reports (gitignored)
-├── .env.example               # Environment variable template
-├── conftest.py                # Shared fixtures (clients, seed IDs)
-├── pytest.ini                 # pytest configuration & markers
-└── requirements.txt           # Python dependencies
+├── reports/
+├── .env.example
+├── conftest.py
+├── pytest.ini
+└── requirements.txt
 
 
-# Quick Start
+# Старт
 
 ### 1. Создание виртуальной среды
 
