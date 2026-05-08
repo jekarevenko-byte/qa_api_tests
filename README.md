@@ -4,7 +4,7 @@
 
 ## Структура проекта
 
-qa_api_tests/
+```qa_api_tests/
 ├── configs/config.py              ← BASE_URL, timeout из .env
 ├── src/
 │   ├── clients/
@@ -23,6 +23,7 @@ qa_api_tests/
 ├── pytest.ini                     ← markers, HTML-отчёт, логирование
 ├── .github/workflows/tests.yml    ← GitHub Actions CI (matrix Py 3.11/3.12)
 └── README.md
+```
 
 # Старт
 
