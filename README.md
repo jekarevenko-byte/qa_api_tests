@@ -129,7 +129,7 @@ Tests  →  Clients  →  BaseClient (requests.Session)  →  API
 
 ---
 
-## Пользовательские утверждения
+## Кастомные проверки
 
 ```python
 from src.utils.assertions import (
