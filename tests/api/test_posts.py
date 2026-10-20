@@ -13,6 +13,7 @@ Covered:
   Negative: 404 on unknown post
 """
 
+import allure
 import pytest
 from src.clients import PostsClient
 from src.models.schemas import PostModel, CommentModel
@@ -25,10 +26,14 @@ from src.utils.factories import make_post
 
 
 @pytest.mark.posts
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Posts")
+@allure.story("GET /posts")
 class TestGetPosts:
     """GET /posts"""
 
     @pytest.mark.smoke
+    @allure.severity(allure.severity_level.CRITICAL)
     def test_get_all_posts_status_200(self, posts_client: PostsClient):
         response = posts_client.get_all_posts()
         assert_ok(response)
@@ -49,6 +54,7 @@ class TestGetPosts:
         assert_response_time(response, max_ms=3000)
 
     @pytest.mark.smoke
+    @allure.severity(allure.severity_level.CRITICAL)
     def test_get_single_post_status_200(self, posts_client: PostsClient, existing_post_id):
         response = posts_client.get_post(existing_post_id)
         assert_ok(response)
@@ -84,6 +90,9 @@ class TestGetPosts:
 
 @pytest.mark.posts
 @pytest.mark.negative
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Posts")
+@allure.story("Negative GET /posts scenarios")
 class TestGetPostNegative:
     """Negative GET /posts scenarios."""
 
@@ -93,10 +102,14 @@ class TestGetPostNegative:
 
 
 @pytest.mark.posts
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Posts")
+@allure.story("POST /posts")
 class TestCreatePost:
     """POST /posts"""
 
     @pytest.mark.smoke
+    @allure.severity(allure.severity_level.CRITICAL)
     def test_create_post_status_201(self, posts_client: PostsClient):
         payload = make_post(user_id=1)
         response = posts_client.create_post(payload)
@@ -119,6 +132,9 @@ class TestCreatePost:
 
 
 @pytest.mark.posts
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Posts")
+@allure.story("PUT / PATCH /posts/{id}")
 class TestUpdatePost:
     """PUT / PATCH /posts/{id}"""
 
@@ -144,6 +160,9 @@ class TestUpdatePost:
 
 
 @pytest.mark.posts
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Posts")
+@allure.story("DELETE /posts/{id}")
 class TestDeletePost:
     """DELETE /posts/{id}"""
 

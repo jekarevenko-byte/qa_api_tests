@@ -7,13 +7,23 @@ on:
     branches: [main]
   schedule:
     - cron: "0 6 * * 1-5"   # Weekdays at 06:00 UTC
+  workflow_dispatch:         # manual run from the Actions tab
+
+permissions:
+  contents: read
+
+env:
+  ALLURE_VERSION: "2.32.0"
+  REPORT_PYTHON: "3.12"      # results of this matrix job are published as the report
 
 jobs:
   test:
-    name: Run API autotests
+    name: Tests (Python ${{ matrix.python-version }})
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     strategy:
+      fail-fast: false
       matrix:
         python-version: ["3.11", "3.12"]
 
@@ -30,16 +40,121 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run smoke tests
-        run: pytest -m smoke -v
+      - name: Smoke tests (fast gate)
+        run: pytest -m smoke --alluredir=allure-results-smoke --html=reports/smoke.html
 
-      - name: Run full suite
-        run: pytest --html=reports/report.html --self-contained-html
+      - name: Full suite
+        run: pytest --alluredir=allure-results --html=reports/report.html --self-contained-html
 
-      - name: Upload HTML report
+      - name: Upload Allure results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results-py${{ matrix.python-version }}
+          path: allure-results
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Upload HTML report (pytest-html)
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: test-report-py${{ matrix.python-version }}
           path: reports/report.html
+          if-no-files-found: warn
           retention-days: 14
+
+  allure-report:
+    name: Allure report
+    needs: test
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write        # push the report to the gh-pages branch
+    concurrency:
+      group: allure-report-${{ github.ref }}
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download Allure results
+        uses: actions/download-artifact@v4
+        with:
+          name: allure-results-py${{ env.REPORT_PYTHON }}
+          path: allure-results
+
+      - name: Set up Java (needed by Allure CLI)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Install Allure CLI
+        run: |
+          curl -sSfL "https://github.com/allure-framework/allure2/releases/download/${ALLURE_VERSION}/allure-${ALLURE_VERSION}.tgz" -o allure.tgz
+          tar -xzf allure.tgz -C "$RUNNER_TEMP"
+          echo "$RUNNER_TEMP/allure-${ALLURE_VERSION}/bin" >> "$GITHUB_PATH"
+
+      - name: Get previous report history (for trend graphs)
+        if: github.event_name != 'pull_request'
+        run: |
+          git clone --depth 1 --branch gh-pages \
+            "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" gh-pages || true
+          if [ -d gh-pages/history ]; then
+            cp -r gh-pages/history allure-results/history
+          fi
+
+      - name: Add categories
+        run: cp .github/allure/categories.json allure-results/categories.json
+
+      - name: Generate Allure report
+        run: allure generate allure-results --clean -o allure-report
+
+      - name: Job summary
+        run: |
+          python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          s = json.load(open("allure-report/widgets/summary.json"))["statistic"]
+          print("## Allure report")
+          print()
+          print("| Passed | Failed | Broken | Skipped | Total |")
+          print("|---|---|---|---|---|")
+          print(f"| {s['passed']} | {s['failed']} | {s['broken']} | {s['skipped']} | {s['total']} |")
+          PY
+          if [ "${{ github.event_name }}" != "pull_request" ]; then
+            owner="${GITHUB_REPOSITORY%%/*}"; repo="${GITHUB_REPOSITORY##*/}"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "Online report: https://${owner}.github.io/${repo}/" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "Download the **allure-report** artifact and run \`allure open\` to view it (online report is published from main only)." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload Allure report
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-report
+          path: allure-report
+          retention-days: 14
+
+      - name: Publish report to GitHub Pages (gh-pages branch)
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        run: |
+          set -e
+          cd gh-pages 2>/dev/null || {
+            mkdir gh-pages && cd gh-pages
+            git init -q -b gh-pages
+            git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          }
+          # replace the site content with the fresh report (history/ is part of the report)
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -r ../allure-report/. .
+          touch .nojekyll
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Allure report for ${GITHUB_SHA::7} (run #${GITHUB_RUN_NUMBER})" || { echo "Nothing to publish"; exit 0; }
+          git push origin HEAD:gh-pages
