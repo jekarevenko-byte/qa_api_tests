@@ -12,6 +12,7 @@ Covered:
   Negative: 404 on unknown user
 """
 
+import allure
 import pytest
 from src.clients import UsersClient
 from src.models.schemas import UserModel, PostModel
@@ -24,10 +25,14 @@ from src.utils.factories import make_user
 
 
 @pytest.mark.users
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Users")
+@allure.story("GET /users")
 class TestGetUsers:
     """GET /users"""
 
     @pytest.mark.smoke
+    @allure.severity(allure.severity_level.CRITICAL)
     def test_get_all_users_status_200(self, users_client: UsersClient):
         response = users_client.get_all_users()
         assert_ok(response)
@@ -48,6 +53,7 @@ class TestGetUsers:
         assert len(users) == 10  # JSONPlaceholder has 10 seed users
 
     @pytest.mark.smoke
+    @allure.severity(allure.severity_level.CRITICAL)
     def test_get_single_user_status_200(self, users_client: UsersClient, existing_user_id):
         response = users_client.get_user(existing_user_id)
         assert_ok(response)
@@ -74,6 +80,9 @@ class TestGetUsers:
 
 @pytest.mark.users
 @pytest.mark.negative
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Users")
+@allure.story("Negative GET /users scenarios")
 class TestGetUserNegative:
     """Negative GET /users scenarios."""
 
@@ -83,10 +92,14 @@ class TestGetUserNegative:
 
 
 @pytest.mark.users
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Users")
+@allure.story("POST /users")
 class TestCreateUser:
     """POST /users"""
 
     @pytest.mark.smoke
+    @allure.severity(allure.severity_level.CRITICAL)
     def test_create_user_status_201(self, users_client: UsersClient):
         payload = make_user()
         response = users_client.create_user(payload)
@@ -113,6 +126,9 @@ class TestCreateUser:
 
 
 @pytest.mark.users
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Users")
+@allure.story("PUT /users/{id}")
 class TestUpdateUser:
     """PUT /users/{id}"""
 
@@ -138,6 +154,9 @@ class TestUpdateUser:
 
 
 @pytest.mark.users
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Users")
+@allure.story("DELETE /users/{id}")
 class TestDeleteUser:
     """DELETE /users/{id}"""
 
