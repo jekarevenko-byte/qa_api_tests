@@ -1,5 +1,12 @@
 # Автоматическая проверка REST API
 
+[![API Tests](https://github.com/jekarevenko-byte/qa_api_tests/actions/workflows/tests.yml/badge.svg)](https://github.com/jekarevenko-byte/qa_api_tests/actions/workflows/tests.yml)
+[![Allure Report](https://img.shields.io/badge/Allure-report-8A2BE2?logo=qameta&logoColor=white)](https://jekarevenko-byte.github.io/qa_api_tests/)
+![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)
+![pytest](https://img.shields.io/badge/pytest-8.3-green)
+
+**[Онлайн Allure-отчёт последнего прогона](https://jekarevenko-byte.github.io/qa_api_tests/)**
+
 Готовое решение для автоматизированного тестирования API. В основе — популярные инструменты pytest и requests, для демонстрации возможностей взят общедоступный REST API JSONPlaceholder. Проект оформлен как универсальный шаблон: он имеет продуманную структуру, включает типизированные модели данных и пользовательские проверки, а также содержит готовый конвейер CI. Достаточно взять за основу — и можно сразу адаптировать под свой проект.
 
 ## Структура проекта
@@ -20,8 +27,11 @@
 │   ├── api/test_posts.py          ← 16 тестов: CRUD + parametrize + filter
 │   └── integration/test_user_posts_flow.py  ← cross-resource consistency
 ├── conftest.py                    ← session-scope фикстуры
-├── pytest.ini                     ← markers, HTML-отчёт, логирование
-├── .github/workflows/tests.yml    ← GitHub Actions CI (matrix Py 3.11/3.12)
+├── pytest.ini                     ← markers, HTML/Allure-отчёты, логирование
+├── .github/
+│   ├── workflows/tests.yml        ← GitHub Actions: тесты + Allure-отчёт на Pages
+│   ├── allure/categories.json     ← категории дефектов в отчёте
+│   └── dependabot.yml             ← автообновление зависимостей и actions
 └── README.md
 ```
 
@@ -73,6 +83,8 @@ pytest -n 4
 # With verbose output + HTML report
 pytest -v --html=reports/report.html
 ```
+
+После любого запуска результаты Allure лежат в `allure-results/` (см. раздел «Allure-отчёт»).
 
 ## Архитектура
 
@@ -154,16 +166,33 @@ from src.utils.assertions import (
 | `posts` | /posts endpoint tests |
 | `negative` | Error / 4xx path tests |
 
-## Действия CI / GitHub
+## Allure-отчёт
 
-The pipeline in `.github/workflows/tests.yml` runs on every push and PR:
+Каждый HTTP-вызов в тестах — это шаг Allure с вложениями **Request** и **Response** (заголовок `Authorization` в отчёт не попадает). Каждая проверка из `assertions.py` тоже отдельный шаг. Тесты сгруппированы по `epic → feature → story`, smoke-тесты помечены severity `critical`.
 
-1. Installs dependencies
-2. Runs **smoke** tests first (fast gate)
-3. Runs the **full suite**
-4. Uploads the **HTML report** as an artifact
+Локальный просмотр (нужен [Allure CLI](https://allurereport.org/docs/install/) и Java):
 
-Matrix: Python 3.11 and 3.12.
+```bash
+pytest                      # создаёт allure-results/
+allure serve allure-results # собирает отчёт и открывает в браузере
+```
+
+## CI/CD: GitHub Actions
+
+Workflow `.github/workflows/tests.yml` запускается при push в `main`/`develop`, на каждый pull request, по будням в 06:00 UTC и вручную (кнопка *Run workflow*).
+
+| Job | Что делает |
+|---|---|
+| `test` (Python 3.11 и 3.12) | устанавливает зависимости → **smoke** как быстрый гейт → **полный прогон** → сохраняет `allure-results` и pytest-html как artifacts |
+| `allure-report` | скачивает результаты, подтягивает историю прошлых прогонов, генерирует Allure-отчёт, пишет сводку в *Job summary* и публикует отчёт на GitHub Pages (только для `main`) |
+
+В отчёте на Pages есть графики трендов (history) и виджет Environment (BASE_URL, Python, коммит, ветка). В pull request отчёт доступен как artifact `allure-report`.
+
+### Однократная настройка GitHub Pages
+
+После первого успешного прогона на `main` в репозитории появится ветка `gh-pages`. Включите публикацию:
+**Settings → Pages → Source: Deploy from a branch → Branch: `gh-pages` / `(root)` → Save.**
+Отчёт откроется по адресу https://jekarevenko-byte.github.io/qa_api_tests/
 
 ## Зависимости
 
@@ -173,8 +202,7 @@ Matrix: Python 3.11 and 3.12.
 | `requests` | HTTP client |
 | `pydantic` | Response schema validation |
 | `faker` | Test data generation |
-| `pytest-html` | HTML test reports |
+| `pytest-html` | Простой HTML-отчёт |
+| `allure-pytest` | Allure-отчёты: шаги, вложения, severity |
 | `pytest-xdist` | Parallel test execution |
 | `python-dotenv` | Environment variable loading |
-
-

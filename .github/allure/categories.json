@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Network / timeout problems",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*(Timeout|ConnectionError|Max retries exceeded|Name or service not known).*"
+  },
+  {
+    "name": "Schema validation errors",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*(ValidationError|validation error).*"
+  },
+  {
+    "name": "Product defects (assertion failed)",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "Test defects (unexpected error in test code)",
+    "matchedStatuses": ["broken"]
+  },
+  {
+    "name": "Skipped tests",
+    "matchedStatuses": ["skipped"]
+  }
+]

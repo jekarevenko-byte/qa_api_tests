@@ -3,12 +3,16 @@ Integration test: end-to-end user ↔ posts flow.
 Verifies that cross-resource relationships are consistent.
 """
 
+import allure
 import pytest
 from src.clients import UsersClient, PostsClient
 from src.utils.assertions import assert_ok, assert_json, assert_list_not_empty
 
 
 @pytest.mark.regression
+@allure.epic("JSONPlaceholder API")
+@allure.feature("Integration")
+@allure.story("Cross-resource consistency checks")
 class TestUserPostsIntegration:
     """Cross-resource consistency checks."""
 
