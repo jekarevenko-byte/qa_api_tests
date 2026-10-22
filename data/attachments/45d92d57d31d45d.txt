@@ -1,0 +1,2 @@
+10:24:13 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Decision lawyer reveal American address.', 'body': 'Year fish institution whom pay. Glass day city American. Option artist degree thus major agree.'}
+10:24:13 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (18 ms)

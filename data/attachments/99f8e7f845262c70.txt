@@ -1,0 +1,2 @@
+10:24:13 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jennifer Williams', 'username': 'nbaker', 'email': 'tiffany00@example.org', 'phone': '(243)914-4202x11674', 'website': 'bond.net', 'address': {'street': 'Armstrong Ford', 'suite': 'Suite 904', 'city': 'Sarahfurt', 'zipcode': '81168'}, 'company': {'name': 'Kelley Ltd', 'catchPhrase': 'Visionary discrete workforce', 'bs': 'utilize frictionless ROI'}}
+10:24:13 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (21 ms)

@@ -1,0 +1,2 @@
+10:24:13 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Find order grow particularly.', 'body': 'Result degree that policy like. Hear development simple pick project direction. Sister since serious.'}
+10:24:13 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (19 ms)

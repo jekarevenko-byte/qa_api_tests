@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Laura Anderson",
+    "username": "emilyknight",
+    "email": "qa@example.com",
+    "phone": "(221)915-0617x577",
+    "website": "davis.biz",
+    "address": {
+      "street": "Katelyn Shore",
+      "suite": "Apt. 225",
+      "city": "West Bonnieside",
+      "zipcode": "11484"
+    },
+    "company": {
+      "name": "Brown, Tucker and Barajas",
+      "catchPhrase": "Open-architected encompassing protocol",
+      "bs": "matrix open-source infrastructures"
+    }
+  }
+}

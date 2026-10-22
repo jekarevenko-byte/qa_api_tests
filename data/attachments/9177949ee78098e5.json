@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 19,
+  "headers": {
+    "Date": "Thu, 22 Oct 2026 10:24:13 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "189",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"bd-UQ3f5khvxtOVFZnKNzn0q5xM1Ss\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1792665935",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=o6uoscjtvCfWHEjjVJ0JIYAhdApBm2MEIayf0jU714gPW8KrNcXl4iAIaRv5ff2m15Uboj%2Bo35MaXm3WUg9r6mxsZpANvwfMF0%2FWluIGizFnS8RMSLSy%2BDH5b%2Fg%2FBKwfi89JC6%2BJe7318UBKkWgH\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a4e7ca842900e605-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Find order grow particularly.",
+    "body": "Result degree that policy like. Hear development simple pick project direction. Sister since serious.",
+    "id": 101
+  }
+}

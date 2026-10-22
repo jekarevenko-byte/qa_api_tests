@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 20,
+  "headers": {
+    "Date": "Thu, 22 Oct 2026 10:24:13 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "457",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c9-UFmpQtsL3OrS2GnB5HqarMu+UHM\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1792665935",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=UdtpkCCuiTUPbIwmMDfta1DcDDWk8KKpQyYGdVQ3fLwhTJlQAM0Ybi4dFegxQx2tJl2F%2F%2FXlZ1Ym51pOirtCcktzbgpVjVc3AFr%2BAVfkv%2B2WtJFP8aHK3TgeVkGBBpqhHyriqKpPbuPVQVM6HNCz\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a4e7ca86cfb2c92c-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Laura Anderson",
+    "username": "emilyknight",
+    "email": "qa@example.com",
+    "phone": "(221)915-0617x577",
+    "website": "davis.biz",
+    "address": {
+      "street": "Katelyn Shore",
+      "suite": "Apt. 225",
+      "city": "West Bonnieside",
+      "zipcode": "11484"
+    },
+    "company": {
+      "name": "Brown, Tucker and Barajas",
+      "catchPhrase": "Open-architected encompassing protocol",
+      "bs": "matrix open-source infrastructures"
+    },
+    "id": 11
+  }
+}

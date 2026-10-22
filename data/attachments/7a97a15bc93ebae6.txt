@@ -1,0 +1,2 @@
+10:24:13 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Mrs. Mary Vincent', 'username': 'pjames', 'email': 'mcconnelltaylor@example.org', 'phone': '6333090293', 'website': 'bradshaw.biz', 'address': {'street': 'Christopher Squares', 'suite': 'Apt. 171', 'city': 'Deckerfurt', 'zipcode': '15725'}, 'company': {'name': 'Cameron-Mckinney', 'catchPhrase': 'Multi-channeled exuding methodology', 'bs': 'extend distributed paradigms'}}
+10:24:13 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (21 ms)

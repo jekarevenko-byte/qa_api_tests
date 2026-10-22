@@ -1,0 +1,2 @@
+10:24:13 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'maryfritz', 'email': 'flynnallison@example.org', 'phone': '+1-916-322-1432x458', 'website': 'best-murphy.com', 'address': {'street': 'Keith Club', 'suite': 'Suite 291', 'city': 'Jennifermouth', 'zipcode': '76697'}, 'company': {'name': 'Kane, Joseph and King', 'catchPhrase': 'Focused tangible installation', 'bs': 'integrate dynamic networks'}}
+10:24:13 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (30 ms)
