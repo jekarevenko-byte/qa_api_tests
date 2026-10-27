@@ -48,7 +48,7 @@ jobs:
 
       - name: Upload Allure results
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: allure-results-py${{ matrix.python-version }}
           path: allure-results
@@ -57,7 +57,7 @@ jobs:
 
       - name: Upload HTML report (pytest-html)
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: test-report-py${{ matrix.python-version }}
           path: reports/report.html
@@ -134,7 +134,7 @@ jobs:
           fi
 
       - name: Upload Allure report
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: allure-report
           path: allure-report
