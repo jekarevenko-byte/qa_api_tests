@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 81,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:16:51 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "451",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c3-S+uCr+o7M1Ma1whE21UGR0JPzKw\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=wK65io65CmgHPvgdfE38IUtqlWZGkSSU5dh9%2FLu6gsNOIxnZObKtXN%2FbTfHclwwOlX8VWkj45KgE4COrvxB0Vt5ZyFY3GCqSyuYRm5f6KExRAXj9%2BIpNQa9ZddKK5A%2FKr1C8gus9r4RhhSbN%2Fr4D\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51042d32e919236-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "David White",
+    "username": "hinesronald",
+    "email": "huntmike@example.org",
+    "phone": "(572)637-8738x74283",
+    "website": "savage.com",
+    "address": {
+      "street": "Aaron Valleys",
+      "suite": "Apt. 463",
+      "city": "North Michael",
+      "zipcode": "89832"
+    },
+    "company": {
+      "name": "Palmer-Wright",
+      "catchPhrase": "Managed stable open architecture",
+      "bs": "disintermediate next-generation e-commerce"
+    },
+    "id": 11
+  }
+}

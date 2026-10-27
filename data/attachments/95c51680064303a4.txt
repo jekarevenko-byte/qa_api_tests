@@ -1,2 +1,0 @@
-08:16:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Heather Lee', 'username': 'zcruz', 'email': 'qa@example.com', 'phone': '739.833.5167x34521', 'website': 'white.biz', 'address': {'street': 'Thompson Mews', 'suite': 'Suite 472', 'city': 'Stevenmouth', 'zipcode': '34586'}, 'company': {'name': 'Lopez, Salazar and Solomon', 'catchPhrase': 'Optional maximized software', 'bs': 'streamline dot-com metrics'}}
-08:16:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (44 ms)

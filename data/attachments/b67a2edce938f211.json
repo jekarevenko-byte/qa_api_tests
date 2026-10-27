@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 85,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:16:50 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "187",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"bb-SwICko16OZGEmpuHZXWCJiS+KF4\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dvEC2pCHxugZKWR1q4M1GPS5zStbpzZdMl91ECy7mXCAjeSQkciwJ%2FSDuHDjev6bwSQQPtd4nUoVFdQ9SsIkt7eG69PD8KsNtU2Xbxft9l6GvjHtdJ%2FACFGTsjmgqX3Lnk8uJGZ8MF1FG%2FWS6gSa\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51042cd2a5f76c2-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "At employee together officer well break.",
+    "body": "Method under though easy participant of crime herself. Wife theory responsibility mouth.",
+    "id": 101
+  }
+}

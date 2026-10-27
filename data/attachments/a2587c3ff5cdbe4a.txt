@@ -1,2 +1,0 @@
-08:16:17 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Tree team market mother assume.', 'body': 'Realize herself mind. Industry if Mrs your.'}
-08:16:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (41 ms)

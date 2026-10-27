@@ -1,2 +1,0 @@
-08:16:17 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Cost exist artist deep again end before. Case young might southern south plan at power. Too very now where.'}
-08:16:17 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (82 ms)

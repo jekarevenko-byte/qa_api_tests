@@ -1,0 +1,2 @@
+08:16:50 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'At employee together officer well break.', 'body': 'Method under though easy participant of crime herself. Wife theory responsibility mouth.'}
+08:16:50 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (85 ms)

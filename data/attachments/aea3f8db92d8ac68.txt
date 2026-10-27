@@ -1,2 +1,0 @@
-08:16:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'garciamisty', 'email': 'ochoawilliam@example.com', 'phone': '279.513.3990', 'website': 'carroll.com', 'address': {'street': 'Frederick Ridge', 'suite': 'Suite 828', 'city': 'Port Susan', 'zipcode': '75155'}, 'company': {'name': 'Murphy-Alvarado', 'catchPhrase': 'Optimized secondary frame', 'bs': 'target turn-key partnerships'}}
-08:16:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (40 ms)

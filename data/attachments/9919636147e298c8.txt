@@ -1,0 +1,2 @@
+08:16:50 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Light church most pick court against. Size capital key benefit attack.'}
+08:16:51 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (218 ms)

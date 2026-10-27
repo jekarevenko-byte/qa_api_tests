@@ -1,0 +1,2 @@
+08:16:51 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'David White', 'username': 'hinesronald', 'email': 'huntmike@example.org', 'phone': '(572)637-8738x74283', 'website': 'savage.com', 'address': {'street': 'Aaron Valleys', 'suite': 'Apt. 463', 'city': 'North Michael', 'zipcode': '89832'}, 'company': {'name': 'Palmer-Wright', 'catchPhrase': 'Managed stable open architecture', 'bs': 'disintermediate next-generation e-commerce'}}
+08:16:51 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (81 ms)

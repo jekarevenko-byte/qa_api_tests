@@ -1,2 +1,0 @@
-08:16:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Michael Powell', 'username': 'kayla26', 'email': 'rmahoney@example.org', 'phone': '001-905-905-3877x607', 'website': 'jackson-lewis.info', 'address': {'street': 'Rebecca Rest', 'suite': 'Apt. 967', 'city': 'Davidville', 'zipcode': '09605'}, 'company': {'name': 'Medina Inc', 'catchPhrase': 'User-centric executive monitoring', 'bs': 'grow extensible experiences'}}
-08:16:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (41 ms)

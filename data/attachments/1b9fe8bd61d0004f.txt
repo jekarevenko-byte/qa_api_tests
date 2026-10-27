@@ -1,0 +1,2 @@
+08:16:51 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Age population true not image community. Though meet lot power could figure wife. Middle type notice phone.'}
+08:16:51 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (101 ms)

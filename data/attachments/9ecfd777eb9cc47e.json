@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 83,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:16:52 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "423",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1a7-nSP8wVy3xkYQKr+QuMfDcqQoSXU\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=flaRc1D68fKQmWK15TqkP%2BIgUqE2AqJsJcP%2FFqtgxLaVXsg3VPNmOV86PNcJRlJr31Vzzb5qlWP%2FuOMCOVbM3s%2B11GDAegy3bPp3VjL9jzwLOyZmOrNzUXxrtLwcTDhM5LMsLnC7B1%2FmNTn0RuIu\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51042d4bb3a9236-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Levi Delgado",
+    "username": "tracymiller",
+    "email": "qa@example.com",
+    "phone": "352.315.4779x19820",
+    "website": "hampton-taylor.com",
+    "address": {
+      "street": "Smith Trail",
+      "suite": "Suite 803",
+      "city": "Port Jacob",
+      "zipcode": "81031"
+    },
+    "company": {
+      "name": "Edwards LLC",
+      "catchPhrase": "Seamless secondary analyzer",
+      "bs": "mesh cross-media models"
+    },
+    "id": 11
+  }
+}

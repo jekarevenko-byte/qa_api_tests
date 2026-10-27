@@ -1,2 +1,0 @@
-08:16:17 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'At measure accept generation raise job clear probably.', 'body': 'Prepare question sell can raise make report. Wonder key sister this open on person.'}
-08:16:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (41 ms)
