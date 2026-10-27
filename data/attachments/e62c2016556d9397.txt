@@ -1,2 +1,0 @@
-10:24:13 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'coreylee', 'email': 'richardsellers@example.com', 'phone': '603-571-6667x20899', 'website': 'jenkins.com', 'address': {'street': 'Stephanie Lane', 'suite': 'Apt. 867', 'city': 'New Joshuashire', 'zipcode': '77470'}, 'company': {'name': 'White, Welch and Hahn', 'catchPhrase': 'Extended composite conglomeration', 'bs': 'synthesize vertical niches'}}
-10:24:13 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (19 ms)

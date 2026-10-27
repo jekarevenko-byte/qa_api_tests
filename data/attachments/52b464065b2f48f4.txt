@@ -1,0 +1,2 @@
+08:06:04 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Melanie Simmons', 'username': 'smcneil', 'email': 'nicholasmartinez@example.net', 'phone': '524.831.1166', 'website': 'cisneros.com', 'address': {'street': 'Garcia Mountain', 'suite': 'Suite 145', 'city': 'Payneborough', 'zipcode': '42248'}, 'company': {'name': 'Wilson LLC', 'catchPhrase': 'Digitized high-level concept', 'bs': 'maximize innovative bandwidth'}}
+08:06:04 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (81 ms)

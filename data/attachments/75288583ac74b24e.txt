@@ -1,2 +1,0 @@
-10:24:13 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Laura Anderson', 'username': 'emilyknight', 'email': 'qa@example.com', 'phone': '(221)915-0617x577', 'website': 'davis.biz', 'address': {'street': 'Katelyn Shore', 'suite': 'Apt. 225', 'city': 'West Bonnieside', 'zipcode': '11484'}, 'company': {'name': 'Brown, Tucker and Barajas', 'catchPhrase': 'Open-architected encompassing protocol', 'bs': 'matrix open-source infrastructures'}}
-10:24:13 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (20 ms)

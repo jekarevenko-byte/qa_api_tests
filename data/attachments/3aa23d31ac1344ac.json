@@ -1,0 +1,35 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 203,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:04 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"6f-yERZj5+dLe3sc5PcWRb04jjvQ4k\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599994",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=TU7UVl0Usp8EJmImpTCr%2Bbhw0dZfpym0j7F818FZ0tsV1qv3xqiIu%2BPNbLn%2Bd1P3Mn2lCrZUrcPR57kc90tjZgLazY9iGL%2FUA7QgZnylVdZzbQEeNMBO8x7%2FKC8ZXc53MvrmeOchTaokA8pUjw4n\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5103303293f2283-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Updated",
+    "body": "Meet speech it. Rather data charge may meeting.",
+    "id": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 81,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:04 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "84",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"54-Q4F0v0m61Un0oWEeXiw5MSpLUk4\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599995",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=HcpXH5wtD%2B5KXMHHB2zAEG2jTYa87pTmgFhryktsEn%2BF6fRKaZeysxoRycRjePdG2O5Y%2F6%2FoFb4S%2BUSZ0nVmty94x9QoYV0N357oshKaz2FoWdpsz%2Bq1ag5ZpVqZa9%2F5PowiaynB3ikHmlP0L2xr\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5103302a8a92283-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 3,
+    "title": "My QA Title",
+    "body": "Some body text",
+    "id": 101
+  }
+}

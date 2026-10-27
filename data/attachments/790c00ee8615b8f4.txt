@@ -1,0 +1,2 @@
+08:06:04 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Dennis Garrett', 'username': 'philip73', 'email': 'jameshart@example.net', 'phone': '418.411.0535x73595', 'website': 'morris.com', 'address': {'street': 'Miller Garden', 'suite': 'Apt. 174', 'city': 'Port Lisa', 'zipcode': '95630'}, 'company': {'name': 'Bryant-Young', 'catchPhrase': 'Pre-emptive even-keeled pricing structure', 'bs': 'aggregate leading-edge web services'}}
+08:06:04 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (80 ms)
