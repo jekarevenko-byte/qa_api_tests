@@ -1,0 +1,2 @@
+08:07:16 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Board player visit. Keep report stuff enough.'}
+08:07:16 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (34 ms)

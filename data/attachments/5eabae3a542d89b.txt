@@ -1,2 +1,0 @@
-08:06:52 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Matthew Murray', 'username': 'hurleyjanet', 'email': 'rtate@example.org', 'phone': '650-588-3260x11306', 'website': 'holloway-owens.com', 'address': {'street': 'Mclaughlin Pine', 'suite': 'Suite 650', 'city': 'Janetshire', 'zipcode': '95999'}, 'company': {'name': 'Smith, Matthews and Gutierrez', 'catchPhrase': 'Customizable multi-state array', 'bs': 'transition 24/365 markets'}}
-08:06:52 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (82 ms)

@@ -1,2 +1,0 @@
-08:06:51 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Most paper outside half offer build morning.', 'body': 'Easy time meet summer. Table degree the power support.'}
-08:06:51 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (92 ms)

@@ -1,0 +1,2 @@
+08:07:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Dr. Nicholas White', 'username': 'dunnmadison', 'email': 'nicole75@example.net', 'phone': '(570)839-9465', 'website': 'smith.biz', 'address': {'street': 'Anthony Road', 'suite': 'Suite 139', 'city': 'Port Traceyville', 'zipcode': '79017'}, 'company': {'name': 'Nichols Group', 'catchPhrase': 'Pre-emptive coherent service-desk', 'bs': 'orchestrate magnetic communities'}}
+08:07:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (38 ms)

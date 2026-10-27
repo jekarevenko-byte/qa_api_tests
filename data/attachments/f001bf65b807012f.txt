@@ -1,2 +1,0 @@
-08:06:51 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Decide size hit whose project mission. Type establish head level chair.'}
-08:06:51 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (215 ms)

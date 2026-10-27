@@ -1,0 +1,2 @@
+08:07:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Richard Hernandez', 'username': 'johnsonaustin', 'email': 'qa@example.com', 'phone': '001-979-892-3908x8184', 'website': 'miller.com', 'address': {'street': 'Kenneth Valleys', 'suite': 'Suite 876', 'city': 'New Brookehaven', 'zipcode': '73318'}, 'company': {'name': 'Warren LLC', 'catchPhrase': 'Stand-alone optimal strategy', 'bs': 'utilize front-end platforms'}}
+08:07:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (37 ms)

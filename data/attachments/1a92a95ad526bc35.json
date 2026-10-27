@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 93,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:07:17 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c2-gIvErHF+P5WAeL2hpn9dwB3WNNs\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=rYnveagDKcNbJkcxaQEioCcnFMLA%2Fb7b19lt%2BioEKh%2B%2BkBPUbJjgj%2BoYN7%2B4pMNTHUscYwafRueTxgKN1phwLB6hteYJTsC5pTQy%2B%2BNZDKDMFsPYWhiVOWPPGNjUwIg9w%2Ffaw7sXYKKBfK65BaMM\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a51034cd0cd9e108-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "shawn37",
+    "email": "hamptonthomas@example.com",
+    "phone": "955.729.3099",
+    "website": "davis-young.net",
+    "address": {
+      "street": "Christina Drives",
+      "suite": "Apt. 222",
+      "city": "North Vernonhaven",
+      "zipcode": "17044"
+    },
+    "company": {
+      "name": "Griffith, White and Park",
+      "catchPhrase": "Ergonomic discrete website",
+      "bs": "syndicate one-to-one synergies"
+    },
+    "id": 1
+  }
+}

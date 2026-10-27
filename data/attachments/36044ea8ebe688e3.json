@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 42,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:07:17 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1ae-lvUpd0cq7IiSXjNX0zLHJesUVAE\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=MCW8lMiH1d2dWnvvxlC67SF2XqV8ZaKBKXlmHHCUX8ppr1uVfQIA96UOrnmiKvTjQQH4kkAnc1RLNau%2FRUhmcf6wGAI0relB0GqghssxHUt5QVRgg58Nl%2BwoZ8Ofb6vp%2Fpir4p9onZmZr8yGFw51\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a51034cdad3ce108-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "alexis37",
+    "email": "diazmalik@example.net",
+    "phone": "508-689-9165",
+    "website": "stewart.com",
+    "address": {
+      "street": "Young Branch",
+      "suite": "Suite 478",
+      "city": "East Gordonmouth",
+      "zipcode": "37379"
+    },
+    "company": {
+      "name": "Dominguez PLC",
+      "catchPhrase": "Balanced high-level utilization",
+      "bs": "mesh web-enabled interfaces"
+    },
+    "id": 1
+  }
+}

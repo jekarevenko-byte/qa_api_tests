@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 35,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:07:16 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "176",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"b0-4kNLQV1g01M0D8DoC2S5QteUKgQ\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tbADi6p0yZJjOqFcdrXYhTfmUkx4yoJ%2F%2FcFt9bklNMgOdaB6j1XEsqNvSNt%2FWOeuW7EffFyxdP%2BeXYe6UI22OCO697P5LZMAYUQsobvhp0q6QwA8DiQ7RJRDM8k5l0XHs1v4%2FQI9nDcSkTTqFVzK\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51034c8ef1010e4-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Fast morning enter life entire skin sure.",
+    "body": "We sense hair tell able. Hard figure dream rate almost. Go bank forward why.",
+    "id": 101
+  }
+}

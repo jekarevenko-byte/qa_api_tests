@@ -1,0 +1,35 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 34,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:07:16 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"73-ryQcywu36D7tM8nBqkjUAf9rlMQ\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599993",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=B1zpQENbUDXS7DKy%2B9WANGXKfmikjRvDafcERE5bNm0E9eALrJSiUZAPMKdmyNmPR%2BD1KGoCc3u8IVynlR8%2FWVk2UGkZW0i%2FYiadp4SF1nxcaf3FyQPa3s9XmSOwm%2B0lWwsKDWZLpgTtSlmKtP%2Fx\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a51034ca2ff910e4-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Updated Title",
+    "body": "Board player visit. Keep report stuff enough.",
+    "id": 1
+  }
+}

@@ -1,2 +1,0 @@
-08:06:52 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Sarah Nelson', 'username': 'johnsonstanley', 'email': 'qa@example.com', 'phone': '+1-714-980-9746x8515', 'website': 'scott.biz', 'address': {'street': 'Garcia Inlet', 'suite': 'Apt. 428', 'city': 'Port Samanthastad', 'zipcode': '73226'}, 'company': {'name': 'Robinson, Martin and Smith', 'catchPhrase': 'Focused impactful encryption', 'bs': 'seize proactive convergence'}}
-08:06:52 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (79 ms)

@@ -1,0 +1,2 @@
+08:07:16 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Fast morning enter life entire skin sure.', 'body': 'We sense hair tell able. Hard figure dream rate almost. Go bank forward why.'}
+08:07:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (35 ms)

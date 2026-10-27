@@ -1,0 +1,2 @@
+08:07:16 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'But morning degree example space.', 'body': 'Far them win picture possible water ready good. Hope at follow glass financial themselves body break. Listen type drop director wear.'}
+08:07:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (34 ms)
