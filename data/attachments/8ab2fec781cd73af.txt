@@ -1,2 +1,0 @@
-08:09:38 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Pick about one reveal enough turn. Fire price east scene. Seat if practice long move apply within. Several lead item cultural job lawyer trial.'}
-08:09:38 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (23 ms)

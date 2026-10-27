@@ -1,0 +1,2 @@
+08:16:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Danielle Patterson', 'username': 'hlopez', 'email': 'zgrimes@example.net', 'phone': '(765)238-8177x221', 'website': 'bryant.org', 'address': {'street': 'Christopher Keys', 'suite': 'Apt. 453', 'city': 'New Johntown', 'zipcode': '71574'}, 'company': {'name': 'Morrow and Sons', 'catchPhrase': 'Mandatory reciprocal matrices', 'bs': 'harness vertical e-services'}}
+08:16:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (43 ms)

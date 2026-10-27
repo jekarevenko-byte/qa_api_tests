@@ -1,0 +1,2 @@
+08:16:17 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Image it chair popular. Accept Mr quickly himself over. Rock real full off different.'}
+08:16:17 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (38 ms)

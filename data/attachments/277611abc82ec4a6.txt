@@ -1,2 +1,0 @@
-08:09:38 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Smile similar blue state.', 'body': 'Source four quickly new direction thank. Provide chair range life organization send win yard. Bed score technology order lead. Style rise establish different education east better.'}
-08:09:38 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (20 ms)

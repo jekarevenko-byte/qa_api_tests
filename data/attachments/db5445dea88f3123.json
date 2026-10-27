@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "marioguzman",
+    "email": "amydunlap@example.org",
+    "phone": "(462)536-7842x87566",
+    "website": "hooper-mason.com",
+    "address": {
+      "street": "Walker Canyon",
+      "suite": "Apt. 337",
+      "city": "Jenkinsland",
+      "zipcode": "99939"
+    },
+    "company": {
+      "name": "Price-Harris",
+      "catchPhrase": "Realigned 24hour superstructure",
+      "bs": "visualize value-added deliverables"
+    }
+  }
+}

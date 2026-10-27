@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 97,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:16:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bf-EFPpj0/6HAEDcez3nW/FUOfLOGQ\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6KnWJ5PemkRUJlWEXrrHVCjSmhP5wj67TD%2BetGrAzbvTHcUefhtR7qcQNUUz0cMISMt2Rn9%2BHhdXCohvXEJAcKN9l4yUhzFStyjvU5ajZJ1c%2BU9hHHQhWUu2y%2BSOIjbmHzyskocmSeRvMobAkcg0\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a51042016c06dacc-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "jschwartz",
+    "email": "pamela99@example.org",
+    "phone": "001-221-392-2083",
+    "website": "shaw-jackson.net",
+    "address": {
+      "street": "Jacob Club",
+      "suite": "Apt. 064",
+      "city": "East Melissaborough",
+      "zipcode": "43581"
+    },
+    "company": {
+      "name": "Collins-Page",
+      "catchPhrase": "Fully-configurable solution-oriented extranet",
+      "bs": "deploy back-end models"
+    },
+    "id": 1
+  }
+}
