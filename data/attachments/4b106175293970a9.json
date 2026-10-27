@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 16,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:45:47 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c3-7bcDXi2m4iOqKL0flf0m0b2+qFc\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599983",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=89zc8%2B4l7D5%2FDapltaKG3mfiASY5v1mPphfLQoOUr80mzFghi%2BpX%2FJ5DCgzDriZG5iSsreLhWQ2z35MGtbP7TcTEEJN26OsGLdKGwE9dV%2BN7LVSO5SMzDPhvdqgoiThGRw7knrzHEG1oVG2RKAG%2F\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5106d361c3d7c97-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "davidcamacho",
+    "email": "rachel32@example.org",
+    "phone": "821-404-3766x731",
+    "website": "douglas-vargas.info",
+    "address": {
+      "street": "Anderson Junction",
+      "suite": "Suite 506",
+      "city": "East Patrickmouth",
+      "zipcode": "42781"
+    },
+    "company": {
+      "name": "Scott and Sons",
+      "catchPhrase": "Virtual demand-driven array",
+      "bs": "embrace turn-key methodologies"
+    },
+    "id": 1
+  }
+}

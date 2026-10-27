@@ -1,0 +1,2 @@
+08:45:47 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Pick watch short official.'}
+08:45:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (20 ms)

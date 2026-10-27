@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "natalienorton",
+    "email": "andreawalsh@example.com",
+    "phone": "+1-634-713-9384x9425",
+    "website": "coleman.net",
+    "address": {
+      "street": "Beard Streets",
+      "suite": "Apt. 586",
+      "city": "Gregorytown",
+      "zipcode": "60333"
+    },
+    "company": {
+      "name": "Jordan Group",
+      "catchPhrase": "Realigned heuristic projection",
+      "bs": "incubate best-of-breed deliverables"
+    }
+  }
+}

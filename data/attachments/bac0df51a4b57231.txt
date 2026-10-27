@@ -1,2 +1,0 @@
-08:17:18 [INFO] GET https://jsonplaceholder.typicode.com/posts/1/comments | params=None body=None
-08:17:18 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1/comments  (16 ms)

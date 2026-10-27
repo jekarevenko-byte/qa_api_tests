@@ -1,2 +1,0 @@
-08:17:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'estark', 'email': 'hcantrell@example.com', 'phone': '9777323531', 'website': 'crawford.com', 'address': {'street': 'Michael Lock', 'suite': 'Suite 555', 'city': 'South Briantown', 'zipcode': '43199'}, 'company': {'name': 'Johnson-Faulkner', 'catchPhrase': 'Adaptive 24/7 monitoring', 'bs': 'engage cross-media technologies'}}
-08:17:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (54 ms)

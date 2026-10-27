@@ -1,2 +1,0 @@
-08:17:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'William David', 'username': 'cochranbrandon', 'email': 'qa@example.com', 'phone': '(633)234-7973x5090', 'website': 'nunez.info', 'address': {'street': 'Lara Ramp', 'suite': 'Apt. 760', 'city': 'Lake Meganton', 'zipcode': '47671'}, 'company': {'name': 'Watkins and Sons', 'catchPhrase': 'Decentralized leadingedge hierarchy', 'bs': 'empower turn-key communities'}}
-08:17:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (54 ms)

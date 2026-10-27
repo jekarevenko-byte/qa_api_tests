@@ -1,0 +1,2 @@
+08:45:47 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Now production stage relationship economy indeed financial.', 'body': 'Continue computer window arm. Society hope foot full fill. Give national his raise any. Edge special five line mouth organization president.'}
+08:45:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (18 ms)

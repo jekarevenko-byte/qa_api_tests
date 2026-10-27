@@ -1,0 +1,2 @@
+08:45:47 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Brian Blake', 'username': 'joanna48', 'email': 'stacey22@example.com', 'phone': '+1-409-898-9996', 'website': 'page.com', 'address': {'street': 'Hernandez Glen', 'suite': 'Apt. 875', 'city': 'Shelbystad', 'zipcode': '32693'}, 'company': {'name': 'Weaver-Ibarra', 'catchPhrase': 'Balanced discrete open system', 'bs': 'reinvent scalable convergence'}}
+08:45:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (18 ms)

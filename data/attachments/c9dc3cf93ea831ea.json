@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 22,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:45:47 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "158",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"9e-d9OQnBvI9Ne82eZGUlKQj3GTTR0\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=UQdrKOwIilSBsQGJw1DoqgQ74jc8iAe6IHjMzGD7Xu2kDn239SHUZOCtpGF2kd35BbcWXXMnWHJC%2BZ4Xsxg5n%2F7wcIv4%2Ft%2FUYqWAHyWLLi1mvAGj7eskjJkc3xz0mWiMBx%2Fu1ZPrywkVGDuL8jtw\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5106d3329d36695-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Inside face event occur.",
+    "body": "Education area thousand finish everybody become. Both green major somebody.",
+    "id": 101
+  }
+}

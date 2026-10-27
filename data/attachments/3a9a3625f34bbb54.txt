@@ -1,0 +1,2 @@
+08:45:47 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'njones', 'email': 'brittany49@example.net', 'phone': '551-612-1388', 'website': 'rice.info', 'address': {'street': 'Luna Lodge', 'suite': 'Apt. 567', 'city': 'East Brady', 'zipcode': '25414'}, 'company': {'name': 'Saunders-Smith', 'catchPhrase': 'Front-line modular moratorium', 'bs': 'e-enable B2B initiatives'}}
+08:45:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (16 ms)
