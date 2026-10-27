@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 81,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:07:42 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "149",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"95-7Dw+2y83/OgtAYOnd+1cPNjHkJQ\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Z3NeCKKXlxyRXKRbrGnvOOKyC9zU72gQTe5dAc8bxtdxH%2BpAGTIWLTaA302SEvUwxhJlsOhosQOPuRFceyvIwtFUsIE2rbew5T%2F7JBPXs02Zl3L24qIxCgT%2FZpBUCphlRhub8ve0tbjrf8ZCe855\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a510356aee00710a-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Wish degree cost data.",
+    "body": "List expert perform enjoy must. Reach everybody method subject week.",
+    "id": 101
+  }
+}

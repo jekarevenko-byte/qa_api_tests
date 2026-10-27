@@ -1,2 +1,0 @@
-08:07:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'gibsonzachary', 'email': 'victoriapowell@example.com', 'phone': '235-827-3931', 'website': 'hill-kelly.com', 'address': {'street': 'James Stravenue', 'suite': 'Apt. 420', 'city': 'West Jeffrey', 'zipcode': '54839'}, 'company': {'name': 'Fowler-Marshall', 'catchPhrase': 'Devolved multimedia service-desk', 'bs': 'optimize virtual functionalities'}}
-08:07:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (37 ms)

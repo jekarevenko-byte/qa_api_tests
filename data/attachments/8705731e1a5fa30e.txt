@@ -1,0 +1,2 @@
+08:07:43 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'ssims', 'email': 'fstevens@example.com', 'phone': '555.378.5641x6693', 'website': 'hicks.com', 'address': {'street': 'Nelson Ford', 'suite': 'Apt. 173', 'city': 'Payneton', 'zipcode': '85217'}, 'company': {'name': 'Dillon, Montgomery and Joseph', 'catchPhrase': 'Vision-oriented systemic time-frame', 'bs': 'morph ubiquitous bandwidth'}}
+08:07:43 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (92 ms)

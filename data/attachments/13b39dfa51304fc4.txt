@@ -1,0 +1,2 @@
+08:07:43 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Leah Ashley', 'username': 'phamcrystal', 'email': 'david29@example.com', 'phone': '847-806-0973', 'website': 'moran.com', 'address': {'street': 'Jennings Branch', 'suite': 'Apt. 054', 'city': 'West Gregory', 'zipcode': '11204'}, 'company': {'name': 'Patel, Bailey and Wilcox', 'catchPhrase': 'Persistent well-modulated software', 'bs': 'e-enable cutting-edge info-mediaries'}}
+08:07:43 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (99 ms)

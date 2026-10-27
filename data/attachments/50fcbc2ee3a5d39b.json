@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 92,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:07:43 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "439",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b7-PRbHvA+T+EQzg/p7b/CXoRU4L5w\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=X43IAKjNqrRYbKOZw0xGh0Rz4mb7fQ6tbnwijylsunUJ%2F1kdNhKCcb811m1%2BsuTR5k7S3wc%2FQeAa%2BiLTId5c0dCEnGKgX9T2dI8y%2F1Gtfj3J1JrZ8R%2F9mUh4rmUT5TLV%2Bjf%2BdMp1qdmAVY3%2Fe3fb\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5103571e92dfb3e-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "ssims",
+    "email": "fstevens@example.com",
+    "phone": "555.378.5641x6693",
+    "website": "hicks.com",
+    "address": {
+      "street": "Nelson Ford",
+      "suite": "Apt. 173",
+      "city": "Payneton",
+      "zipcode": "85217"
+    },
+    "company": {
+      "name": "Dillon, Montgomery and Joseph",
+      "catchPhrase": "Vision-oriented systemic time-frame",
+      "bs": "morph ubiquitous bandwidth"
+    },
+    "id": 11
+  }
+}

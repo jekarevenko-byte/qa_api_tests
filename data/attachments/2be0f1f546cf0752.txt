@@ -1,0 +1,2 @@
+08:07:43 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Courtney Sullivan', 'username': 'felicia74', 'email': 'barbarabrown@example.com', 'phone': '(979)334-7502', 'website': 'ortiz.com', 'address': {'street': 'Ashley Lodge', 'suite': 'Suite 259', 'city': 'East Jeffreyport', 'zipcode': '29356'}, 'company': {'name': 'Haney-Hatfield', 'catchPhrase': 'Synchronized multi-tasking pricing structure', 'bs': 'brand enterprise web services'}}
+08:07:43 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (102 ms)

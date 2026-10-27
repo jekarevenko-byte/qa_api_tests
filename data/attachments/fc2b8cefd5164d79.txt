@@ -1,0 +1,2 @@
+08:07:42 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Finally discussion and join social. In president dinner opportunity reality newspaper glass.'}
+08:07:42 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (80 ms)

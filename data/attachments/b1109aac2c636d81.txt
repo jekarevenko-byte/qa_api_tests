@@ -1,2 +1,0 @@
-08:07:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Melissa Robinson', 'username': 'mitchelldan', 'email': 'johnscott@example.net', 'phone': '(482)873-0002x2977', 'website': 'james.com', 'address': {'street': 'Raymond Harbor', 'suite': 'Apt. 639', 'city': 'East Meganport', 'zipcode': '06301'}, 'company': {'name': 'Johnson-Colon', 'catchPhrase': 'Cross-platform analyzing algorithm', 'bs': 'monetize synergistic e-business'}}
-08:07:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (35 ms)

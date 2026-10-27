@@ -1,0 +1,2 @@
+08:07:42 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Wish degree cost data.', 'body': 'List expert perform enjoy must. Reach everybody method subject week.'}
+08:07:42 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (81 ms)
