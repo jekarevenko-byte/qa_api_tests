@@ -1,0 +1,2 @@
+08:09:09 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Yeah lose investment relationship foreign star four lead.', 'body': 'Glass sing know step own. Similar rock discussion do. Dog argue son behind.'}
+08:09:09 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (215 ms)

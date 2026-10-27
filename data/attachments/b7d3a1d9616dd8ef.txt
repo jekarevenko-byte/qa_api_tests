@@ -1,2 +1,0 @@
-08:07:42 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Brother middle fund final population win guy compare. Tough land sound mind collection. Since authority serve bring serve worry. Beyond often later too.'}
-08:07:42 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (81 ms)

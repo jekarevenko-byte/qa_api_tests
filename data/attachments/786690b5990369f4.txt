@@ -1,2 +1,0 @@
-08:07:42 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Capital seven either.', 'body': 'Room growth wear. Establish community establish situation save thing might. Take effort task. Lot different identify grow news modern example.'}
-08:07:42 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (79 ms)

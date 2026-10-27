@@ -1,2 +1,0 @@
-08:07:43 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Perry Peterson', 'username': 'shepherdanita', 'email': 'qa@example.com', 'phone': '678-842-7483', 'website': 'richardson-castillo.biz', 'address': {'street': 'Kathleen Courts', 'suite': 'Apt. 280', 'city': 'North Daniellefort', 'zipcode': '15881'}, 'company': {'name': 'Goodman Ltd', 'catchPhrase': 'Horizontal heuristic hierarchy', 'bs': 'incubate turn-key eyeballs'}}
-08:07:43 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (88 ms)

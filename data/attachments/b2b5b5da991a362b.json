@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 87,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:09:10 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "453",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c5-LwylSjm//JF9NLWZYei3kP3yRmI\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Nt3QpNwMEQKArEva0Px3YChO4fLBbLWO9jMfb%2BjOChvQSrT79XvJjv7ucoPGOQkVeLoryHg2Ck4KaM5gy1FpDZwtu%2FVpUlZ9I1JLy9Kt47Z0ui%2BmE4hrOzNeYQ958N%2BQbIv9F2zUP0KIZdxZBIWS\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51037929c86ca15-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Natalie Johnson",
+    "username": "eringonzales",
+    "email": "qa@example.com",
+    "phone": "+1-664-798-9410x10557",
+    "website": "solis-gonzalez.com",
+    "address": {
+      "street": "Harper Locks",
+      "suite": "Suite 840",
+      "city": "North Anthonyport",
+      "zipcode": "02817"
+    },
+    "company": {
+      "name": "Caldwell-Ortiz",
+      "catchPhrase": "Expanded reciprocal function",
+      "bs": "integrate world-class technologies"
+    },
+    "id": 11
+  }
+}

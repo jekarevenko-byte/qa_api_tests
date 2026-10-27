@@ -1,0 +1,2 @@
+08:09:10 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'zimmermanjoshua', 'email': 'jessicalong@example.com', 'phone': '214-980-5051x7450', 'website': 'ortiz.org', 'address': {'street': 'Michael Underpass', 'suite': 'Suite 712', 'city': 'Jenniferhaven', 'zipcode': '95489'}, 'company': {'name': 'Smith-Miller', 'catchPhrase': 'Optional homogeneous concept', 'bs': 'integrate proactive action-items'}}
+08:09:10 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (85 ms)

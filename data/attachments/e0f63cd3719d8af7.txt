@@ -1,0 +1,2 @@
+08:09:10 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Randall Boyd', 'username': 'houstonmeghan', 'email': 'davisjamie@example.net', 'phone': '001-298-550-5843x9989', 'website': 'johnson.com', 'address': {'street': 'Elizabeth Estate', 'suite': 'Suite 203', 'city': 'Harrisbury', 'zipcode': '38789'}, 'company': {'name': 'Alvarado Inc', 'catchPhrase': 'Cross-platform 6thgeneration strategy', 'bs': 'synergize scalable methodologies'}}
+08:09:10 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (87 ms)
