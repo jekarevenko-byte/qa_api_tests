@@ -1,2 +1,0 @@
-08:06:33 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Turn house sign wind source dog.', 'body': 'Agreement scene property. Sport stand purpose difficult big from. Executive live everything strong mission.'}
-08:06:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (55 ms)

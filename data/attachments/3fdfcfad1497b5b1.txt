@@ -1,0 +1,2 @@
+08:06:51 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Agent call everything plant summer like police between.', 'body': 'Against west option sit attorney. Strategy Mrs through possible community friend morning.'}
+08:06:51 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (90 ms)

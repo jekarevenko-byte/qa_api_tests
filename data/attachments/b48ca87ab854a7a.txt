@@ -1,0 +1,2 @@
+08:06:52 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'jatkinson', 'email': 'richmondjason@example.net', 'phone': '+1-676-804-6693x249', 'website': 'kim.net', 'address': {'street': 'Martinez Knoll', 'suite': 'Apt. 554', 'city': 'Emilyfort', 'zipcode': '56379'}, 'company': {'name': 'Lyons-Morris', 'catchPhrase': 'Business-focused coherent capacity', 'bs': 'innovate innovative mindshare'}}
+08:06:52 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (81 ms)

@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Zachary Wilson",
+    "username": "bwalker",
+    "email": "mgarza@example.org",
+    "phone": "+1-398-756-4116x09517",
+    "website": "fisher.info",
+    "address": {
+      "street": "Bender Fields",
+      "suite": "Apt. 265",
+      "city": "East Christinafurt",
+      "zipcode": "74759"
+    },
+    "company": {
+      "name": "Mckay Group",
+      "catchPhrase": "Up-sized actuating application",
+      "bs": "re-contextualize e-business info-mediaries"
+    }
+  }
+}

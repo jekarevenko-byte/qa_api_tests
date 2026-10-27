@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 81,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:52 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "437",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b5-SAFGQpKSewuRdbWCSiVBKqdGFN8\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=UFcwZLVsz0bbz0eqAQmgTa%2FyRi340sGgJo4Oi%2FOyKrQHtUJpuhsUmH%2Ft3XhHl3VZpcCoXO4DY8uYF4K8ugg%2FpyjAdbhdWFGm42jOcuhB6tomkYsglQZvnCRi2MwpHRURSIJ%2BEkKpyNO2D6BYo5u0\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51034333d8c6d31-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "jatkinson",
+    "email": "richmondjason@example.net",
+    "phone": "+1-676-804-6693x249",
+    "website": "kim.net",
+    "address": {
+      "street": "Martinez Knoll",
+      "suite": "Apt. 554",
+      "city": "Emilyfort",
+      "zipcode": "56379"
+    },
+    "company": {
+      "name": "Lyons-Morris",
+      "catchPhrase": "Business-focused coherent capacity",
+      "bs": "innovate innovative mindshare"
+    },
+    "id": 11
+  }
+}

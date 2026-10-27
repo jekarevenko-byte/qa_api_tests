@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 79,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:52 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "446",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1be-UwHhf7nmJ5uxjstlJkP4MdFyfIA\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SqoKvo1MR6F%2F1TSWWqZVmmUOiDZynAXuwa9y720BLtQB%2BMo3Ike0tHpKLbO4naRjhy%2FtFszwaLOL7YRW38pqmKxq8%2BbeNtblG4qVxSJj%2BM595cn%2FQmFhuRa43zXhMlV9%2FcXesz9%2B%2Fu6Af1mdqXQZ\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5103433cef46d31-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Sarah Nelson",
+    "username": "johnsonstanley",
+    "email": "qa@example.com",
+    "phone": "+1-714-980-9746x8515",
+    "website": "scott.biz",
+    "address": {
+      "street": "Garcia Inlet",
+      "suite": "Apt. 428",
+      "city": "Port Samanthastad",
+      "zipcode": "73226"
+    },
+    "company": {
+      "name": "Robinson, Martin and Smith",
+      "catchPhrase": "Focused impactful encryption",
+      "bs": "seize proactive convergence"
+    },
+    "id": 11
+  }
+}

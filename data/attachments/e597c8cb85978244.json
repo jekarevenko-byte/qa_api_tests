@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Matthew Murray",
+    "username": "hurleyjanet",
+    "email": "rtate@example.org",
+    "phone": "650-588-3260x11306",
+    "website": "holloway-owens.com",
+    "address": {
+      "street": "Mclaughlin Pine",
+      "suite": "Suite 650",
+      "city": "Janetshire",
+      "zipcode": "95999"
+    },
+    "company": {
+      "name": "Smith, Matthews and Gutierrez",
+      "catchPhrase": "Customizable multi-state array",
+      "bs": "transition 24/365 markets"
+    }
+  }
+}

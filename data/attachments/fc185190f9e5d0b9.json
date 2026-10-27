@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 82,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:52 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "452",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c4-p9JybCBJ3G/aHBEeV62xsgrUBZQ\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3QtDBLImSKgW3FX7fYQPXZHEC9%2B1N%2By5UUHFW83icDXjWJXfKL1voJp3GLeUyiZ4mJ6gVzrI%2FpNm1a67y4mQ26tDMPg9k5iKXVWJa2LUSTQ2h2zLY4r1%2BLklCCffK9dEFgJxysvIDw%2F8R%2Boro5Ff\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5103432ac516d31-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Zachary Wilson",
+    "username": "bwalker",
+    "email": "mgarza@example.org",
+    "phone": "+1-398-756-4116x09517",
+    "website": "fisher.info",
+    "address": {
+      "street": "Bender Fields",
+      "suite": "Apt. 265",
+      "city": "East Christinafurt",
+      "zipcode": "74759"
+    },
+    "company": {
+      "name": "Mckay Group",
+      "catchPhrase": "Up-sized actuating application",
+      "bs": "re-contextualize e-business info-mediaries"
+    },
+    "id": 11
+  }
+}

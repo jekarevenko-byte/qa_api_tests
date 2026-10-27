@@ -1,2 +1,0 @@
-08:06:34 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'marcus77', 'email': 'salinasbrittney@example.org', 'phone': '476.661.5553x77417', 'website': 'meyer-watson.com', 'address': {'street': 'Baird Manor', 'suite': 'Apt. 253', 'city': 'South Harryton', 'zipcode': '06053'}, 'company': {'name': 'Kelley, Collins and Joseph', 'catchPhrase': 'Persistent neutral conglomeration', 'bs': 'grow impactful mindshare'}}
-08:06:34 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (123 ms)

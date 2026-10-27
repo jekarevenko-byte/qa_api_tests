@@ -1,0 +1,35 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 215,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:51 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"87-+zyyNVnjuG/3OgjkSEAaZxIU4Oc\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599994",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=iDYPrw4DdNs%2F05PHRmKouThLtkdGqoa2La5mijondegCN%2BqXoDK%2F5vaH3Cf7c2DiZYMYrgxE3B%2BgV%2Fccqo4ZFPT8WmPONwsdJmjDWu5FIihscMFcrGEWit9KW01k2hbyd6XDkmGBCME2kCIRdOTe\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a510342d2a32534f-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Updated",
+    "body": "Decide size hit whose project mission. Type establish head level chair.",
+    "id": 1
+  }
+}

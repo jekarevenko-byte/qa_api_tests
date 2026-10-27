@@ -1,0 +1,2 @@
+08:06:52 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Zachary Wilson', 'username': 'bwalker', 'email': 'mgarza@example.org', 'phone': '+1-398-756-4116x09517', 'website': 'fisher.info', 'address': {'street': 'Bender Fields', 'suite': 'Apt. 265', 'city': 'East Christinafurt', 'zipcode': '74759'}, 'company': {'name': 'Mckay Group', 'catchPhrase': 'Up-sized actuating application', 'bs': 're-contextualize e-business info-mediaries'}}
+08:06:52 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (82 ms)

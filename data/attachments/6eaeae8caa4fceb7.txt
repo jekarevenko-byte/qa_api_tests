@@ -1,2 +1,0 @@
-08:06:33 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Sell new that billion know raise hotel. Travel trip determine clear government practice shoulder security.'}
-08:06:33 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (64 ms)

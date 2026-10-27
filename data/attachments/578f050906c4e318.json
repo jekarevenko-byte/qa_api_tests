@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 82,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:52 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "455",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c7-ypb8aEbQAPT0gXkjy9J+EnOlYvs\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=FWfsJVnVnCcM7z9lcnLvfFrwXxfHzjdqCtp0GoNbP5Iyynv%2BiCeS1wqlv%2BlRw0wp2NL1kKUDIxYrTZ6r6tTx5ss%2Fua0MD2bQbhokbmSqbYRt7upkVxUDY9ljE%2B6GrPmjpk1lGkpTOB53eVcZXx9W\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51034322ad86d31-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Matthew Murray",
+    "username": "hurleyjanet",
+    "email": "rtate@example.org",
+    "phone": "650-588-3260x11306",
+    "website": "holloway-owens.com",
+    "address": {
+      "street": "Mclaughlin Pine",
+      "suite": "Suite 650",
+      "city": "Janetshire",
+      "zipcode": "95999"
+    },
+    "company": {
+      "name": "Smith, Matthews and Gutierrez",
+      "catchPhrase": "Customizable multi-state array",
+      "bs": "transition 24/365 markets"
+    },
+    "id": 11
+  }
+}

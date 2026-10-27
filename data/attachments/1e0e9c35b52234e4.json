@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 193,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:53 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c6-HHAavOranXUeTLVm+Npygy7ZsRQ\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vcjd4Hai%2BkpitwaZn4vJO99LkztD4nHEjNiHh3nNjZleNL9i1DU4coeuG3vTXF5DdMXVBcDSbLFrg78V67a3HqF8l2cLzKKaB8EtEmvTnqbtcpN%2F9sGskxiQVlYcN0QlzkmTzWQ7Oe9pj1tykE5l\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a510343448206d31-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "victoria82",
+    "email": "lbridges@example.org",
+    "phone": "(996)804-1198x763",
+    "website": "johnson.info",
+    "address": {
+      "street": "Suzanne Way",
+      "suite": "Suite 394",
+      "city": "Thomasland",
+      "zipcode": "70234"
+    },
+    "company": {
+      "name": "Walker, Thomas and Perkins",
+      "catchPhrase": "Integrated regional instruction set",
+      "bs": "orchestrate compelling initiatives"
+    },
+    "id": 1
+  }
+}

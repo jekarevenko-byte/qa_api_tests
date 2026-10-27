@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 92,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:51 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "157",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"9d-qESQ52j6QQSquC6Vpsy+euAG9cE\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=stJ8SNFe64BgAcZEDVTA%2BBSMDYYM82rmeK1o5FyGUGLoeu%2Bh1BtgTHBZ2e3ORVlSkINCofQMidQYJO%2BqzxFQjh89RqyX2%2FfQSA4oz79b48oaMccaMUqelrNn9HSRgi%2F%2BjrNT%2FKe69OV0K1WlooAI\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a510342bff29534f-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Most paper outside half offer build morning.",
+    "body": "Easy time meet summer. Table degree the power support.",
+    "id": 101
+  }
+}

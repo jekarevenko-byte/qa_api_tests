@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "janicecoleman",
+    "email": "thompsoncharles@example.com",
+    "phone": "+1-588-800-0754x52841",
+    "website": "king.biz",
+    "address": {
+      "street": "Timothy Station",
+      "suite": "Apt. 766",
+      "city": "New Pamela",
+      "zipcode": "00970"
+    },
+    "company": {
+      "name": "Humphrey, Crawford and Willis",
+      "catchPhrase": "Managed 5thgeneration benchmark",
+      "bs": "scale ubiquitous technologies"
+    }
+  }
+}
