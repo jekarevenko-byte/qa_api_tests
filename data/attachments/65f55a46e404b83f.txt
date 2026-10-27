@@ -1,2 +1,0 @@
-08:09:09 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'New send might through important seat.', 'body': 'Candidate human base whose. Yard two responsibility piece doctor. Left of listen responsibility unit team.'}
-08:09:09 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (86 ms)

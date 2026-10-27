@@ -1,2 +1,0 @@
-08:09:10 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Natalie Johnson', 'username': 'eringonzales', 'email': 'qa@example.com', 'phone': '+1-664-798-9410x10557', 'website': 'solis-gonzalez.com', 'address': {'street': 'Harper Locks', 'suite': 'Suite 840', 'city': 'North Anthonyport', 'zipcode': '02817'}, 'company': {'name': 'Caldwell-Ortiz', 'catchPhrase': 'Expanded reciprocal function', 'bs': 'integrate world-class technologies'}}
-08:09:10 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (87 ms)

@@ -1,0 +1,2 @@
+08:09:39 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Tonya Osborne', 'username': 'bryan24', 'email': 'rodriguezmarilyn@example.org', 'phone': '484.306.3081', 'website': 'johnson-webb.com', 'address': {'street': 'Judy Drive', 'suite': 'Suite 789', 'city': 'Lisamouth', 'zipcode': '58358'}, 'company': {'name': 'James Group', 'catchPhrase': 'Object-based eco-centric solution', 'bs': 'enable end-to-end e-services'}}
+08:09:39 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (16 ms)

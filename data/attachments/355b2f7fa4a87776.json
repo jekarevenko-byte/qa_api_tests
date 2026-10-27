@@ -1,0 +1,36 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 7,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:09:38 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "max-age=43200",
+    "etag": "W/\"124-yiKdLzqO5gfBrJFrcdJ8Yq0LGnU\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599544",
+    "x-ratelimit-reset": "1791949795",
+    "Age": "22692",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kB0EZ%2BZ1Xf%2BuS1VlRq2SblmtFadLq6IcZvH3Vmd5RpCT8zE4d4bLMLn1Fz5V6T9GE7he3w%2BAfzooyaH4waeNGN3bWrW7jVml%2Fjo1KpRIP1mRb38YE5iwGCrYKpUkfTRZq505M1bnUyGu%2BSkTi557\"}]}",
+    "cf-cache-status": "HIT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a510383ff91605a1-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  }
+}

@@ -1,0 +1,2 @@
+08:09:39 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Tyler Garcia', 'username': 'murphyscott', 'email': 'qa@example.com', 'phone': '(943)556-3045x179', 'website': 'smith.com', 'address': {'street': 'Brian Knoll', 'suite': 'Suite 990', 'city': 'Dixonfort', 'zipcode': '70955'}, 'company': {'name': 'Patterson, Edwards and Walker', 'catchPhrase': 'Cross-group tertiary artificial intelligence', 'bs': 'engage dot-com architectures'}}
+08:09:39 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (15 ms)

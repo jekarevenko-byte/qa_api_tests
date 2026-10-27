@@ -1,0 +1,2 @@
+08:09:39 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'erinwheeler', 'email': 'richardkatherine@example.com', 'phone': '+1-743-753-3403x021', 'website': 'gibson-atkins.net', 'address': {'street': 'Jones Stravenue', 'suite': 'Apt. 470', 'city': 'Port Ashleyborough', 'zipcode': '84315'}, 'company': {'name': 'Johnson Inc', 'catchPhrase': 'Reactive tangible challenge', 'bs': 'matrix distributed initiatives'}}
+08:09:39 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (21 ms)

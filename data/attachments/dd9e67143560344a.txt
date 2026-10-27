@@ -1,2 +1,0 @@
-08:09:11 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'victor89', 'email': 'gsmith@example.com', 'phone': '(745)943-7270x09700', 'website': 'gray.net', 'address': {'street': 'Sara Prairie', 'suite': 'Apt. 890', 'city': 'Hawkinsstad', 'zipcode': '94148'}, 'company': {'name': 'Blair LLC', 'catchPhrase': 'Reactive background model', 'bs': 'engineer revolutionary initiatives'}}
-08:09:11 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (85 ms)

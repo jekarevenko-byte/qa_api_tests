@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 17,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:09:39 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "439",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b7-OIRHAamPv6HMx1hYdzrKi7ONa1I\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6tUkKYDL0k23Xh%2Fpuba7uWXmD%2BvDxToSC%2Bn73spDTDbxy8fS1sAC9LT%2FFSHNTpQlpMqRPkaptILDbzrmaeSEtoLEbSsfksQMfaMkrlZ2MVDf6xYkuDCrivTX0yWQhT5Tg5qM%2B0mB8wT5E3W7AOZx\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5103842bb851715-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Brandi Freeman",
+    "username": "ugay",
+    "email": "janetedwards@example.com",
+    "phone": "765-538-2617x187",
+    "website": "hahn-russell.com",
+    "address": {
+      "street": "Robert Greens",
+      "suite": "Apt. 567",
+      "city": "New Candaceside",
+      "zipcode": "91896"
+    },
+    "company": {
+      "name": "Wells PLC",
+      "catchPhrase": "Upgradable foreground adapter",
+      "bs": "synergize cross-platform metrics"
+    },
+    "id": 11
+  }
+}
