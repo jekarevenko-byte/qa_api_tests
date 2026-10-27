@@ -1,0 +1,2 @@
+08:17:18 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Law blood third western size thus use anything. Tonight medical already.'}
+08:17:18 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (49 ms)

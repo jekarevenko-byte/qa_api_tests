@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "William David",
+    "username": "cochranbrandon",
+    "email": "qa@example.com",
+    "phone": "(633)234-7973x5090",
+    "website": "nunez.info",
+    "address": {
+      "street": "Lara Ramp",
+      "suite": "Apt. 760",
+      "city": "Lake Meganton",
+      "zipcode": "47671"
+    },
+    "company": {
+      "name": "Watkins and Sons",
+      "catchPhrase": "Decentralized leadingedge hierarchy",
+      "bs": "empower turn-key communities"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+08:17:18 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Include big go agreement resource radio do.', 'body': 'Pay success new term sort range pay. Station set ever our social these human. Have wall tough fish push.'}
+08:17:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (54 ms)

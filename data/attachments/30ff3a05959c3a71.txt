@@ -1,2 +1,0 @@
-08:16:51 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'michael61', 'email': 'annbenson@example.net', 'phone': '(505)267-8277x25592', 'website': 'morales-barker.net', 'address': {'street': 'Robinson Street', 'suite': 'Suite 808', 'city': 'Port Kellyfurt', 'zipcode': '96593'}, 'company': {'name': 'Smith, Davis and Moore', 'catchPhrase': 'Re-contextualized client-driven policy', 'bs': 'extend customized relationships'}}
-08:16:51 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (79 ms)

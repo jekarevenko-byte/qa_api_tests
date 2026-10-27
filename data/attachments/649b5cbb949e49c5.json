@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 54,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:17:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "188",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"bc-Rtv3838ugx0dHsDMs8J2BY2Z4JY\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xHqkkhGPuGHW6kD2jP8eifNmaTjoqtqgkiXU3p%2FjduzV9pXzVAplnjSVOEnAPYqUGc%2B%2B%2FCzTg4uKrxzehuE3ms1ExlnhUfwVV5R%2F7kvR10HudP7bpw%2BGERUy95BHjBjOtEZB4w3aA0tqPpDeVokj\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51043782acd812b-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "South if nearly participant treatment such.",
+    "body": "Speak vote before ground who. Color energy they. Follow music study listen you degree.",
+    "id": 101
+  }
+}

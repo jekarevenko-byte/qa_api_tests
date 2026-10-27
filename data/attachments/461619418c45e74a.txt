@@ -1,0 +1,2 @@
+08:17:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Andrew Hall', 'username': 'terri14', 'email': 'alexanderkimberly@example.org', 'phone': '404.570.2668x98766', 'website': 'mayo.com', 'address': {'street': 'Ryan Mews', 'suite': 'Suite 372', 'city': 'Port Aaron', 'zipcode': '27507'}, 'company': {'name': 'Hill, Taylor and Livingston', 'catchPhrase': 'Cross-group fresh-thinking help-desk', 'bs': 'deploy synergistic e-commerce'}}
+08:17:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (57 ms)

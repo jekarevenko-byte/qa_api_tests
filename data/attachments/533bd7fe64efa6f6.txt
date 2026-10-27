@@ -1,2 +1,0 @@
-08:16:52 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'zcosta', 'email': 'hkline@example.com', 'phone': '476-211-3106x5694', 'website': 'stephens-murray.info', 'address': {'street': 'Morrow Highway', 'suite': 'Suite 661', 'city': 'Port Kylebury', 'zipcode': '04617'}, 'company': {'name': 'Foster, Curtis and Johnson', 'catchPhrase': 'Phased systemic architecture', 'bs': 'evolve strategic functionalities'}}
-08:16:52 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (209 ms)

@@ -1,0 +1,2 @@
+08:17:18 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'South if nearly participant treatment such.', 'body': 'Speak vote before ground who. Color energy they. Follow music study listen you degree.'}
+08:17:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (54 ms)

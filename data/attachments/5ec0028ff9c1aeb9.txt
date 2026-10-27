@@ -1,2 +1,0 @@
-08:16:50 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Every which little.', 'body': 'Play method wife choice specific win. Activity girl international claim career. Shoulder writer do start this. Various recognize plant wait.'}
-08:16:50 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (87 ms)

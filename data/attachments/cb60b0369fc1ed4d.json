@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 54,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:17:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "464",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1d0-ON0NoYFn6CeizkVbBlF2OLUn6x8\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=EZYccPt7fBV08BNbUvafV1jHiKYkOJ%2Bqry5lM1FYvojU1M%2FZa%2FLYBXu3C%2B2DqOw0u139%2BqAv3AdKFWcHqw5mMmcWdAtuYA457zOPQYdQU6aesapnkYXAVdwbVayqALgO%2FuGjoIRAHmRb5asg9ab%2F\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a510437c2c7b9181-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Linda Herrera",
+    "username": "suzannejimenez",
+    "email": "nicholskimberly@example.com",
+    "phone": "+1-878-339-2286x8591",
+    "website": "thompson.com",
+    "address": {
+      "street": "Keith Stravenue",
+      "suite": "Suite 242",
+      "city": "Allisonton",
+      "zipcode": "33033"
+    },
+    "company": {
+      "name": "Glenn, Rivera and Lucas",
+      "catchPhrase": "Pre-emptive solution-oriented synergy",
+      "bs": "drive back-end e-business"
+    },
+    "id": 11
+  }
+}

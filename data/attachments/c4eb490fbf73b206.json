@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 54,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:17:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "437",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b5-emzkluf0QjijSbipH1l7JrzDjdk\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jfSTD4ob%2BwJCKBy%2FWgIopCnVfbeYGDNFrZOHA6Uj1FG8bsPGRNe579D%2FA5FDyOi5wtQeHTtY9sdRqBEZlJYvLyP6ytvW2p%2B4Fi0JwjWFlFWRnhU29gbpZSrVlzciuyy8ou9AFOmBbDLTMElkCrmg\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a510437d38909181-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "William David",
+    "username": "cochranbrandon",
+    "email": "qa@example.com",
+    "phone": "(633)234-7973x5090",
+    "website": "nunez.info",
+    "address": {
+      "street": "Lara Ramp",
+      "suite": "Apt. 760",
+      "city": "Lake Meganton",
+      "zipcode": "47671"
+    },
+    "company": {
+      "name": "Watkins and Sons",
+      "catchPhrase": "Decentralized leadingedge hierarchy",
+      "bs": "empower turn-key communities"
+    },
+    "id": 11
+  }
+}

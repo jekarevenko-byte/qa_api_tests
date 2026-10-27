@@ -1,2 +1,0 @@
-08:16:51 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Dr. Bradley Martin MD', 'username': 'jamiewong', 'email': 'amybyrd@example.org', 'phone': '3276157363', 'website': 'gomez-jimenez.com', 'address': {'street': 'King River', 'suite': 'Apt. 800', 'city': 'Bradleymouth', 'zipcode': '12658'}, 'company': {'name': 'Farley-Diaz', 'catchPhrase': 'Multi-layered well-modulated solution', 'bs': 'architect holistic solutions'}}
-08:16:51 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (81 ms)

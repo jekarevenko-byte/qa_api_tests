@@ -1,2 +1,0 @@
-08:16:51 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Levi Delgado', 'username': 'tracymiller', 'email': 'qa@example.com', 'phone': '352.315.4779x19820', 'website': 'hampton-taylor.com', 'address': {'street': 'Smith Trail', 'suite': 'Suite 803', 'city': 'Port Jacob', 'zipcode': '81031'}, 'company': {'name': 'Edwards LLC', 'catchPhrase': 'Seamless secondary analyzer', 'bs': 'mesh cross-media models'}}
-08:16:52 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (83 ms)

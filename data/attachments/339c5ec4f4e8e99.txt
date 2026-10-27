@@ -1,0 +1,2 @@
+08:17:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Linda Herrera', 'username': 'suzannejimenez', 'email': 'nicholskimberly@example.com', 'phone': '+1-878-339-2286x8591', 'website': 'thompson.com', 'address': {'street': 'Keith Stravenue', 'suite': 'Suite 242', 'city': 'Allisonton', 'zipcode': '33033'}, 'company': {'name': 'Glenn, Rivera and Lucas', 'catchPhrase': 'Pre-emptive solution-oriented synergy', 'bs': 'drive back-end e-business'}}
+08:17:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (54 ms)
