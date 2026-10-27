@@ -1,0 +1,2 @@
+08:06:34 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Heather Rodriguez', 'username': 'tavila', 'email': 'laurie61@example.com', 'phone': '+1-243-561-1227', 'website': 'brown.com', 'address': {'street': 'Rodriguez Haven', 'suite': 'Suite 653', 'city': 'Port Nicholas', 'zipcode': '45693'}, 'company': {'name': 'Rogers-Bauer', 'catchPhrase': 'Robust even-keeled parallelism', 'bs': 'transition sticky channels'}}
+08:06:34 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (56 ms)

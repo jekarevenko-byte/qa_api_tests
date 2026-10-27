@@ -1,0 +1,2 @@
+08:06:33 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Foreign weight gun store television.', 'body': 'Several test wonder black. Which speech under former share. Spring price stand. Small forward mission one throughout cover.'}
+08:06:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (55 ms)

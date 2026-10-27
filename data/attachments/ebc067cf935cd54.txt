@@ -1,2 +1,0 @@
-08:06:03 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'American south area never one ahead.', 'body': 'Staff food social factor thus learn. Skill technology talk case draw stock magazine.'}
-08:06:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (204 ms)

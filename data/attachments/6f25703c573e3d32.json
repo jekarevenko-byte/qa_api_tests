@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 119,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:34 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "460",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1cc-D9STgHSyAOpwZRu2Qw0hLJqMwJY\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=H8LHz9Z5VAxgjtbxeTKncLpD20QVYd0nKOvBxlZ2QYEGX%2BFBcll6aM2d2EJJh8TbQKaXk08UheKzkg9gMifJ2BweZ375VpAwfoIgkJhgyLFYO6hqatZu3upgdAZmaInc3Xkmp0lvuBjfQ0qWmdAO\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51033be4d9e4656-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Anna Barron",
+    "username": "anthonystone",
+    "email": "jeffreylloyd@example.org",
+    "phone": "001-438-297-4252",
+    "website": "stephens-beck.org",
+    "address": {
+      "street": "Steven Island",
+      "suite": "Apt. 614",
+      "city": "Johnville",
+      "zipcode": "82664"
+    },
+    "company": {
+      "name": "Montoya, Hendricks and Preston",
+      "catchPhrase": "Decentralized multimedia projection",
+      "bs": "strategize impactful users"
+    },
+    "id": 11
+  }
+}

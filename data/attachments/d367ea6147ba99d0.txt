@@ -1,2 +1,0 @@
-08:06:03 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Mouth however garden actually top they.', 'body': 'Traditional factor stock kind pretty challenge. Community attorney why can collection. Past at event drive agency.'}
-08:06:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (80 ms)

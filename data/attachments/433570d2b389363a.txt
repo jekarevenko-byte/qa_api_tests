@@ -1,2 +1,0 @@
-08:06:04 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'michael64', 'email': 'duartemargaret@example.net', 'phone': '2396767834', 'website': 'hernandez.info', 'address': {'street': 'Boyd Rapid', 'suite': 'Suite 484', 'city': 'East Anna', 'zipcode': '09557'}, 'company': {'name': 'Clark, Potter and Reed', 'catchPhrase': 'Open-architected executive task-force', 'bs': 'scale granular architectures'}}
-08:06:05 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (81 ms)

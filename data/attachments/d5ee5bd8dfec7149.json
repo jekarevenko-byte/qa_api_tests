@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 56,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:34 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "431",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1af-Y54u3pWJ4YoTdOjSj9Ge+03b58U\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Z%2F%2F8XH3lJcwkQiUZrUwXpaZM%2FKpQvkAf7DNNJz0e00rivNUMVF1F61ulU74NgAg%2FsPREbhHbsQ56Gs0jlUAR39dVTe1cLXYROkG2Yxj4H4%2BEQlC2kkIz85CNWaLT24KUfaMqnhhPXJUi8u4fhluX\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51033bf1de64656-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Heather Rodriguez",
+    "username": "tavila",
+    "email": "laurie61@example.com",
+    "phone": "+1-243-561-1227",
+    "website": "brown.com",
+    "address": {
+      "street": "Rodriguez Haven",
+      "suite": "Suite 653",
+      "city": "Port Nicholas",
+      "zipcode": "45693"
+    },
+    "company": {
+      "name": "Rogers-Bauer",
+      "catchPhrase": "Robust even-keeled parallelism",
+      "bs": "transition sticky channels"
+    },
+    "id": 11
+  }
+}

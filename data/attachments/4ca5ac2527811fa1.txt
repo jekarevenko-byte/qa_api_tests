@@ -1,0 +1,2 @@
+08:06:34 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Benjamin Terry', 'username': 'crystal54', 'email': 'qa@example.com', 'phone': '720.640.5787x39391', 'website': 'richardson.com', 'address': {'street': 'Monica Pine', 'suite': 'Suite 183', 'city': 'New Mark', 'zipcode': '48379'}, 'company': {'name': 'Foster, Booth and Rhodes', 'catchPhrase': 'Cross-platform tangible initiative', 'bs': 'iterate enterprise e-services'}}
+08:06:34 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (56 ms)

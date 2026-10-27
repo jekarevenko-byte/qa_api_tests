@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 56,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 08:06:34 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "443",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bb-jsLc0NdxiKeQVJeKDztxJCw8qyQ\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793091542",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=BNUa0wKwbiGrgr5zwQRCiQnyvvc7tt9qqrY3%2FVTB2oilCb%2FoxfI%2FGE%2FwHbmJbEqqad%2FT8GEb2nb4a4km87OGx8DsEEoG08VTHeiSd%2B5abEWS4k2g1%2BzbVxJzK2xGOtP976oYyrAj4S2lBoJXyiYi\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a51033bfde344656-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Benjamin Terry",
+    "username": "crystal54",
+    "email": "qa@example.com",
+    "phone": "720.640.5787x39391",
+    "website": "richardson.com",
+    "address": {
+      "street": "Monica Pine",
+      "suite": "Suite 183",
+      "city": "New Mark",
+      "zipcode": "48379"
+    },
+    "company": {
+      "name": "Foster, Booth and Rhodes",
+      "catchPhrase": "Cross-platform tangible initiative",
+      "bs": "iterate enterprise e-services"
+    },
+    "id": 11
+  }
+}

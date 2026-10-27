@@ -1,2 +1,0 @@
-08:06:04 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Meet speech it. Rather data charge may meeting.'}
-08:06:04 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (203 ms)

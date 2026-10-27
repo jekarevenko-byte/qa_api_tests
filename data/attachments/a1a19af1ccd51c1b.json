@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Anna Barron",
+    "username": "anthonystone",
+    "email": "jeffreylloyd@example.org",
+    "phone": "001-438-297-4252",
+    "website": "stephens-beck.org",
+    "address": {
+      "street": "Steven Island",
+      "suite": "Apt. 614",
+      "city": "Johnville",
+      "zipcode": "82664"
+    },
+    "company": {
+      "name": "Montoya, Hendricks and Preston",
+      "catchPhrase": "Decentralized multimedia projection",
+      "bs": "strategize impactful users"
+    }
+  }
+}

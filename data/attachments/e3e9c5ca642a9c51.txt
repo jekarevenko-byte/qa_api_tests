@@ -1,2 +1,0 @@
-08:06:05 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Joshua Davis', 'username': 'santoserica', 'email': 'qa@example.com', 'phone': '858.601.8280x97158', 'website': 'torres-hughes.net', 'address': {'street': 'Denise Plains', 'suite': 'Suite 563', 'city': 'Madelinemouth', 'zipcode': '39331'}, 'company': {'name': 'Banks-Camacho', 'catchPhrase': 'Inverse value-added knowledge user', 'bs': 'revolutionize open-source initiatives'}}
-08:06:05 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (82 ms)

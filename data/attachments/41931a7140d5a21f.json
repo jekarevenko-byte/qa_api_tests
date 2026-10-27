@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "billmelton",
+    "email": "bvelazquez@example.com",
+    "phone": "663.765.3353x8810",
+    "website": "stephens.com",
+    "address": {
+      "street": "Smith Forks",
+      "suite": "Apt. 092",
+      "city": "South Katrinastad",
+      "zipcode": "19716"
+    },
+    "company": {
+      "name": "Mercado Group",
+      "catchPhrase": "User-centric fault-tolerant synergy",
+      "bs": "transform ubiquitous mindshare"
+    }
+  }
+}
