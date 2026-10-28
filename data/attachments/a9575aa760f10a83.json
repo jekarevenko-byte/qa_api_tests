@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "delacruzjoseph",
+    "email": "ubrown@example.com",
+    "phone": "534.743.6135x005",
+    "website": "rodriguez-alvarez.com",
+    "address": {
+      "street": "Linda Station",
+      "suite": "Suite 798",
+      "city": "West Christian",
+      "zipcode": "25257"
+    },
+    "company": {
+      "name": "Larsen-Ward",
+      "catchPhrase": "Reverse-engineered multi-state benchmark",
+      "bs": "optimize ubiquitous action-items"
+    }
+  }
+}

@@ -1,2 +1,0 @@
-08:45:47 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Carol Hughes', 'username': 'ilewis', 'email': 'lindseypatton@example.com', 'phone': '001-937-680-4518x40478', 'website': 'miles.com', 'address': {'street': 'Cory Green', 'suite': 'Suite 443', 'city': 'West Victoria', 'zipcode': '51532'}, 'company': {'name': 'Drake Ltd', 'catchPhrase': 'Automated 3rdgeneration projection', 'bs': 'synergize dynamic partnerships'}}
-08:45:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (17 ms)

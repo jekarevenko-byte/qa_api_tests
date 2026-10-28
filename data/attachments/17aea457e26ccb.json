@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 189,
+  "headers": {
+    "Date": "Wed, 28 Oct 2026 12:17:23 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1ca-ny7sodf8wRJAQcz+VJZqXz4rJlM\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1793192342",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=M5GaclvcdvOn9dQ8tJ2ds7Nr%2BfT1kacGnGSSENHiuCuZ3jw1HeAaRZdk9YnC5a8f6u6j7axxEWw5PF7o2OT9LUcpCjgG7dCORMj3CFPzWAJSMW6PajeYKrQbcKUPAUDenGW5%2F6DUNR2AVk5Jyk%2BM\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a519e0872d34398e-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "delacruzjoseph",
+    "email": "ubrown@example.com",
+    "phone": "534.743.6135x005",
+    "website": "rodriguez-alvarez.com",
+    "address": {
+      "street": "Linda Station",
+      "suite": "Suite 798",
+      "city": "West Christian",
+      "zipcode": "25257"
+    },
+    "company": {
+      "name": "Larsen-Ward",
+      "catchPhrase": "Reverse-engineered multi-state benchmark",
+      "bs": "optimize ubiquitous action-items"
+    },
+    "id": 1
+  }
+}

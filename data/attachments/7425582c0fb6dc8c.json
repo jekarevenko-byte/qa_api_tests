@@ -1,0 +1,35 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 90,
+  "headers": {
+    "Date": "Wed, 28 Oct 2026 12:17:22 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"ec-+yI1IAG0q2YbptjpZc1qLiFvCZU\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599993",
+    "x-ratelimit-reset": "1793192342",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=s%2BOON3ie1CqKiNM35K1iekO3UAgVmsKy2rin5IFuFez%2F0vPVJ90CPLe6VSja%2FjiRGLBuLP1TU9RslWMDNfXKK5MpoNL63F21d5LeQjVjNCWDtDpbfXcF%2B15LLWkxsrH9NP5XvnmhZ3JWsV%2F4ocFp\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a519e080ef358535-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Updated Title",
+    "body": "Ever center deep site whatever. Consider season room yeah loss police relate. Indicate actually art him ten baby open. Create listen investment realize young contain.",
+    "id": 1
+  }
+}

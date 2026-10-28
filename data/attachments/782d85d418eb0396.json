@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "David Todd",
+    "username": "qjackson",
+    "email": "qa@example.com",
+    "phone": "(375)559-5875x46627",
+    "website": "thomas-pratt.com",
+    "address": {
+      "street": "Howe Mills",
+      "suite": "Suite 270",
+      "city": "East Bryan",
+      "zipcode": "01304"
+    },
+    "company": {
+      "name": "Harrison, White and Wood",
+      "catchPhrase": "Right-sized logistical benchmark",
+      "bs": "architect intuitive architectures"
+    }
+  }
+}

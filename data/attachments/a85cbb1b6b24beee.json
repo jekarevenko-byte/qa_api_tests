@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 82,
+  "headers": {
+    "Date": "Wed, 28 Oct 2026 12:17:22 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "433",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b1-aQbGse+ohKe4gm+HGYQAuA/gpQQ\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1793192342",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q75%2B3Ewcdt%2BmzXslX6qE9WxMuSs%2BhskzB%2BFomaFZkhMtNCTUV8JXngOmYtDs3rJ6RF75yyaQ7CTAQmndDObx18Lvud%2BPcjqXyQ9d53j61q0PIm35CR9m1NBLAPrLyOaUn%2FDH6CqDG871XcjnCVc4\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a519e0850ee6398e-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Michael Knight",
+    "username": "robert69",
+    "email": "dreed@example.com",
+    "phone": "975-841-5751",
+    "website": "peck-johnson.com",
+    "address": {
+      "street": "Freeman Street",
+      "suite": "Suite 676",
+      "city": "Lake Lee",
+      "zipcode": "18082"
+    },
+    "company": {
+      "name": "Ayala-Lee",
+      "catchPhrase": "Focused solution-oriented complexity",
+      "bs": "architect open-source bandwidth"
+    },
+    "id": 11
+  }
+}

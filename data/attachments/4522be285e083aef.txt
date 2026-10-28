@@ -1,0 +1,2 @@
+12:17:22 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Michael Robertson', 'username': 'sheilarose', 'email': 'melinda55@example.com', 'phone': '+1-383-480-3537x1778', 'website': 'munoz-maldonado.org', 'address': {'street': 'Holly Falls', 'suite': 'Apt. 987', 'city': 'Maryport', 'zipcode': '08646'}, 'company': {'name': 'Chen-Gonzalez', 'catchPhrase': 'Versatile mission-critical hierarchy', 'bs': 'optimize rich technologies'}}
+12:17:22 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (85 ms)

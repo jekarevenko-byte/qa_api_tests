@@ -1,0 +1,2 @@
+12:17:22 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'David Todd', 'username': 'qjackson', 'email': 'qa@example.com', 'phone': '(375)559-5875x46627', 'website': 'thomas-pratt.com', 'address': {'street': 'Howe Mills', 'suite': 'Suite 270', 'city': 'East Bryan', 'zipcode': '01304'}, 'company': {'name': 'Harrison, White and Wood', 'catchPhrase': 'Right-sized logistical benchmark', 'bs': 'architect intuitive architectures'}}
+12:17:23 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (80 ms)

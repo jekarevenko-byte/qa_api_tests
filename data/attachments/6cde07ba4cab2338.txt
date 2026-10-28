@@ -1,2 +1,0 @@
-08:45:47 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Inside face event occur.', 'body': 'Education area thousand finish everybody become. Both green major somebody.'}
-08:45:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (22 ms)

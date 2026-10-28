@@ -1,2 +1,0 @@
-08:45:47 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Ruth Wallace', 'username': 'adriennegray', 'email': 'qa@example.com', 'phone': '295-369-7599x60589', 'website': 'ross.com', 'address': {'street': 'Dustin Vista', 'suite': 'Apt. 745', 'city': 'New Lori', 'zipcode': '97236'}, 'company': {'name': 'Conway PLC', 'catchPhrase': 'Ergonomic fresh-thinking database', 'bs': 'aggregate 24/365 systems'}}
-08:45:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (17 ms)

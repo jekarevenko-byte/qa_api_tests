@@ -1,2 +1,0 @@
-08:45:47 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'natalienorton', 'email': 'andreawalsh@example.com', 'phone': '+1-634-713-9384x9425', 'website': 'coleman.net', 'address': {'street': 'Beard Streets', 'suite': 'Apt. 586', 'city': 'Gregorytown', 'zipcode': '60333'}, 'company': {'name': 'Jordan Group', 'catchPhrase': 'Realigned heuristic projection', 'bs': 'incubate best-of-breed deliverables'}}
-08:45:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (20 ms)

@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 80,
+  "headers": {
+    "Date": "Wed, 28 Oct 2026 12:17:23 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "444",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bc-SVYQDCGc/tOx+A/1mme5xHZyY2Q\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793192342",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=yk4ajL5fYqG2bXH%2FaMhYA8ifl%2F4Dwk6uW6OSTaX%2FPotJv2GMtfynHsqk6z1evuLmlkTH7yL1kGT7AxpyWAKcnNT%2BXvXMZzwh%2FQWFC4a0jQ%2BXDGqsUkWqidTFEdYSLXh8JDZAlBDiifyKdCDHkJ8h\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a519e086abe4398e-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "David Todd",
+    "username": "qjackson",
+    "email": "qa@example.com",
+    "phone": "(375)559-5875x46627",
+    "website": "thomas-pratt.com",
+    "address": {
+      "street": "Howe Mills",
+      "suite": "Suite 270",
+      "city": "East Bryan",
+      "zipcode": "01304"
+    },
+    "company": {
+      "name": "Harrison, White and Wood",
+      "catchPhrase": "Right-sized logistical benchmark",
+      "bs": "architect intuitive architectures"
+    },
+    "id": 11
+  }
+}

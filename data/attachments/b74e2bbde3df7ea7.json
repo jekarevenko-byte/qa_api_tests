@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 80,
+  "headers": {
+    "Date": "Wed, 28 Oct 2026 12:17:22 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "446",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1be-DNnUMSx/dvaESEHLIv39G0DqLSc\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1793192342",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=8dpjiUwxR4EA%2B1TH8%2BkKzWskNxmry%2Fe94Ao22lLgx4ZW5jpxuVcHC8Mk%2FDwDU5blvnJYWkDxbH40LXDAEFWhhrUrtIK2ZzIil688QfE7h2N7WknUg%2Brb1IXMITUHjhXbgHg1XkDoKxeLyGIsRo6L\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a519e08619e2398e-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "walkerchristopher",
+    "email": "ecampbell@example.org",
+    "phone": "(952)277-2484x293",
+    "website": "zamora.net",
+    "address": {
+      "street": "White Common",
+      "suite": "Apt. 173",
+      "city": "Langville",
+      "zipcode": "93712"
+    },
+    "company": {
+      "name": "Rivers-Trevino",
+      "catchPhrase": "Streamlined exuding flexibility",
+      "bs": "scale clicks-and-mortar applications"
+    },
+    "id": 11
+  }
+}

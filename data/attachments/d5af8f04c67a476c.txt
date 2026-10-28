@@ -1,0 +1,2 @@
+12:17:23 [INFO] PATCH https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Patched'}
+12:17:23 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (81 ms)

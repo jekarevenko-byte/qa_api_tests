@@ -1,2 +1,0 @@
-08:45:47 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'davidcamacho', 'email': 'rachel32@example.org', 'phone': '821-404-3766x731', 'website': 'douglas-vargas.info', 'address': {'street': 'Anderson Junction', 'suite': 'Suite 506', 'city': 'East Patrickmouth', 'zipcode': '42781'}, 'company': {'name': 'Scott and Sons', 'catchPhrase': 'Virtual demand-driven array', 'bs': 'embrace turn-key methodologies'}}
-08:45:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (16 ms)
