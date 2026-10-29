@@ -1,0 +1,2 @@
+12:27:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'michael38', 'email': 'sarah29@example.org', 'phone': '609-833-7849x03927', 'website': 'wiley-crawford.biz', 'address': {'street': 'Oliver Fort', 'suite': 'Apt. 272', 'city': 'Port Carrieport', 'zipcode': '98084'}, 'company': {'name': 'Bates-Diaz', 'catchPhrase': 'Balanced local website', 'bs': 'seize holistic initiatives'}}
+12:27:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (62 ms)

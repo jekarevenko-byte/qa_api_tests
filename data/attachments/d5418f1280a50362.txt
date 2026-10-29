@@ -1,2 +1,0 @@
-12:17:22 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Ever center deep site whatever. Consider season room yeah loss police relate. Indicate actually art him ten baby open. Create listen investment realize young contain.'}
-12:17:22 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (90 ms)

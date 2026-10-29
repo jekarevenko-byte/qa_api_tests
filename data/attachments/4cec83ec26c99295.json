@@ -1,0 +1,53 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 37,
+  "headers": {
+    "Date": "Thu, 29 Oct 2026 12:27:16 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "max-age=43200",
+    "etag": "W/\"1fd-+2Y3G3w049iSZtw5t1mzSnunngE\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599999",
+    "x-ratelimit-reset": "1790812826",
+    "Age": "6629",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=QkNiwR%2FzoInf0%2FFC3vXIn6h0QTqKYPsvIhaOly80f09iEGXAlwbVAdjGF%2BC%2BJbWOelsbKUM%2B8%2BVF1lP1oOO6OrPxLXzhbsFxSgkIPLIJWjsz%2B43hzBPTYrxJR9RmBlsXEbsF7is%2FXX01tc6M32xe\"}]}",
+    "cf-cache-status": "HIT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5222c660a831247-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  }
+}

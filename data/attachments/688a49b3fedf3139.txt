@@ -1,2 +1,0 @@
-12:17:21 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Feel follow top throw three environment easy back.', 'body': 'Anything wonder environmental tree cost model. Law animal term cost event. Simply star information today.'}
-12:17:21 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (82 ms)

@@ -1,2 +1,0 @@
-12:17:22 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'walkerchristopher', 'email': 'ecampbell@example.org', 'phone': '(952)277-2484x293', 'website': 'zamora.net', 'address': {'street': 'White Common', 'suite': 'Apt. 173', 'city': 'Langville', 'zipcode': '93712'}, 'company': {'name': 'Rivers-Trevino', 'catchPhrase': 'Streamlined exuding flexibility', 'bs': 'scale clicks-and-mortar applications'}}
-12:17:22 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (80 ms)

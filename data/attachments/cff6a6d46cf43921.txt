@@ -1,0 +1,2 @@
+12:27:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Ms. Sarah Blackburn DVM', 'username': 'lcurtis', 'email': 'qa@example.com', 'phone': '388-208-7595', 'website': 'smith.com', 'address': {'street': 'Maria Expressway', 'suite': 'Suite 184', 'city': 'Brownmouth', 'zipcode': '31596'}, 'company': {'name': 'Jones and Sons', 'catchPhrase': 'Switchable asynchronous installation', 'bs': 'exploit global communities'}}
+12:27:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (54 ms)

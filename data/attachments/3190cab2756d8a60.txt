@@ -1,0 +1,2 @@
+12:27:16 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Page realize father moment area argue.', 'body': 'Piece her maintain dog. Travel meet another hair travel action now middle.'}
+12:27:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (57 ms)

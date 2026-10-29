@@ -1,0 +1,2 @@
+12:27:16 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Foreign sit cup will foot others. Skin debate probably word.'}
+12:27:16 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (54 ms)

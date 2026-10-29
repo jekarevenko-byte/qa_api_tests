@@ -1,0 +1,2 @@
+12:27:15 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Language task recent student.', 'body': 'Article body why Mr must food spring matter. Where they news listen. You back near what. Rich cold small democratic.'}
+12:27:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (113 ms)

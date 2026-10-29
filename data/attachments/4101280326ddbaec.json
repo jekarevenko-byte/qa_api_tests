@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "emilyroberts",
+    "email": "bradleyorozco@example.org",
+    "phone": "+1-582-743-4733x6437",
+    "website": "callahan-cordova.com",
+    "address": {
+      "street": "Miller Track",
+      "suite": "Apt. 252",
+      "city": "North James",
+      "zipcode": "05947"
+    },
+    "company": {
+      "name": "Harrison-Phillips",
+      "catchPhrase": "Phased 24hour portal",
+      "bs": "revolutionize scalable partnerships"
+    }
+  }
+}

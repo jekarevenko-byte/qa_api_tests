@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 57,
+  "headers": {
+    "Date": "Thu, 29 Oct 2026 12:27:17 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "425",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1a9-y0aHjSyGxc++w/EfE12iBSBvg+4\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1793278742",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5%2BmX4gWEbH2EKCLqILqwhPllHdVkgJ07UpjHTvG7V7kJtmJm1rJ900hgMoin8aMWIRNPDCBuUsJEV9%2FLhJ9MiUtxmlpZ4HQwHUcRyPYbDI2Am7pbegCE0pW4i8dLl7Hu10x60hzHy8UetC770Pf7\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5222c676c391247-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Breanna Smith",
+    "username": "jason23",
+    "email": "tinasimpson@example.org",
+    "phone": "3398754973",
+    "website": "thomas.org",
+    "address": {
+      "street": "Joshua Burgs",
+      "suite": "Suite 774",
+      "city": "North Chelsea",
+      "zipcode": "91779"
+    },
+    "company": {
+      "name": "Evans-Gross",
+      "catchPhrase": "De-engineered explicit synergy",
+      "bs": "streamline viral initiatives"
+    },
+    "id": 11
+  }
+}

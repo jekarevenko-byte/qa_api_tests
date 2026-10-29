@@ -1,2 +1,0 @@
-12:17:21 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Yard around social.', 'body': 'Too theory even you. Church result feel eight.'}
-12:17:21 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (248 ms)

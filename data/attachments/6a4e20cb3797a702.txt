@@ -1,2 +1,0 @@
-12:17:23 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'delacruzjoseph', 'email': 'ubrown@example.com', 'phone': '534.743.6135x005', 'website': 'rodriguez-alvarez.com', 'address': {'street': 'Linda Station', 'suite': 'Suite 798', 'city': 'West Christian', 'zipcode': '25257'}, 'company': {'name': 'Larsen-Ward', 'catchPhrase': 'Reverse-engineered multi-state benchmark', 'bs': 'optimize ubiquitous action-items'}}
-12:17:23 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (189 ms)

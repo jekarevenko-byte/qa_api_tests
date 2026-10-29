@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 113,
+  "headers": {
+    "Date": "Thu, 29 Oct 2026 12:27:16 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "204",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"cc-zBlSn00OTE29wQLX8ezwmj9IbS8\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1793278742",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=AWb2J4kMwByBF12CTvtX68hJm9qiCAdZXJQB520MRdtjs2epvWiH9Xmb0geAJnLXsHIikN7h94vyJfEZDjMC%2FbxyctiAKYii5gZorGLoDfLTDIPzlTYtL1u0wwZ9CH%2FU%2BTnbLO97%2F7ZUnpaVP95S\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5222c60fb00e81c-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Language task recent student.",
+    "body": "Article body why Mr must food spring matter. Where they news listen. You back near what. Rich cold small democratic.",
+    "id": 101
+  }
+}

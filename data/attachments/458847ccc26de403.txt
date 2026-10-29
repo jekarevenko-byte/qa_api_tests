@@ -1,0 +1,2 @@
+12:27:17 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'emilyroberts', 'email': 'bradleyorozco@example.org', 'phone': '+1-582-743-4733x6437', 'website': 'callahan-cordova.com', 'address': {'street': 'Miller Track', 'suite': 'Apt. 252', 'city': 'North James', 'zipcode': '05947'}, 'company': {'name': 'Harrison-Phillips', 'catchPhrase': 'Phased 24hour portal', 'bs': 'revolutionize scalable partnerships'}}
+12:27:17 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (119 ms)

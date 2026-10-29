@@ -1,2 +1,0 @@
-12:17:22 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Michael Knight', 'username': 'robert69', 'email': 'dreed@example.com', 'phone': '975-841-5751', 'website': 'peck-johnson.com', 'address': {'street': 'Freeman Street', 'suite': 'Suite 676', 'city': 'Lake Lee', 'zipcode': '18082'}, 'company': {'name': 'Ayala-Lee', 'catchPhrase': 'Focused solution-oriented complexity', 'bs': 'architect open-source bandwidth'}}
-12:17:22 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (82 ms)

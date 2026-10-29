@@ -1,0 +1,2 @@
+12:27:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Breanna Smith', 'username': 'jason23', 'email': 'tinasimpson@example.org', 'phone': '3398754973', 'website': 'thomas.org', 'address': {'street': 'Joshua Burgs', 'suite': 'Suite 774', 'city': 'North Chelsea', 'zipcode': '91779'}, 'company': {'name': 'Evans-Gross', 'catchPhrase': 'De-engineered explicit synergy', 'bs': 'streamline viral initiatives'}}
+12:27:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (57 ms)
