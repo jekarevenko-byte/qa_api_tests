@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 227,
+  "headers": {
+    "Date": "Fri, 30 Oct 2026 12:18:46 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1a9-7uDG9NaZxR7bLuj+kl/cgTMFSQk\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1793365142",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=z3tzCD2SSndR%2BsPUIGGYicoOsYNrayIexvY40LB%2FglAqDiFngRlVq3KMRMTGprGTQVaGEfJSTsjlY4lN%2Fs5MI3XiHyLKSRaozelwZopmqwGMGpX01girh4%2BN%2Be4tamavETfhEOwcCh0U1%2BRujuWz\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a52a5d5248863e8e-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "joshua58",
+    "email": "madison30@example.net",
+    "phone": "(563)567-5366x29267",
+    "website": "ashley.com",
+    "address": {
+      "street": "Bailey Gateway",
+      "suite": "Suite 276",
+      "city": "Nguyenchester",
+      "zipcode": "63174"
+    },
+    "company": {
+      "name": "Parker PLC",
+      "catchPhrase": "Switchable tertiary support",
+      "bs": "facilitate impactful ROI"
+    },
+    "id": 1
+  }
+}

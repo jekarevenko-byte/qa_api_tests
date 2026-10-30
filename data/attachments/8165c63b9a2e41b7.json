@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 83,
+  "headers": {
+    "Date": "Fri, 30 Oct 2026 12:18:45 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "200",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"c8-NvN2yGgVgEnNxyAyUVFJoK4D3rE\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1793365142",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sueBtQ3BBhnMbmK%2FdlRB5EsLySc27BBHlYbzewr6uuI4YFR5zviTMuxrimdGYZ2ZZ4TVV0Nqp7z5AepLC73Ko8nhn3%2BQPpS5JOK2es3bqaua9Fefgbm0lPwQjTLDKZKYs2Hf3sW8I20umQ3M0spg\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a52a5d4a2fff7543-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Every sort father ground staff draw what.",
+    "body": "Laugh agent call military role. Tv toward chance always church. Suggest Congress list course energy.",
+    "id": 101
+  }
+}

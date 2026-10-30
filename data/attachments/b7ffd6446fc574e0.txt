@@ -1,0 +1,2 @@
+12:18:45 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Every sort father ground staff draw what.', 'body': 'Laugh agent call military role. Tv toward chance always church. Suggest Congress list course energy.'}
+12:18:45 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (83 ms)

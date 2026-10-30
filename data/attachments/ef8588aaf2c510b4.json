@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Shelby Baker",
+    "username": "smithlisa",
+    "email": "max50@example.org",
+    "phone": "758-982-5084",
+    "website": "suarez-wilson.com",
+    "address": {
+      "street": "Pearson Wells",
+      "suite": "Suite 066",
+      "city": "New Danielleshire",
+      "zipcode": "49881"
+    },
+    "company": {
+      "name": "Davis, Martin and Caldwell",
+      "catchPhrase": "Assimilated multi-state initiative",
+      "bs": "morph compelling markets"
+    }
+  }
+}

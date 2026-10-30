@@ -1,0 +1,2 @@
+12:18:45 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Very hot environment else music exist analysis. Computer than word success but pattern. Institution quickly data yet.'}
+12:18:45 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (223 ms)

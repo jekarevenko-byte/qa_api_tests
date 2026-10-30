@@ -1,2 +1,0 @@
-12:27:16 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Christian Terrell', 'username': 'bennetttracey', 'email': 'nicholaspeterson@example.org', 'phone': '(258)962-3655', 'website': 'hawkins-sutton.org', 'address': {'street': 'Steele Ford', 'suite': 'Apt. 825', 'city': 'Gabrielleberg', 'zipcode': '64565'}, 'company': {'name': 'Bowen Group', 'catchPhrase': 'Versatile dynamic help-desk', 'bs': 'drive proactive ROI'}}
-12:27:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (59 ms)

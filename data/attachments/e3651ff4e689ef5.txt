@@ -1,0 +1,2 @@
+12:18:45 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Enter the deep raise season I defense. Win five detail discuss serve. Sense employee would ago.'}
+12:18:46 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (83 ms)

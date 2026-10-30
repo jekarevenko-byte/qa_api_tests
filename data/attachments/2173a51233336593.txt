@@ -1,0 +1,2 @@
+12:18:45 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Knowledge two think either make.', 'body': 'Scientist executive word. Better example score. Well total wall story cell.'}
+12:18:45 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (82 ms)

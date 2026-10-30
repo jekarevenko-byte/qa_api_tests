@@ -1,0 +1,2 @@
+12:18:46 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Shelby Baker', 'username': 'smithlisa', 'email': 'max50@example.org', 'phone': '758-982-5084', 'website': 'suarez-wilson.com', 'address': {'street': 'Pearson Wells', 'suite': 'Suite 066', 'city': 'New Danielleshire', 'zipcode': '49881'}, 'company': {'name': 'Davis, Martin and Caldwell', 'catchPhrase': 'Assimilated multi-state initiative', 'bs': 'morph compelling markets'}}
+12:18:46 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (81 ms)

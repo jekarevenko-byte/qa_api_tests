@@ -1,0 +1,2 @@
+12:18:46 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'rfrancis', 'email': 'zamoracalvin@example.org', 'phone': '001-350-699-2742', 'website': 'sandoval.com', 'address': {'street': 'Day Ridges', 'suite': 'Suite 479', 'city': 'Whitemouth', 'zipcode': '93104'}, 'company': {'name': 'Brown and Sons', 'catchPhrase': 'Pre-emptive client-driven product', 'bs': 'maximize wireless web-readiness'}}
+12:18:46 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (82 ms)

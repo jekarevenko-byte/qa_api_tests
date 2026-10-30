@@ -1,0 +1,2 @@
+12:18:46 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Kelly Martin', 'username': 'michaelfox', 'email': 'kedwards@example.com', 'phone': '+1-818-438-6838x0538', 'website': 'martinez.com', 'address': {'street': 'Krystal Center', 'suite': 'Suite 787', 'city': 'Ramirezstad', 'zipcode': '23381'}, 'company': {'name': 'Lopez and Sons', 'catchPhrase': 'Secured reciprocal implementation', 'bs': 'visualize killer deliverables'}}
+12:18:46 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (80 ms)

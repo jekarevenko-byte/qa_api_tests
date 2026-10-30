@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 80,
+  "headers": {
+    "Date": "Fri, 30 Oct 2026 12:18:46 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "443",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bb-VXDundcVXC4VtKkI81BfccZ5mxE\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1793365142",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5C1Gf3tXkBVKtahNGDrlqQIRvEZ89GiHi2szwQKmdtaSVtqkhhNfK3JpcBLLkA%2FfjImEMR5mbjEPaNDwYfq3gYhNITJnaq2Ox4v3mh7TlzRbRiSpmVpgH0gmGBx9O8TUrDR6hCtyQJTCRLEfRLec\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a52a5d50ad8f3e8e-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Kelly Martin",
+    "username": "michaelfox",
+    "email": "kedwards@example.com",
+    "phone": "+1-818-438-6838x0538",
+    "website": "martinez.com",
+    "address": {
+      "street": "Krystal Center",
+      "suite": "Suite 787",
+      "city": "Ramirezstad",
+      "zipcode": "23381"
+    },
+    "company": {
+      "name": "Lopez and Sons",
+      "catchPhrase": "Secured reciprocal implementation",
+      "bs": "visualize killer deliverables"
+    },
+    "id": 11
+  }
+}

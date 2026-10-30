@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 82,
+  "headers": {
+    "Date": "Fri, 30 Oct 2026 12:18:45 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "166",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"a6-sw/Y5d6ia9S+nFQZ/YVU/PL2/Iw\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1793365142",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sp2GijKbPk0Ee1s%2FeewfcnGbLlwYJYT6rK9VZ08LbwjhauWjI1B2qvvbHmNQDRUdF3qK8KvvgTFDEgraWrt27D%2BY7QQ9Cpa6Q%2Fh%2B0Wn1uvCWFF8YrbOB3%2FosUF4pUlaDgchWU486MQKbIKv4FrGq\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a52a5d4aa90b7543-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Knowledge two think either make.",
+    "body": "Scientist executive word. Better example score. Well total wall story cell.",
+    "id": 101
+  }
+}

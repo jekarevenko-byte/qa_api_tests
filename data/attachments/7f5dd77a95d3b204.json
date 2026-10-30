@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 82,
+  "headers": {
+    "Date": "Fri, 30 Oct 2026 12:18:46 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "438",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b6-Roas0k5oYrX1uSdhTLgG+I4m8F8\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1793365142",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hM8Qb1MzpJq0obzjk2y9RsmZWiig%2BRy1AHgwbOyTeZ6UoizW08pBSbiUqg0yIpH6KsdXDPC9sh1ko6A5A2QPArnIb9F5WUo%2FlPNFAJE20PXj8gV8OJ0K2z%2BlOT%2FOXYI%2FfD0tVomqyjNnlny1ouMV\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a52a5d512e7c3e8e-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "rfrancis",
+    "email": "zamoracalvin@example.org",
+    "phone": "001-350-699-2742",
+    "website": "sandoval.com",
+    "address": {
+      "street": "Day Ridges",
+      "suite": "Suite 479",
+      "city": "Whitemouth",
+      "zipcode": "93104"
+    },
+    "company": {
+      "name": "Brown and Sons",
+      "catchPhrase": "Pre-emptive client-driven product",
+      "bs": "maximize wireless web-readiness"
+    },
+    "id": 11
+  }
+}

@@ -1,0 +1,2 @@
+12:18:47 [INFO] DELETE https://jsonplaceholder.typicode.com/users/1 | params=None body=None
+12:18:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (81 ms)

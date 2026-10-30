@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Kelly Martin",
+    "username": "michaelfox",
+    "email": "kedwards@example.com",
+    "phone": "+1-818-438-6838x0538",
+    "website": "martinez.com",
+    "address": {
+      "street": "Krystal Center",
+      "suite": "Suite 787",
+      "city": "Ramirezstad",
+      "zipcode": "23381"
+    },
+    "company": {
+      "name": "Lopez and Sons",
+      "catchPhrase": "Secured reciprocal implementation",
+      "bs": "visualize killer deliverables"
+    }
+  }
+}

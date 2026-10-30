@@ -1,0 +1,4 @@
+12:18:47 [INFO] GET https://jsonplaceholder.typicode.com/users/1/posts | params=None body=None
+12:18:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1/posts  (9 ms)
+12:18:47 [INFO] GET https://jsonplaceholder.typicode.com/posts | params={'userId': 1} body=None
+12:18:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts?userId=1  (8 ms)

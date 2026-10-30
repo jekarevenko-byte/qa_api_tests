@@ -1,0 +1,2 @@
+12:18:46 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Mr. Ronald Johnson', 'username': 'david50', 'email': 'qa@example.com', 'phone': '001-270-250-4316x5037', 'website': 'nelson.biz', 'address': {'street': 'Lisa Island', 'suite': 'Suite 704', 'city': 'Kimland', 'zipcode': '29695'}, 'company': {'name': 'Moody, Clark and Cooke', 'catchPhrase': 'Compatible neutral benchmark', 'bs': 'syndicate scalable web services'}}
+12:18:46 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (85 ms)
