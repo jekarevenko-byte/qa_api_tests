@@ -4,6 +4,6 @@ allure-pytest==2.13.5
 requests==2.34.2
 python-dotenv==1.2.4
 pytest-xdist==3.8.0
-faker==40.43.0
+faker==40.44.0
 jsonschema==4.26.0
 pydantic==2.7.1
