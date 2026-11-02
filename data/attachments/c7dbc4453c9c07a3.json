@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 96,
+  "headers": {
+    "Date": "Mon, 02 Nov 2026 14:58:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bf-x3o6dDf8rs47S9xflPC828yVKZg\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1793632738",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=e6MLt0GB%2FTjdx8lkMDUeszKD4ZYKzOjdg57OVcBoiOIRHJLw2luYQiCkxgrKodf5R6ISpGQZ8zxKrsc87dheBIrxVzwY4Qny5kBFbfhVFN43pDF%2BWSc1A4aNdUZO9nLHgOelW9eXEjp7diY%2BqeD1\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a543ff218e7d0862-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "amandabarry",
+    "email": "danielnorma@example.com",
+    "phone": "+1-675-363-8923x459",
+    "website": "wood-dixon.com",
+    "address": {
+      "street": "Nicole Court",
+      "suite": "Suite 238",
+      "city": "East Malik",
+      "zipcode": "05301"
+    },
+    "company": {
+      "name": "Barnett-Thompson",
+      "catchPhrase": "Versatile eco-centric system engine",
+      "bs": "expedite efficient synergies"
+    },
+    "id": 1
+  }
+}

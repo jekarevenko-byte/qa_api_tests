@@ -1,0 +1,2 @@
+14:58:16 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Child matter way sing. Morning deal middle member tough might cost phone.'}
+14:58:16 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (103 ms)

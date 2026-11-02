@@ -1,0 +1,2 @@
+14:58:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'James Ray', 'username': 'april44', 'email': 'qa@example.com', 'phone': '684.624.0744x224', 'website': 'johnson.com', 'address': {'street': 'Robinson Drive', 'suite': 'Apt. 834', 'city': 'Keithside', 'zipcode': '04473'}, 'company': {'name': 'Guerra, Phillips and Cordova', 'catchPhrase': 'Reactive multi-tasking capacity', 'bs': 'integrate transparent eyeballs'}}
+14:58:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (91 ms)

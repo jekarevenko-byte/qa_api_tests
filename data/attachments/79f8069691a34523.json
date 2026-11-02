@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 87,
+  "headers": {
+    "Date": "Mon, 02 Nov 2026 14:58:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "436",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b4-u/yIOujZRU6qiJS7AUDt3XALcGY\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1793632738",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7iUiFMtQrGn6L5MyF0CwdUFC3iGxHjfN7u57IblVPTo5n4Z6t35wxmtsX6kA4Gs2qEyekGp2Hggr3PQ0WHVzqyuAiUuev0Fw4vxYz4QWkjK6fyFeA5jFrUcJtRl3MWMAmaxYe2ApO1DYK3n%2BpSKQ\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a543ff1f5a2d0862-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "vaughnamy",
+    "email": "robertsdebra@example.org",
+    "phone": "359.712.6818",
+    "website": "lopez.com",
+    "address": {
+      "street": "Glenda Isle",
+      "suite": "Apt. 578",
+      "city": "Kelleymouth",
+      "zipcode": "86241"
+    },
+    "company": {
+      "name": "York-Salas",
+      "catchPhrase": "Persistent zero administration middleware",
+      "bs": "deploy collaborative mindshare"
+    },
+    "id": 11
+  }
+}

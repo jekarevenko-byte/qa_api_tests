@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 91,
+  "headers": {
+    "Date": "Mon, 02 Nov 2026 14:58:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "436",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b4-zRjnJrKtpQYVbvGVPLNbbr4436o\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793632738",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Vq%2FHq2joeJybuGZuht4lIHAKZ8lXHey6rbffyk%2F377eWK2pryxgIAP4CwPrgSQHt15on08onLXrIXpJTWdeZfqBMEthKzkdovitjGxRCRttPnbcncVqnDOCk5Og5%2B03T%2BMYzRuLXvP90YUSRUrNL\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a543ff1feb6f0862-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "James Ray",
+    "username": "april44",
+    "email": "qa@example.com",
+    "phone": "684.624.0744x224",
+    "website": "johnson.com",
+    "address": {
+      "street": "Robinson Drive",
+      "suite": "Apt. 834",
+      "city": "Keithside",
+      "zipcode": "04473"
+    },
+    "company": {
+      "name": "Guerra, Phillips and Cordova",
+      "catchPhrase": "Reactive multi-tasking capacity",
+      "bs": "integrate transparent eyeballs"
+    },
+    "id": 11
+  }
+}

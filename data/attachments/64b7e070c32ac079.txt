@@ -1,0 +1,2 @@
+14:58:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Larry Romero', 'username': 'mccoykatelyn', 'email': 'gregorywilliams@example.org', 'phone': '001-458-462-1779x124', 'website': 'burgess.biz', 'address': {'street': 'Bradley Skyway', 'suite': 'Apt. 348', 'city': 'Toddland', 'zipcode': '18379'}, 'company': {'name': 'Martinez, Summers and Petty', 'catchPhrase': 'Reverse-engineered next generation encoding', 'bs': 'deliver cross-media functionalities'}}
+14:58:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (88 ms)

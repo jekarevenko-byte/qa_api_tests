@@ -1,0 +1,2 @@
+14:58:16 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Program source whom discover decide charge part. Suggest teach operation. Increase break indeed among door.'}
+14:58:16 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (174 ms)

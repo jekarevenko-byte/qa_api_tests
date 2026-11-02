@@ -1,0 +1,2 @@
+14:58:16 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Research meet someone positive.', 'body': 'Certain they money clear. If pretty care wish religious we close.'}
+14:58:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (90 ms)

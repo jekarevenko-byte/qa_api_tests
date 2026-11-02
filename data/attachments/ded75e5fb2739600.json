@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 90,
+  "headers": {
+    "Date": "Mon, 02 Nov 2026 14:58:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "442",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1ba-8rDXPPAnQIgQfc2ae9DL1SZre7o\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1793632738",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=wQm9rmpZQh1l03CgxdXEh3AQ2FcucWGyIEVN%2F20ILVQ39%2FA5Ym9Z76ypB25nLtrM8ImmzXZHfyz8TeW1DAIITYez%2BUpF5UvqG%2BM2ilhg9igAFksaQ6ILaybfGaibwW7aPwLQLkiQ3j0sX4jZ%2BwxZ\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a543ff1eb8ec0862-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Michelle Moore",
+    "username": "roy51",
+    "email": "jamie53@example.org",
+    "phone": "001-769-316-5992",
+    "website": "nielsen-harmon.com",
+    "address": {
+      "street": "Sandra Haven",
+      "suite": "Suite 039",
+      "city": "West Elizabethview",
+      "zipcode": "47679"
+    },
+    "company": {
+      "name": "Bennett-Rodriguez",
+      "catchPhrase": "Persevering stable alliance",
+      "bs": "scale 24/365 functionalities"
+    },
+    "id": 11
+  }
+}
