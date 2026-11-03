@@ -1,0 +1,2 @@
+13:45:58 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'melody23', 'email': 'glennsimmons@example.org', 'phone': '001-259-480-8094', 'website': 'white.com', 'address': {'street': 'Stone Ramp', 'suite': 'Apt. 120', 'city': 'East Anthony', 'zipcode': '21392'}, 'company': {'name': 'Lawrence, Miller and Murphy', 'catchPhrase': 'Digitized multi-state workforce', 'bs': 'grow next-generation e-tailers'}}
+13:45:58 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (55 ms)

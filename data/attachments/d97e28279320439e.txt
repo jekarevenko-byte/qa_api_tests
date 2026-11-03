@@ -1,2 +1,0 @@
-14:58:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'vaughnamy', 'email': 'robertsdebra@example.org', 'phone': '359.712.6818', 'website': 'lopez.com', 'address': {'street': 'Glenda Isle', 'suite': 'Apt. 578', 'city': 'Kelleymouth', 'zipcode': '86241'}, 'company': {'name': 'York-Salas', 'catchPhrase': 'Persistent zero administration middleware', 'bs': 'deploy collaborative mindshare'}}
-14:58:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (87 ms)

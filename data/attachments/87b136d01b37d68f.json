@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Jenny Andrade",
+    "username": "hannahriley",
+    "email": "hunter97@example.org",
+    "phone": "741.488.1377",
+    "website": "campbell-harper.com",
+    "address": {
+      "street": "Daniel Flat",
+      "suite": "Suite 866",
+      "city": "West Bradleyside",
+      "zipcode": "94347"
+    },
+    "company": {
+      "name": "Smith, Simmons and Wagner",
+      "catchPhrase": "Expanded static forecast",
+      "bs": "benchmark revolutionary e-services"
+    }
+  }
+}

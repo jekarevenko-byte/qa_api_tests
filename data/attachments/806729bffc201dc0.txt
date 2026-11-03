@@ -1,0 +1,2 @@
+13:45:58 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'loweryaustin', 'email': 'robert41@example.org', 'phone': '400.284.0903x17814', 'website': 'ortiz.com', 'address': {'street': 'Jeffrey Village', 'suite': 'Apt. 807', 'city': 'East Stevenside', 'zipcode': '28335'}, 'company': {'name': 'Jackson, Perry and Sanders', 'catchPhrase': 'Universal stable standardization', 'bs': 'optimize end-to-end relationships'}}
+13:45:58 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (30 ms)

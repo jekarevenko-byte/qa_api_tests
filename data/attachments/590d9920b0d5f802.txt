@@ -1,0 +1,2 @@
+13:45:58 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Mary Bush', 'username': 'moorelauren', 'email': 'lopezlisa@example.com', 'phone': '983.657.2399x3898', 'website': 'hawkins.com', 'address': {'street': 'Roberson Island', 'suite': 'Apt. 179', 'city': 'North Kyle', 'zipcode': '38586'}, 'company': {'name': 'Herrera, Schmidt and Powers', 'catchPhrase': 'Switchable transitional orchestration', 'bs': 'facilitate sticky paradigms'}}
+13:45:58 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (29 ms)

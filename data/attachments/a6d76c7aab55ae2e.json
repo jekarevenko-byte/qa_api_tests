@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 30,
+  "headers": {
+    "Date": "Tue, 03 Nov 2026 13:45:58 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "455",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c7-jj8uMB26q5AAsV+puaZx8Do51Uc\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793715538",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CzJUbM%2FxLceiphDXlDxKRs8Lt1zVhF7N4XqREEf%2FtIUdnat8yYehjVV81T0elHSJp8O9NZ22chlmGf7MoTmLhwJK%2FA5hbMIegP7H8arKwJvx2NOX%2BikTNobzIPcTnmTCODAm25fL6VAsQ3SCd8Y0\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a54bd28d5925f793-EWR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Erica Santos",
+    "username": "sandra03",
+    "email": "qa@example.com",
+    "phone": "001-734-497-6788x4260",
+    "website": "brady.biz",
+    "address": {
+      "street": "Mccoy Trace",
+      "suite": "Apt. 417",
+      "city": "South Melissaport",
+      "zipcode": "01113"
+    },
+    "company": {
+      "name": "Williams, Ruiz and Elliott",
+      "catchPhrase": "Right-sized mission-critical leverage",
+      "bs": "streamline user-centric paradigms"
+    },
+    "id": 11
+  }
+}

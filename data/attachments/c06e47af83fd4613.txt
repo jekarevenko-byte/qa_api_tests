@@ -1,0 +1,2 @@
+13:45:57 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Moment would where support like.', 'body': 'Clear mention drug issue improve authority spring. Pretty author walk media.'}
+13:45:58 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (35 ms)

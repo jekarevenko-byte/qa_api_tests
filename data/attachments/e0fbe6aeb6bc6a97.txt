@@ -1,2 +1,0 @@
-14:58:18 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Michelle Moore', 'username': 'roy51', 'email': 'jamie53@example.org', 'phone': '001-769-316-5992', 'website': 'nielsen-harmon.com', 'address': {'street': 'Sandra Haven', 'suite': 'Suite 039', 'city': 'West Elizabethview', 'zipcode': '47679'}, 'company': {'name': 'Bennett-Rodriguez', 'catchPhrase': 'Persevering stable alliance', 'bs': 'scale 24/365 functionalities'}}
-14:58:18 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (90 ms)

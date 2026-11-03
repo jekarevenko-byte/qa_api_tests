@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 29,
+  "headers": {
+    "Date": "Tue, 03 Nov 2026 13:45:58 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "452",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c4-Qw8CRZRpVAZ7AcGR4dJUwmTosY8\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1793715538",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VBEnUdEY4Xd3DB15Ff9yqSMBYd264G%2FqyAZJe6DYtY1KKkQ6txBp0pvq82p4kHntakul1mJNRPNs3xGEyIA%2BroOjRdc9JDmPRvH0akhzDH5n%2FR6coJ9k3MAZB1LLi7tgjKS4HulNaB50MBetiUc3\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a54bd28cbf9af793-EWR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Mary Bush",
+    "username": "moorelauren",
+    "email": "lopezlisa@example.com",
+    "phone": "983.657.2399x3898",
+    "website": "hawkins.com",
+    "address": {
+      "street": "Roberson Island",
+      "suite": "Apt. 179",
+      "city": "North Kyle",
+      "zipcode": "38586"
+    },
+    "company": {
+      "name": "Herrera, Schmidt and Powers",
+      "catchPhrase": "Switchable transitional orchestration",
+      "bs": "facilitate sticky paradigms"
+    },
+    "id": 11
+  }
+}

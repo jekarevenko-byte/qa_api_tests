@@ -1,0 +1,2 @@
+13:45:58 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jenny Andrade', 'username': 'hannahriley', 'email': 'hunter97@example.org', 'phone': '741.488.1377', 'website': 'campbell-harper.com', 'address': {'street': 'Daniel Flat', 'suite': 'Suite 866', 'city': 'West Bradleyside', 'zipcode': '94347'}, 'company': {'name': 'Smith, Simmons and Wagner', 'catchPhrase': 'Expanded static forecast', 'bs': 'benchmark revolutionary e-services'}}
+13:45:58 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (29 ms)

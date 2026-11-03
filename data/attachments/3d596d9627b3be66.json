@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Erica Santos",
+    "username": "sandra03",
+    "email": "qa@example.com",
+    "phone": "001-734-497-6788x4260",
+    "website": "brady.biz",
+    "address": {
+      "street": "Mccoy Trace",
+      "suite": "Apt. 417",
+      "city": "South Melissaport",
+      "zipcode": "01113"
+    },
+    "company": {
+      "name": "Williams, Ruiz and Elliott",
+      "catchPhrase": "Right-sized mission-critical leverage",
+      "bs": "streamline user-centric paradigms"
+    }
+  }
+}

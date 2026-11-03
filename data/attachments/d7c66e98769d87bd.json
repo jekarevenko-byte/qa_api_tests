@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 29,
+  "headers": {
+    "Date": "Tue, 03 Nov 2026 13:45:58 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "453",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c5-Sw4mwdG3SaXSJN5gIEzbYWw0Ka8\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1793715538",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CfwC5LMquKOtM5Ig1YEldfNNcnA%2BrwxZqjsAI5OqHCjN4CY0EsOSJPdIGtLs%2B3Z1wtAxFtjKdUK46Y3cSxl4rHkccUeZiXR1S8ARv5T3m7k73MPZRdB%2BQEPvbHg5gjNK4Zi2idvztjZ6UWtp813n\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a54bd28ce818f793-EWR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Jenny Andrade",
+    "username": "hannahriley",
+    "email": "hunter97@example.org",
+    "phone": "741.488.1377",
+    "website": "campbell-harper.com",
+    "address": {
+      "street": "Daniel Flat",
+      "suite": "Suite 866",
+      "city": "West Bradleyside",
+      "zipcode": "94347"
+    },
+    "company": {
+      "name": "Smith, Simmons and Wagner",
+      "catchPhrase": "Expanded static forecast",
+      "bs": "benchmark revolutionary e-services"
+    },
+    "id": 11
+  }
+}
