@@ -1,2 +1,0 @@
-13:45:58 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'North success condition painting painting admit represent.', 'body': 'Attention sell each tax company box another politics.'}
-13:45:58 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (26 ms)

@@ -1,0 +1,2 @@
+13:54:37 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Establish head dog prepare police agency church. Image man also woman. Bit after meet member magazine.'}
+13:54:37 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (56 ms)

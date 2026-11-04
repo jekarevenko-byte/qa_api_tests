@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 52,
+  "headers": {
+    "Date": "Wed, 04 Nov 2026 13:54:38 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "439",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b7-mWI5vFvNHqBN0eXK2+ZzKyfeae8\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793800827",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=en2ZVoLP65KuMF4FS15hcxPH%2BNwTV2cUE0hxPIBwx2MDQC1wA%2BknaKLNb6Ps%2F%2FtyevloVuHWzfX7UiqgG1587VqYoceVo7luQye6EmWgtT2bGjC7K6xeeO7PB6BLPzvYJmW4dDF2UyBgp4suJxmr\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5541c9d58f8c8ee-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Jennifer Morrison MD",
+    "username": "mary36",
+    "email": "qa@example.com",
+    "phone": "370-973-6031x0076",
+    "website": "deleon.com",
+    "address": {
+      "street": "Walker Lodge",
+      "suite": "Apt. 909",
+      "city": "Stephanieside",
+      "zipcode": "83090"
+    },
+    "company": {
+      "name": "Sosa-Watkins",
+      "catchPhrase": "Synergistic interactive projection",
+      "bs": "redefine efficient functionalities"
+    },
+    "id": 11
+  }
+}

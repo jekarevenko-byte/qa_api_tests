@@ -1,0 +1,2 @@
+13:54:38 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jennifer Morrison MD', 'username': 'mary36', 'email': 'qa@example.com', 'phone': '370-973-6031x0076', 'website': 'deleon.com', 'address': {'street': 'Walker Lodge', 'suite': 'Apt. 909', 'city': 'Stephanieside', 'zipcode': '83090'}, 'company': {'name': 'Sosa-Watkins', 'catchPhrase': 'Synergistic interactive projection', 'bs': 'redefine efficient functionalities'}}
+13:54:38 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (52 ms)

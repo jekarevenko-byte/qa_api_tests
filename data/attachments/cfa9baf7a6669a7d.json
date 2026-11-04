@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 61,
+  "headers": {
+    "Date": "Wed, 04 Nov 2026 13:54:37 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "135",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"87-cetsDVQrbJa9XGnW6PLzJ+nz7Nc\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1793800827",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5NcamsC%2BpR0bfUMB%2BZ4MEcuaHZUE9KaB6xHoq1E2ilIcBB5jg%2BqpisMAjSa7FXT2cYWiO1TvAMTZCBgZO6sRYJy10XTftYzm3CfKJoii9ZM2vduTi9%2B%2BFTK4aENaSWcD0ibI2contb8xaazJ%2F%2B9W\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5541c96fbea61f8-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Night newspaper training experience arm.",
+    "body": "Us she someone water part something.",
+    "id": 101
+  }
+}

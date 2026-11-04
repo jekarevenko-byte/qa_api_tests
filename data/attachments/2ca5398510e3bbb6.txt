@@ -1,0 +1,2 @@
+13:54:37 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Night newspaper training experience arm.', 'body': 'Us she someone water part something.'}
+13:54:37 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (61 ms)

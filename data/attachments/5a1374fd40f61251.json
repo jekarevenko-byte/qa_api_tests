@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 50,
+  "headers": {
+    "Date": "Wed, 04 Nov 2026 13:54:38 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "441",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b9-vjj/BZUEqQCqqELTjJ1C8B9qh40\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1793800827",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Yd%2BUR%2B66Xso6VCK8pdfyNDdBTTbwRWO0%2F01TVhozRfCJfesQICFObmZDDzGPH5W3jd8vKvrQBG120H7hMP0xqF%2FUxelznxMuuAHouQBD1T2fXWYhLBiphwGiCOBjt4fQNygjbyDH9J6yf5ZTsfV%2F\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5541c9d0f9bc8ee-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "brandonsanchez",
+    "email": "lhicks@example.net",
+    "phone": "7778541312",
+    "website": "moran.com",
+    "address": {
+      "street": "Eric Street",
+      "suite": "Apt. 420",
+      "city": "New Jonathanmouth",
+      "zipcode": "90910"
+    },
+    "company": {
+      "name": "Best, Parks and Johnson",
+      "catchPhrase": "Adaptive empowering implementation",
+      "bs": "transition interactive ROI"
+    },
+    "id": 11
+  }
+}

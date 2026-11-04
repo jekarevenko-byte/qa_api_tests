@@ -1,0 +1,2 @@
+13:54:36 [INFO] GET https://jsonplaceholder.typicode.com/posts/10 | params=None body=None
+13:54:37 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/10  (46 ms)

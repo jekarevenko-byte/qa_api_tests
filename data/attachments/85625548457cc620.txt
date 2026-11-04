@@ -1,0 +1,2 @@
+13:54:38 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'David Mckinney', 'username': 'robertgarcia', 'email': 'sloanjames@example.net', 'phone': '(847)720-5414x6766', 'website': 'johnson.com', 'address': {'street': 'Mahoney Corners', 'suite': 'Apt. 599', 'city': 'North Stephanieshire', 'zipcode': '40029'}, 'company': {'name': 'Schroeder, Welch and Stone', 'catchPhrase': 'Switchable client-server solution', 'bs': 'optimize rich applications'}}
+13:54:38 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (54 ms)

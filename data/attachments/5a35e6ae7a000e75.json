@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "brandonsanchez",
+    "email": "lhicks@example.net",
+    "phone": "7778541312",
+    "website": "moran.com",
+    "address": {
+      "street": "Eric Street",
+      "suite": "Apt. 420",
+      "city": "New Jonathanmouth",
+      "zipcode": "90910"
+    },
+    "company": {
+      "name": "Best, Parks and Johnson",
+      "catchPhrase": "Adaptive empowering implementation",
+      "bs": "transition interactive ROI"
+    }
+  }
+}

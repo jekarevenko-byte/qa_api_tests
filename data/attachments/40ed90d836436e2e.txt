@@ -1,2 +1,0 @@
-13:45:58 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Can upon later drive Mr over these. Sound term seven push western what trial herself. Coach receive Congress especially design.'}
-13:45:58 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (31 ms)
