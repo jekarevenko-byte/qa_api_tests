@@ -1,2 +1,0 @@
-13:54:37 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Instead begin stage.', 'body': 'These understand challenge surface condition deal. Market daughter morning trouble dream both.'}
-13:54:37 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (62 ms)

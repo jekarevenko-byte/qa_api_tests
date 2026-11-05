@@ -1,0 +1,2 @@
+14:10:48 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'johnsonlynn', 'email': 'romerokaren@example.org', 'phone': '(718)208-7416', 'website': 'wyatt.org', 'address': {'street': 'King Rapids', 'suite': 'Apt. 814', 'city': 'Joshuafort', 'zipcode': '91128'}, 'company': {'name': 'Henderson Group', 'catchPhrase': 'Assimilated optimal process improvement', 'bs': 'empower 24/7 communities'}}
+14:10:48 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (268 ms)

@@ -1,0 +1,2 @@
+14:10:48 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'wanda85', 'email': 'orussell@example.com', 'phone': '(963)935-2112x275', 'website': 'snow-estrada.com', 'address': {'street': 'Catherine Parkway', 'suite': 'Apt. 329', 'city': 'South Jessicahaven', 'zipcode': '59924'}, 'company': {'name': 'Richardson-Love', 'catchPhrase': 'Team-oriented systemic Local Area Network', 'bs': 'strategize global methodologies'}}
+14:10:48 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (118 ms)

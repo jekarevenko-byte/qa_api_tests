@@ -1,2 +1,0 @@
-13:54:38 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Bobby Mathews', 'username': 'teresa05', 'email': 'danielromero@example.com', 'phone': '001-423-988-2528', 'website': 'ramsey.com', 'address': {'street': 'Jeffrey Burgs', 'suite': 'Apt. 560', 'city': 'Hawkinsfort', 'zipcode': '28844'}, 'company': {'name': 'Eaton, Miles and Burton', 'catchPhrase': 'Decentralized neutral moderator', 'bs': 'innovate next-generation functionalities'}}
-13:54:38 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (55 ms)

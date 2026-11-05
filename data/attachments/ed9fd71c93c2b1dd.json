@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 116,
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 14:10:46 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "223",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"df-zqDB/pfBeK7TsN88IzoNg39SSOI\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1793890827",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Y5f0MyITPcqeqgWrWZ85pxnY3hV0zisMDM%2FW%2BkOYCsNIK7LvonVfJ4A8BTHKMiBE9lSgWH%2FKEW65e7zm21FmwwZPMKvwOyF68XVAbDq%2BKGkCzYRF00f7eZh1SlivCAnO1LQV06XbLprD9bAgmTnm\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a55c71a12e71fb34-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Structure treat consumer share science possible successful.",
+    "body": "Piece over kid knowledge north morning. Difficult suffer population let only. Even box research pressure.",
+    "id": 101
+  }
+}

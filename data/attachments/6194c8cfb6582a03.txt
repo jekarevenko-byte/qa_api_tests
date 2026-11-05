@@ -1,0 +1,2 @@
+14:10:46 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Structure treat consumer share science possible successful.', 'body': 'Piece over kid knowledge north morning. Difficult suffer population let only. Even box research pressure.'}
+14:10:46 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (116 ms)

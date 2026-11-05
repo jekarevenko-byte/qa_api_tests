@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Amy Ferguson",
+    "username": "gmiranda",
+    "email": "fryelisa@example.com",
+    "phone": "355-803-4770",
+    "website": "mitchell.org",
+    "address": {
+      "street": "Ashley Crossroad",
+      "suite": "Apt. 992",
+      "city": "Lauriefort",
+      "zipcode": "35291"
+    },
+    "company": {
+      "name": "Wang PLC",
+      "catchPhrase": "Managed eco-centric architecture",
+      "bs": "evolve strategic partnerships"
+    }
+  }
+}

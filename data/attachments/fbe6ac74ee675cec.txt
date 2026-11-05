@@ -1,0 +1,2 @@
+14:10:48 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Larry Brooks', 'username': 'kknight', 'email': 'qa@example.com', 'phone': '249-610-8786x0270', 'website': 'jefferson.net', 'address': {'street': 'Donna Curve', 'suite': 'Apt. 527', 'city': 'North Traci', 'zipcode': '45288'}, 'company': {'name': 'Kaufman PLC', 'catchPhrase': 'Cross-group leadingedge ability', 'bs': 'integrate cross-platform interfaces'}}
+14:10:48 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (113 ms)

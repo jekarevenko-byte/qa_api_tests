@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 113,
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 14:10:48 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "429",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1ad-K+mrCJ9rKCEteHWRybb5JBnp5C4\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793890827",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3Utxp3W1ht7cxHgpynUV8lHU1MZ0PNQdzsXoxqKoMenBTaDMuxF4nm6%2FCvA%2BsaUBUJ%2B0biVtNtw7Nmq85jgZkF9pk54IPg03efQTJvikm%2FeqhGM4JqmrfLAS476U6tN9TY%2Bpuq7GF6dmOWv0JtNm\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a55c71ad1bfd2710-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Larry Brooks",
+    "username": "kknight",
+    "email": "qa@example.com",
+    "phone": "249-610-8786x0270",
+    "website": "jefferson.net",
+    "address": {
+      "street": "Donna Curve",
+      "suite": "Apt. 527",
+      "city": "North Traci",
+      "zipcode": "45288"
+    },
+    "company": {
+      "name": "Kaufman PLC",
+      "catchPhrase": "Cross-group leadingedge ability",
+      "bs": "integrate cross-platform interfaces"
+    },
+    "id": 11
+  }
+}
