@@ -1,2 +1,0 @@
-14:10:46 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Law allow interview suddenly oil defense whom it.', 'body': 'Film rock view lose. Develop trial wear item contain ok. Least almost include wall half admit.'}
-14:10:46 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (115 ms)

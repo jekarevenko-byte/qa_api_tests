@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 39,
+  "headers": {
+    "Date": "Fri, 06 Nov 2026 13:52:54 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "444",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bc-5PjjNADicmlEf3k3rx7Hrt2qHuk\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1793973627",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Zzbb1dzmpN8ZQkw5CAlqWm91dStxzE%2BrTftEsTW8cGtghNobL0BjoU9Y3vA%2FDxjHf8gg9Chl6Qc8ZA6B8eULtis%2BlWh7YliUJnfqXV6PrASvkSt2VbXQfxd2ys%2FvVsf8CyGH3ST12CMfi5c7F%2B2e\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a56494d4ad841fde-YUL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "qsmith",
+    "email": "joshua17@example.net",
+    "phone": "465-808-8310x2470",
+    "website": "long-thompson.com",
+    "address": {
+      "street": "Dawn Junctions",
+      "suite": "Apt. 811",
+      "city": "East John",
+      "zipcode": "02468"
+    },
+    "company": {
+      "name": "Garrison Group",
+      "catchPhrase": "Enhanced mission-critical access",
+      "bs": "facilitate mission-critical channels"
+    },
+    "id": 11
+  }
+}

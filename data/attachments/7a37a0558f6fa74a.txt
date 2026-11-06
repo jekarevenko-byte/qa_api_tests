@@ -1,0 +1,2 @@
+13:52:54 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'qsmith', 'email': 'joshua17@example.net', 'phone': '465-808-8310x2470', 'website': 'long-thompson.com', 'address': {'street': 'Dawn Junctions', 'suite': 'Apt. 811', 'city': 'East John', 'zipcode': '02468'}, 'company': {'name': 'Garrison Group', 'catchPhrase': 'Enhanced mission-critical access', 'bs': 'facilitate mission-critical channels'}}
+13:52:54 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (39 ms)

@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 48,
+  "headers": {
+    "Date": "Fri, 06 Nov 2026 13:52:53 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "188",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"bc-XdPGPmf8Loyy+OIgq58OpJZZXWA\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1793973627",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zHPKxrTJGpcRJCF1cabIHDeoRjR6loP9%2B8tSGqEot7dWpgkAUJeEKTmbKHJHfeZxNGoM7PAGrU4pOjCQtPW3YSuh0ityt301E9i0BJd58tmJjruwSedkzhka3TURBjFLIZLA50WRR5jBKhNec6yZ\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a56494cfde0b0fd5-YUL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Blue visit be great.",
+    "body": "Their particularly purpose hair. Let president well somebody kind environment. Peace trouble scene professor.",
+    "id": 101
+  }
+}

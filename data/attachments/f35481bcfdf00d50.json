@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 48,
+  "headers": {
+    "Date": "Fri, 06 Nov 2026 13:52:54 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "438",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b6-7ECKzWMVutlCY/6Vcg4WWmZgmEw\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1793973627",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=unORjp%2Fto6k8Rcwheq8qOBXuIaOtbLEpgTQjsA7%2B%2B9wga1aOlV1DB6HpJYBv2gS9zHt8n8Ogadh0f2R2H%2BEAF1aoz2tJL9iLPwyA7Mnq8P4aA%2FUHCouAG7q1QxacR76JKBa0H192EofnIKozs%2BLW\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a56494d4fe631fde-YUL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Jesse Huffman",
+    "username": "gravesmichaela",
+    "email": "qa@example.com",
+    "phone": "001-668-226-6621x04186",
+    "website": "taylor.net",
+    "address": {
+      "street": "Erin Fort",
+      "suite": "Suite 591",
+      "city": "Herreraside",
+      "zipcode": "78238"
+    },
+    "company": {
+      "name": "Powell, Ward and Riley",
+      "catchPhrase": "Organic mission-critical database",
+      "bs": "implement magnetic ROI"
+    },
+    "id": 11
+  }
+}

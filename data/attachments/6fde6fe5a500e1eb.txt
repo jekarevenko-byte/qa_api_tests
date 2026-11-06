@@ -1,2 +1,0 @@
-14:10:48 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Amy Ferguson', 'username': 'gmiranda', 'email': 'fryelisa@example.com', 'phone': '355-803-4770', 'website': 'mitchell.org', 'address': {'street': 'Ashley Crossroad', 'suite': 'Apt. 992', 'city': 'Lauriefort', 'zipcode': '35291'}, 'company': {'name': 'Wang PLC', 'catchPhrase': 'Managed eco-centric architecture', 'bs': 'evolve strategic partnerships'}}
-14:10:48 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (122 ms)

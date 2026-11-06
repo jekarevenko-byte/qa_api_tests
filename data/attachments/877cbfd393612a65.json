@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "flewis",
+    "email": "hillstephen@example.com",
+    "phone": "468.970.8751",
+    "website": "robertson.biz",
+    "address": {
+      "street": "Rodney Cliffs",
+      "suite": "Apt. 032",
+      "city": "North Kyle",
+      "zipcode": "77280"
+    },
+    "company": {
+      "name": "Kline-Anderson",
+      "catchPhrase": "Horizontal 6thgeneration database",
+      "bs": "leverage plug-and-play niches"
+    }
+  }
+}

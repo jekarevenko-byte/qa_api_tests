@@ -1,2 +1,0 @@
-14:10:48 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jennifer Carter', 'username': 'hannahschroeder', 'email': 'lstephenson@example.net', 'phone': '884-922-8826', 'website': 'jimenez.com', 'address': {'street': 'Hill Circles', 'suite': 'Apt. 266', 'city': 'South Larryhaven', 'zipcode': '04985'}, 'company': {'name': 'Stafford and Sons', 'catchPhrase': 'Monitored solution-oriented migration', 'bs': 'deliver robust solutions'}}
-14:10:48 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (119 ms)

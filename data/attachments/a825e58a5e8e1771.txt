@@ -1,2 +1,0 @@
-14:10:48 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'kelly18', 'email': 'plogan@example.com', 'phone': '866.578.1110x959', 'website': 'lee-smith.com', 'address': {'street': 'Munoz Branch', 'suite': 'Suite 505', 'city': 'West Bryan', 'zipcode': '32640'}, 'company': {'name': 'Hartman Group', 'catchPhrase': 'Expanded 3rdgeneration firmware', 'bs': 'synthesize real-time ROI'}}
-14:10:48 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (118 ms)

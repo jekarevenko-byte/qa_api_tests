@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Mary Romero MD",
+    "username": "obrienjoseph",
+    "email": "wpotter@example.com",
+    "phone": "001-875-522-9947",
+    "website": "white.biz",
+    "address": {
+      "street": "Timothy Radial",
+      "suite": "Apt. 880",
+      "city": "Guerraton",
+      "zipcode": "27326"
+    },
+    "company": {
+      "name": "Robinson, Brown and Lewis",
+      "catchPhrase": "User-friendly maximized website",
+      "bs": "mesh clicks-and-mortar infrastructures"
+    }
+  }
+}

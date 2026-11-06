@@ -1,2 +1,0 @@
-14:10:48 [INFO] GET https://jsonplaceholder.typicode.com/users/99999 | params=None body=None
-14:10:48 [INFO] ← 404 https://jsonplaceholder.typicode.com/users/99999  (39 ms)

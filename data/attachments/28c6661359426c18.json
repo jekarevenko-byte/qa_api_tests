@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 44,
+  "headers": {
+    "Date": "Fri, 06 Nov 2026 13:52:54 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1af-+6yqFAUzq2l4DLePgSkiU80IEmw\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1793973627",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DxQfxBq23mi%2BAOndIyMVwzZfWIWTu58ZE9i93YXjrNGKeOIGSbWEfzLGsQdPHp1tMBHBb%2FhUKi2iLOB3gO6E8bHLLws6pFPLLwSDpfg7A12asxqWXSEa%2BjitbhwGEu%2F5yJbKY%2FQb5tSdyZDSf7%2Bl\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a56494d5d9451fde-YUL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "flewis",
+    "email": "hillstephen@example.com",
+    "phone": "468.970.8751",
+    "website": "robertson.biz",
+    "address": {
+      "street": "Rodney Cliffs",
+      "suite": "Apt. 032",
+      "city": "North Kyle",
+      "zipcode": "77280"
+    },
+    "company": {
+      "name": "Kline-Anderson",
+      "catchPhrase": "Horizontal 6thgeneration database",
+      "bs": "leverage plug-and-play niches"
+    },
+    "id": 1
+  }
+}
