@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 46,
+  "headers": {
+    "Date": "Mon, 09 Nov 2026 15:28:03 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "431",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1af-EwU2FUxEd6Z5K9uy6vw3FRwMasA\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1794238880",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XE4LDqgm9KlHRpNg3BjxMuCcNpLtBI6nqqNW8%2Fn935gBuCHFz6G9RjSLzFzhdGpk8idjS%2FtU7Ruux4qF3m627i4xcAy7xWPmKk77Gegt%2BcjUgLUhf%2Fwj90qxPA8aoIU0PRt97QJLlCsIe3d8aGT4\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a57dd8560c390956-EWR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Alicia Coleman",
+    "username": "jonathan40",
+    "email": "kyle84@example.net",
+    "phone": "(840)359-3882x00026",
+    "website": "erickson-holmes.com",
+    "address": {
+      "street": "Cory Junction",
+      "suite": "Suite 241",
+      "city": "Loriton",
+      "zipcode": "70296"
+    },
+    "company": {
+      "name": "Barajas Ltd",
+      "catchPhrase": "Advanced secondary success",
+      "bs": "grow synergistic bandwidth"
+    },
+    "id": 11
+  }
+}

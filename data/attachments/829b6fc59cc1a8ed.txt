@@ -1,2 +1,0 @@
-13:52:54 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Michael Reed', 'username': 'christopherstanley', 'email': 'john07@example.net', 'phone': '510.709.6577x0568', 'website': 'jones-bell.com', 'address': {'street': 'Sanders Ports', 'suite': 'Apt. 666', 'city': 'North Angelastad', 'zipcode': '04465'}, 'company': {'name': 'Gomez and Sons', 'catchPhrase': 'Face-to-face secondary open system', 'bs': 'expedite one-to-one paradigms'}}
-13:52:54 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (44 ms)

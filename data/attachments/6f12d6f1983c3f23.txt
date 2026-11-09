@@ -1,0 +1,2 @@
+15:28:03 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'andreakeller', 'email': 'joseph47@example.com', 'phone': '733-394-9329', 'website': 'rocha.com', 'address': {'street': 'Frazier Light', 'suite': 'Apt. 145', 'city': 'New Evelyn', 'zipcode': '62689'}, 'company': {'name': 'Poole, Long and Vincent', 'catchPhrase': 'Persevering motivating functionalities', 'bs': 'engage frictionless infrastructures'}}
+15:28:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (31 ms)

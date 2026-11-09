@@ -1,0 +1,2 @@
+15:28:03 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Alicia Coleman', 'username': 'jonathan40', 'email': 'kyle84@example.net', 'phone': '(840)359-3882x00026', 'website': 'erickson-holmes.com', 'address': {'street': 'Cory Junction', 'suite': 'Suite 241', 'city': 'Loriton', 'zipcode': '70296'}, 'company': {'name': 'Barajas Ltd', 'catchPhrase': 'Advanced secondary success', 'bs': 'grow synergistic bandwidth'}}
+15:28:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (46 ms)

@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 57,
+  "headers": {
+    "Date": "Mon, 09 Nov 2026 15:28:03 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c7-9usDdAoMfFDzZVmh5nnQ0I1Rfo4\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1794238880",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lZaz3VJ0xh6BHO2iSi4TXFCuroV%2BpswuAzA9x54O6CEcIGj8jLreyGFDenv%2FJt%2BNL%2FffROVoJA9eETzcN3yaMhkAjhRy6wNbfllBTEKhzrbPZp9kzXlX4ffrCLaCr5W7XuW401GLRLcmy9ZfN5Jj\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a57dd856ce6d0956-EWR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "kimberlymartinez",
+    "email": "mcintyrebrenda@example.net",
+    "phone": "599-535-8267x35461",
+    "website": "suarez.net",
+    "address": {
+      "street": "Michelle Ferry",
+      "suite": "Apt. 348",
+      "city": "Hodgesburgh",
+      "zipcode": "66271"
+    },
+    "company": {
+      "name": "Bailey-Rogers",
+      "catchPhrase": "Vision-oriented background forecast",
+      "bs": "generate cross-platform interfaces"
+    },
+    "id": 1
+  }
+}

@@ -1,2 +1,0 @@
-13:52:54 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jesse Huffman', 'username': 'gravesmichaela', 'email': 'qa@example.com', 'phone': '001-668-226-6621x04186', 'website': 'taylor.net', 'address': {'street': 'Erin Fort', 'suite': 'Suite 591', 'city': 'Herreraside', 'zipcode': '78238'}, 'company': {'name': 'Powell, Ward and Riley', 'catchPhrase': 'Organic mission-critical database', 'bs': 'implement magnetic ROI'}}
-13:52:54 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (48 ms)

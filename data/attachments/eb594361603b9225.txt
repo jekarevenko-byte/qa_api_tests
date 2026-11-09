@@ -1,0 +1,2 @@
+15:28:03 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Tonya Nelson', 'username': 'jsavage', 'email': 'kreyes@example.com', 'phone': '351.337.8715', 'website': 'moore.info', 'address': {'street': 'Ross Highway', 'suite': 'Suite 405', 'city': 'Leechester', 'zipcode': '29129'}, 'company': {'name': 'Baker-Porter', 'catchPhrase': 'Multi-tiered zero administration support', 'bs': 'repurpose rich e-commerce'}}
+15:28:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (34 ms)

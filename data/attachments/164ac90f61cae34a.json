@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Alicia Coleman",
+    "username": "jonathan40",
+    "email": "kyle84@example.net",
+    "phone": "(840)359-3882x00026",
+    "website": "erickson-holmes.com",
+    "address": {
+      "street": "Cory Junction",
+      "suite": "Suite 241",
+      "city": "Loriton",
+      "zipcode": "70296"
+    },
+    "company": {
+      "name": "Barajas Ltd",
+      "catchPhrase": "Advanced secondary success",
+      "bs": "grow synergistic bandwidth"
+    }
+  }
+}
