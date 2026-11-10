@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Kenneth Williams",
+    "username": "gregorysaunders",
+    "email": "qa@example.com",
+    "phone": "+1-788-927-5607x9417",
+    "website": "malone.com",
+    "address": {
+      "street": "Whitney Centers",
+      "suite": "Suite 049",
+      "city": "Johnbury",
+      "zipcode": "06089"
+    },
+    "company": {
+      "name": "Holden, Green and Hayes",
+      "catchPhrase": "User-friendly contextually-based forecast",
+      "bs": "synergize front-end users"
+    }
+  }
+}

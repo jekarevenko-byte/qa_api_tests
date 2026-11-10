@@ -1,0 +1,2 @@
+14:28:47 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Reveal show perform network rule daughter firm own.', 'body': 'You research hotel free. Draw administration dream. Network six Mrs.'}
+14:28:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (21 ms)

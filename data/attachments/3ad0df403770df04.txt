@@ -1,2 +1,0 @@
-15:28:03 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Dr. Kenneth James', 'username': 'elizabeth04', 'email': 'qa@example.com', 'phone': '001-267-775-0085x81806', 'website': 'jackson.org', 'address': {'street': 'Jesse Parkways', 'suite': 'Apt. 788', 'city': 'Barnettside', 'zipcode': '26160'}, 'company': {'name': 'Frost-Smith', 'catchPhrase': 'Innovative client-server capability', 'bs': 'harness scalable infrastructures'}}
-15:28:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (31 ms)

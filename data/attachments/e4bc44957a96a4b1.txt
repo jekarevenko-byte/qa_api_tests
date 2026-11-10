@@ -1,2 +1,0 @@
-15:28:03 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'silvajessica', 'email': 'brandontorres@example.com', 'phone': '001-825-694-0401x25584', 'website': 'foster-williams.com', 'address': {'street': 'Harris Point', 'suite': 'Apt. 467', 'city': 'Ruizview', 'zipcode': '32190'}, 'company': {'name': 'Skinner Group', 'catchPhrase': 'Reverse-engineered non-volatile open system', 'bs': 'benchmark scalable applications'}}
-15:28:03 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (31 ms)

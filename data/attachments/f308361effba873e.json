@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 24,
+  "headers": {
+    "Date": "Tue, 10 Nov 2026 14:28:47 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "142",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"8e-h3FktrGMOLgK8bXmK7icwR5ZbLg\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1794322819",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=TKICQFj6pcPpZBsNinTQB4AlXwkOnyELDtt12OdsAJHz0ZwcN6CvWvScyo8lbviS6DVsqXZdpWoj2lNMOsjRTcnjVm0k2uJBrwrzywDj4tskMMK3p4b4eIz9eIatqTgLT1XWIurwh1cjvEVUfN83\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a585bee35adfc98c-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Them vote under guess.",
+    "body": "Least themselves foreign and. Large fast use part hand serve.",
+    "id": 101
+  }
+}

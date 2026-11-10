@@ -1,2 +1,0 @@
-15:28:03 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Task board apply everyone reduce through yeah. I reach child leg apply word.'}
-15:28:03 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (75 ms)

@@ -1,2 +1,0 @@
-15:28:02 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 3, 'title': 'My QA Title', 'body': 'Some body text'}
-15:28:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (28 ms)

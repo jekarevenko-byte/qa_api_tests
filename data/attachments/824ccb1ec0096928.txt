@@ -1,2 +1,0 @@
-15:28:02 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Money already least glass growth player economy.', 'body': 'Sister commercial apply trouble American present. To current other program than. Red summer add according.'}
-15:28:02 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (47 ms)

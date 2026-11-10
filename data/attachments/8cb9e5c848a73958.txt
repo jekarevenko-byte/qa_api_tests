@@ -1,2 +1,0 @@
-15:28:02 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Ready serve I test recognize eye owner step.', 'body': 'Business world no thank seem. No with attack detail. Actually human official simply design notice us. Phone see case rather design impact.'}
-15:28:02 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (27 ms)

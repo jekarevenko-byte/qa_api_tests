@@ -1,0 +1,2 @@
+14:28:47 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Enter soldier mouth stop better unit. Trade mission region tend.'}
+14:28:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (30 ms)

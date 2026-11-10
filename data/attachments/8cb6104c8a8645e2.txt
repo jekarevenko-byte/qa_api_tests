@@ -1,0 +1,2 @@
+14:28:47 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'rodrigueztyler', 'email': 'langanna@example.org', 'phone': '+1-598-443-6710x96085', 'website': 'brennan.info', 'address': {'street': 'Jeffrey Passage', 'suite': 'Suite 471', 'city': 'Lake Darius', 'zipcode': '38458'}, 'company': {'name': 'Delgado Group', 'catchPhrase': 'Organized mission-critical system engine', 'bs': 'monetize rich markets'}}
+14:28:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (27 ms)

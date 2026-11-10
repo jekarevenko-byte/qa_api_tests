@@ -1,0 +1,2 @@
+14:28:47 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Kenneth Williams', 'username': 'gregorysaunders', 'email': 'qa@example.com', 'phone': '+1-788-927-5607x9417', 'website': 'malone.com', 'address': {'street': 'Whitney Centers', 'suite': 'Suite 049', 'city': 'Johnbury', 'zipcode': '06089'}, 'company': {'name': 'Holden, Green and Hayes', 'catchPhrase': 'User-friendly contextually-based forecast', 'bs': 'synergize front-end users'}}
+14:28:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (19 ms)

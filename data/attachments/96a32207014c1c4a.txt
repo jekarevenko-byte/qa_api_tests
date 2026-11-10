@@ -1,0 +1,2 @@
+14:28:47 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Them vote under guess.', 'body': 'Least themselves foreign and. Large fast use part hand serve.'}
+14:28:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (24 ms)

@@ -1,0 +1,2 @@
+14:28:47 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'gmcmahon', 'email': 'jroberson@example.net', 'phone': '7122305233', 'website': 'murphy-morton.com', 'address': {'street': 'Marie Forest', 'suite': 'Apt. 970', 'city': 'North Amandachester', 'zipcode': '91945'}, 'company': {'name': 'Jones-Barber', 'catchPhrase': 'Multi-channeled foreground middleware', 'bs': 'productize leading-edge e-business'}}
+14:28:47 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (26 ms)

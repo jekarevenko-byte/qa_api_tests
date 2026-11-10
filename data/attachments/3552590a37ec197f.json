@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 27,
+  "headers": {
+    "Date": "Tue, 10 Nov 2026 14:28:47 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1be-mdHesLEfKYlP33MFyVpcU2jgugQ\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1794322819",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7zisc17mjThOusP55Zs1ZQYzXf3WfRakHpthDjVeDmbrOZOfAEjk1S6kPh9DR5OXiQvn%2BEMb1QWe5oUmJJUijmTENs4N0hpVOAAWDlZat0dP4Cizd1Dfh7RY%2Fs7xBZKCRC%2BbyUNSJ6SEjcUf0su%2F\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a585bee6bd87c971-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "rodrigueztyler",
+    "email": "langanna@example.org",
+    "phone": "+1-598-443-6710x96085",
+    "website": "brennan.info",
+    "address": {
+      "street": "Jeffrey Passage",
+      "suite": "Suite 471",
+      "city": "Lake Darius",
+      "zipcode": "38458"
+    },
+    "company": {
+      "name": "Delgado Group",
+      "catchPhrase": "Organized mission-critical system engine",
+      "bs": "monetize rich markets"
+    },
+    "id": 1
+  }
+}

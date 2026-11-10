@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "gmcmahon",
+    "email": "jroberson@example.net",
+    "phone": "7122305233",
+    "website": "murphy-morton.com",
+    "address": {
+      "street": "Marie Forest",
+      "suite": "Apt. 970",
+      "city": "North Amandachester",
+      "zipcode": "91945"
+    },
+    "company": {
+      "name": "Jones-Barber",
+      "catchPhrase": "Multi-channeled foreground middleware",
+      "bs": "productize leading-edge e-business"
+    }
+  }
+}

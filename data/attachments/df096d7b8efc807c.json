@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 24,
+  "headers": {
+    "Date": "Tue, 10 Nov 2026 14:28:47 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "439",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b7-kLeqTdUg/eisc/hZsVhspZW27+c\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1794322819",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Osz8Q1Oj3cRY3irci5cHqJQ%2BTS47n8ofBHy6qoOrWQkGeR0L7snjtKgiUEPYSWMkwbnriY%2Ba2vkPRztiplyhQNSfQ2giAdsz6rbaAw22rinVedesMpg8tXUQOm3iLiIygceZzXDDTgbncfZC96d3\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a585bee62bd0c971-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "kcox",
+    "email": "eugene14@example.net",
+    "phone": "529.655.2918x262",
+    "website": "mills.com",
+    "address": {
+      "street": "Joshua Circles",
+      "suite": "Suite 029",
+      "city": "New Gavin",
+      "zipcode": "22481"
+    },
+    "company": {
+      "name": "Thompson-Durham",
+      "catchPhrase": "Business-focused impactful definition",
+      "bs": "iterate bricks-and-clicks paradigms"
+    },
+    "id": 11
+  }
+}

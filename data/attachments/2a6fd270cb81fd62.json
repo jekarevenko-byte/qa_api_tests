@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 24,
+  "headers": {
+    "Date": "Tue, 10 Nov 2026 14:28:47 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "436",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b4-I+Piyy2PQJvN+oGdqnj+K0wjSGE\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1794322819",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=A8vNkTaKxE%2FAwnXvHEzvdWh8REEP4%2FhK9ohwF6kjnYFnUE6AdS5hE6rEf1v50VhO6aeUzss6r5kq5xAD8zcqukKUf6kIlIozCXvcVOc30azEElg%2Fbuf7KZ5xRH4iWw9AUrtjnuLJ60oN6R26irLn\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a585bee5ca92c971-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Stephen Graham",
+    "username": "gonzalezmike",
+    "email": "gregory56@example.net",
+    "phone": "(842)952-0843x01191",
+    "website": "le.org",
+    "address": {
+      "street": "David Branch",
+      "suite": "Apt. 089",
+      "city": "Moraville",
+      "zipcode": "84941"
+    },
+    "company": {
+      "name": "Cline LLC",
+      "catchPhrase": "Public-key 5thgeneration budgetary management",
+      "bs": "matrix viral e-tailers"
+    },
+    "id": 11
+  }
+}
