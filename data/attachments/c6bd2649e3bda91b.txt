@@ -1,2 +1,0 @@
-14:28:47 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Ashley Dyer', 'username': 'ginasmith', 'email': 'edwardsrebecca@example.net', 'phone': '862.919.5673', 'website': 'thompson.info', 'address': {'street': 'Taylor Shore', 'suite': 'Suite 029', 'city': 'Port Sean', 'zipcode': '53758'}, 'company': {'name': 'Harris-Lawson', 'catchPhrase': 'Stand-alone client-driven hub', 'bs': 'morph open-source vortals'}}
-14:28:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (22 ms)

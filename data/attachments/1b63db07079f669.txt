@@ -1,2 +1,0 @@
-14:28:47 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'kcox', 'email': 'eugene14@example.net', 'phone': '529.655.2918x262', 'website': 'mills.com', 'address': {'street': 'Joshua Circles', 'suite': 'Suite 029', 'city': 'New Gavin', 'zipcode': '22481'}, 'company': {'name': 'Thompson-Durham', 'catchPhrase': 'Business-focused impactful definition', 'bs': 'iterate bricks-and-clicks paradigms'}}
-14:28:47 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (24 ms)

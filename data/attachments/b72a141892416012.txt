@@ -1,0 +1,2 @@
+13:43:21 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'davismichael', 'email': 'jamesdelgado@example.org', 'phone': '(735)557-9241', 'website': 'gordon-martinez.com', 'address': {'street': 'Alexandria Locks', 'suite': 'Suite 320', 'city': 'Scottshire', 'zipcode': '15730'}, 'company': {'name': 'Caldwell-Stevenson', 'catchPhrase': 'Upgradable tertiary parallelism', 'bs': 'syndicate transparent partnerships'}}
+13:43:22 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (92 ms)

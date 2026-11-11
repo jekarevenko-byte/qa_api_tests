@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "alexanderbrown",
+    "email": "christopheradams@example.net",
+    "phone": "755.535.2451x485",
+    "website": "ritter.com",
+    "address": {
+      "street": "Kyle Mews",
+      "suite": "Apt. 483",
+      "city": "Franklinshire",
+      "zipcode": "60072"
+    },
+    "company": {
+      "name": "Guzman-Montoya",
+      "catchPhrase": "Mandatory 4thgeneration database",
+      "bs": "monetize strategic niches"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+13:43:20 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Lot move build.', 'body': 'Official argue instead old. Instead summer mention risk factor debate.'}
+13:43:20 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (88 ms)

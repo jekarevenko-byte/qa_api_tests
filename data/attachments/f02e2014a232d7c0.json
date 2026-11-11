@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Andrew Price",
+    "username": "teresacox",
+    "email": "jonescarlos@example.org",
+    "phone": "(818)804-6343x3315",
+    "website": "olson.com",
+    "address": {
+      "street": "Johnson Hollow",
+      "suite": "Suite 528",
+      "city": "Port Amy",
+      "zipcode": "33590"
+    },
+    "company": {
+      "name": "Berry LLC",
+      "catchPhrase": "Self-enabling uniform data-warehouse",
+      "bs": "morph best-of-breed markets"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 82,
+  "headers": {
+    "Date": "Wed, 11 Nov 2026 13:43:22 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1ca-p2B0XC4lBdX/MvAGiXkBpzR4kGs\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1794405619",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=2Nxvv4MwYPIVPfqByI56WGUXx5l%2BPr5gRqIf4ZwMfuDhcBp2AFlhN1NE9YJU3hNXeoDY2vzzdN8stPaaUmz%2Fu3fxCJ%2FAlSrBk5OwLf%2BB2whxzXEFHSFicr1Oy2zKneRID7uhgGdcb25uOENmUlTQ\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a58db9bcbd837d12-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "smithjacob",
+    "email": "sreese@example.org",
+    "phone": "7873194656",
+    "website": "hernandez-gonzales.biz",
+    "address": {
+      "street": "Beth Groves",
+      "suite": "Suite 311",
+      "city": "Darrellchester",
+      "zipcode": "37394"
+    },
+    "company": {
+      "name": "Johns, Sullivan and Rivera",
+      "catchPhrase": "Public-key multi-tasking monitoring",
+      "bs": "e-enable compelling methodologies"
+    },
+    "id": 1
+  }
+}
