@@ -1,0 +1,2 @@
+14:47:04 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Bruce Lee', 'username': 'jlee', 'email': 'denise52@example.com', 'phone': '460.615.3309x109', 'website': 'schneider.com', 'address': {'street': 'Thomas Fork', 'suite': 'Apt. 392', 'city': 'Port Jennifer', 'zipcode': '83261'}, 'company': {'name': 'Scott LLC', 'catchPhrase': 'Triple-buffered directional workforce', 'bs': 'target bricks-and-clicks ROI'}}
+14:47:04 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (80 ms)

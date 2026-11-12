@@ -1,2 +1,0 @@
-13:43:22 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Mark Cardenas', 'username': 'haleymoody', 'email': 'qa@example.com', 'phone': '001-921-595-9101x99846', 'website': 'powers.com', 'address': {'street': 'Melissa Neck', 'suite': 'Apt. 001', 'city': 'Port Barbara', 'zipcode': '05057'}, 'company': {'name': 'Lowe-Woods', 'catchPhrase': 'Fully-configurable needs-based task-force', 'bs': 'integrate dynamic portals'}}
-13:43:22 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (91 ms)

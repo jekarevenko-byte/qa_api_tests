@@ -1,0 +1,35 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 82,
+  "headers": {
+    "Date": "Thu, 12 Nov 2026 14:47:03 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"ce-X9ZRBcso+YrV/p4uhffK3u+ygtU\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599993",
+    "x-ratelimit-reset": "1794495619",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=BEVHMEUS2RpbJQEbmlFS67dNBfgqZC4aeCTxSpVfagQTZ0Ni4PXw9L79Em%2FOr%2FCLJp%2BwvQ5jK8roFq2ZGfpz6F1aPm7%2FhU9qqifgPqYuRioRiDdZ6%2FOURlm4RJ0gBcFtHI%2FYFpvk9au0YawX%2FxZM\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5965467fb13b16a-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Updated Title",
+    "body": "Collection direction manager quite special station. Daughter page whether last successful scientist tax. Sing task network film he know.",
+    "id": 1
+  }
+}

@@ -1,2 +1,0 @@
-13:43:21 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Forget window grow imagine.'}
-13:43:21 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (89 ms)

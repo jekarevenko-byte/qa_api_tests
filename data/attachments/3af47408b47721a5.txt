@@ -1,2 +1,0 @@
-13:43:21 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Joshua Conrad', 'username': 'rhammond', 'email': 'rachel75@example.org', 'phone': '393-580-2166x8623', 'website': 'kramer.net', 'address': {'street': 'Thomas Via', 'suite': 'Suite 273', 'city': 'North Cameronton', 'zipcode': '47532'}, 'company': {'name': 'Reed, Horton and Cruz', 'catchPhrase': 'Profound 3rdgeneration system engine', 'bs': 'exploit frictionless initiatives'}}
-13:43:21 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (93 ms)

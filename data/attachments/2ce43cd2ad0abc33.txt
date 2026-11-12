@@ -1,0 +1,2 @@
+14:47:04 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Lisa Payne', 'username': 'youngrobert', 'email': 'qa@example.com', 'phone': '222-976-8256x5235', 'website': 'lewis.com', 'address': {'street': 'Logan Path', 'suite': 'Suite 101', 'city': 'Port Cassandraburgh', 'zipcode': '72647'}, 'company': {'name': 'Hall, Calderon and Carson', 'catchPhrase': 'Optional high-level methodology', 'bs': 'reinvent integrated systems'}}
+14:47:04 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (86 ms)

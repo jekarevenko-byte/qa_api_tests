@@ -1,0 +1,2 @@
+14:47:03 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Imagine bring with them spend knowledge attention father.', 'body': 'Reality some what simply piece. Institution forward include major. Two idea computer alone. Nearly quality stay.'}
+14:47:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (81 ms)

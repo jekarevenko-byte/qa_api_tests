@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "ashleymatthews",
+    "email": "joseedwards@example.com",
+    "phone": "(585)916-5159x0390",
+    "website": "garrett-harper.biz",
+    "address": {
+      "street": "Thomas Corner",
+      "suite": "Apt. 570",
+      "city": "Tonyaville",
+      "zipcode": "94700"
+    },
+    "company": {
+      "name": "Salazar, Garza and Lawrence",
+      "catchPhrase": "Profit-focused optimal service-desk",
+      "bs": "enhance mission-critical interfaces"
+    }
+  }
+}

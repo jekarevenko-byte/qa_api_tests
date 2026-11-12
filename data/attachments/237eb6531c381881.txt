@@ -1,2 +1,0 @@
-13:43:21 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Andrew Price', 'username': 'teresacox', 'email': 'jonescarlos@example.org', 'phone': '(818)804-6343x3315', 'website': 'olson.com', 'address': {'street': 'Johnson Hollow', 'suite': 'Suite 528', 'city': 'Port Amy', 'zipcode': '33590'}, 'company': {'name': 'Berry LLC', 'catchPhrase': 'Self-enabling uniform data-warehouse', 'bs': 'morph best-of-breed markets'}}
-13:43:21 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (256 ms)

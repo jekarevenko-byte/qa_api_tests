@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 82,
+  "headers": {
+    "Date": "Thu, 12 Nov 2026 14:47:04 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "472",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1d8-W7X8UcWSwOgh2Vl558xCeslfYZE\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1794495619",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3P5hK%2BWPGfiCPv6PVQEl5fySHwzN%2FTDb3AxTsRGQ1Xm81vYmyGvKFpZtxsW4nhAlnYE9UPQtjOvlog%2FqaD5DoWqn4pMesakDoO8L4cjklvvNdXj8Xx%2BfwRR9%2F6riXic1Oljb6nXcBPAdsfqdH7bd\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a596546d7b267d8f-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "ashleymatthews",
+    "email": "joseedwards@example.com",
+    "phone": "(585)916-5159x0390",
+    "website": "garrett-harper.biz",
+    "address": {
+      "street": "Thomas Corner",
+      "suite": "Apt. 570",
+      "city": "Tonyaville",
+      "zipcode": "94700"
+    },
+    "company": {
+      "name": "Salazar, Garza and Lawrence",
+      "catchPhrase": "Profit-focused optimal service-desk",
+      "bs": "enhance mission-critical interfaces"
+    },
+    "id": 11
+  }
+}
