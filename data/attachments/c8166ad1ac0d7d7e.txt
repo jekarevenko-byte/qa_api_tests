@@ -1,2 +1,0 @@
-14:47:04 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'amanda88', 'email': 'award@example.com', 'phone': '822-310-2716', 'website': 'bailey-mathis.com', 'address': {'street': 'Latasha Villages', 'suite': 'Apt. 165', 'city': 'East Edwinport', 'zipcode': '02714'}, 'company': {'name': 'Barnett-Smith', 'catchPhrase': 'Object-based non-volatile moderator', 'bs': 'benchmark end-to-end solutions'}}
-14:47:05 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (82 ms)

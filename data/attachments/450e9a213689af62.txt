@@ -1,0 +1,2 @@
+14:04:36 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Common act series.', 'body': 'Bag free see range view.'}
+14:04:36 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (44 ms)

@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "kyle97",
+    "email": "jeffrey45@example.org",
+    "phone": "729-433-5550",
+    "website": "matthews.com",
+    "address": {
+      "street": "David Rest",
+      "suite": "Suite 709",
+      "city": "New Julie",
+      "zipcode": "07354"
+    },
+    "company": {
+      "name": "Gillespie, Brown and Griffith",
+      "catchPhrase": "Customer-focused intermediate capacity",
+      "bs": "enhance bleeding-edge initiatives"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+14:04:36 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Maria Richard', 'username': 'victoria03', 'email': 'tanner50@example.org', 'phone': '221-988-4913x4485', 'website': 'hubbard.org', 'address': {'street': 'Andrew Ridge', 'suite': 'Apt. 635', 'city': 'Parkstown', 'zipcode': '82316'}, 'company': {'name': 'Herrera-Dunn', 'catchPhrase': 'Business-focused intangible infrastructure', 'bs': 'orchestrate cross-platform functionalities'}}
+14:04:36 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (21 ms)

@@ -1,0 +1,2 @@
+14:04:36 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Michael Schmidt', 'username': 'wendy56', 'email': 'tannerstephen@example.com', 'phone': '+1-424-323-0604', 'website': 'morales.com', 'address': {'street': 'Jamie Mission', 'suite': 'Suite 888', 'city': 'Tiffanyview', 'zipcode': '40646'}, 'company': {'name': 'Kelly Ltd', 'catchPhrase': 'Focused human-resource infrastructure', 'bs': 'implement vertical partnerships'}}
+14:04:36 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (26 ms)

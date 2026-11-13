@@ -1,0 +1,2 @@
+14:04:36 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Joshua George', 'username': 'awelch', 'email': 'qa@example.com', 'phone': '(715)852-3881x218', 'website': 'johnson-chavez.com', 'address': {'street': 'Christopher Cape', 'suite': 'Suite 790', 'city': 'Bonnietown', 'zipcode': '95731'}, 'company': {'name': 'Jones-Mckinney', 'catchPhrase': 'Quality-focused transitional system engine', 'bs': 'unleash enterprise web-readiness'}}
+14:04:36 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (21 ms)

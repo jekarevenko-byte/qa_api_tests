@@ -1,2 +1,0 @@
-14:47:03 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Collection direction manager quite special station. Daughter page whether last successful scientist tax. Sing task network film he know.'}
-14:47:03 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (82 ms)

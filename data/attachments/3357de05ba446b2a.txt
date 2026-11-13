@@ -1,0 +1,2 @@
+14:04:36 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'jared30', 'email': 'austin65@example.com', 'phone': '+1-226-262-4567x634', 'website': 'williamson.com', 'address': {'street': 'Tran Lodge', 'suite': 'Apt. 521', 'city': 'East Gabrielborough', 'zipcode': '64338'}, 'company': {'name': 'Lucas-Nelson', 'catchPhrase': 'Streamlined 6thgeneration projection', 'bs': 'embrace customized solutions'}}
+14:04:36 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (30 ms)

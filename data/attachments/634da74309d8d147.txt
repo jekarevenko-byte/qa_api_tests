@@ -1,0 +1,2 @@
+14:04:36 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'crystal45', 'email': 'staceysmith@example.com', 'phone': '9443053827', 'website': 'gray.com', 'address': {'street': 'Grant Groves', 'suite': 'Apt. 290', 'city': 'Hernandezberg', 'zipcode': '42219'}, 'company': {'name': 'Howard, Carpenter and Cox', 'catchPhrase': 'Versatile system-worthy definition', 'bs': 'innovate intuitive web-readiness'}}
+14:04:36 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (21 ms)

@@ -1,0 +1,2 @@
+14:04:36 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Subject color national your TV enjoy mother. Sit interesting necessary house.'}
+14:04:36 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (43 ms)

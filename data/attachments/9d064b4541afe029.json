@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "crystal45",
+    "email": "staceysmith@example.com",
+    "phone": "9443053827",
+    "website": "gray.com",
+    "address": {
+      "street": "Grant Groves",
+      "suite": "Apt. 290",
+      "city": "Hernandezberg",
+      "zipcode": "42219"
+    },
+    "company": {
+      "name": "Howard, Carpenter and Cox",
+      "catchPhrase": "Versatile system-worthy definition",
+      "bs": "innovate intuitive web-readiness"
+    }
+  }
+}

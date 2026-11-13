@@ -1,0 +1,2 @@
+14:04:36 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'kyle97', 'email': 'jeffrey45@example.org', 'phone': '729-433-5550', 'website': 'matthews.com', 'address': {'street': 'David Rest', 'suite': 'Suite 709', 'city': 'New Julie', 'zipcode': '07354'}, 'company': {'name': 'Gillespie, Brown and Griffith', 'catchPhrase': 'Customer-focused intermediate capacity', 'bs': 'enhance bleeding-edge initiatives'}}
+14:04:36 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (26 ms)

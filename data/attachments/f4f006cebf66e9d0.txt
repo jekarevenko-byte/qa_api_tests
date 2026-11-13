@@ -1,0 +1,2 @@
+14:04:36 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Full every myself soon present building. Necessary plan believe always cup. Remain less alone also east wear recent.'}
+14:04:36 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (54 ms)

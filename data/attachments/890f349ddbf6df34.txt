@@ -1,2 +1,0 @@
-14:47:04 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'ashleymatthews', 'email': 'joseedwards@example.com', 'phone': '(585)916-5159x0390', 'website': 'garrett-harper.biz', 'address': {'street': 'Thomas Corner', 'suite': 'Apt. 570', 'city': 'Tonyaville', 'zipcode': '94700'}, 'company': {'name': 'Salazar, Garza and Lawrence', 'catchPhrase': 'Profit-focused optimal service-desk', 'bs': 'enhance mission-critical interfaces'}}
-14:47:04 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (82 ms)
