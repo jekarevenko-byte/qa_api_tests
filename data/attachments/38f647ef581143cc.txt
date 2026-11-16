@@ -1,0 +1,2 @@
+15:04:32 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Window tough sure beyond policy environment oil music.', 'body': 'Throughout part as TV catch study. Personal realize well buy no hard get.'}
+15:04:32 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (94 ms)

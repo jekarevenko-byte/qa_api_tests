@@ -1,0 +1,2 @@
+15:04:33 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'cwheeler', 'email': 'pam94@example.com', 'phone': '265.439.3788x452', 'website': 'davis.biz', 'address': {'street': 'Horn Summit', 'suite': 'Suite 227', 'city': 'Jessemouth', 'zipcode': '62631'}, 'company': {'name': 'Brown, Rich and Jones', 'catchPhrase': 'Expanded grid-enabled moderator', 'bs': 'monetize 24/365 interfaces'}}
+15:04:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (99 ms)

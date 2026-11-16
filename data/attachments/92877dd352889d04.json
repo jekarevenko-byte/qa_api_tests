@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 98,
+  "headers": {
+    "Date": "Mon, 16 Nov 2026 15:04:33 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "444",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bc-UnYm4o8mwxQ6s9s0cZUltR/Ylqk\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1794843965",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bYN7N5iumV7Ftt5TRbI%2BEV0pDHgyqK1AInRPTw6qGNdDqIxWysXK%2BmAAeHUkoeFitrGDcLiyDNMrUqLPCsLJnegDQuRrFmCAa5vCvXL2g9sCxcESsMq5a%2BRF2HMI8vw0KbeCq3wOuRgvDCvbh2N7\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5b76388cc10613d-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Jeanne Rodriguez",
+    "username": "zrhodes",
+    "email": "jasonpitts@example.org",
+    "phone": "550-597-2752x407",
+    "website": "wang.biz",
+    "address": {
+      "street": "Michael Crescent",
+      "suite": "Apt. 876",
+      "city": "Nicolastown",
+      "zipcode": "27890"
+    },
+    "company": {
+      "name": "Robbins, Foster and Waters",
+      "catchPhrase": "Up-sized static firmware",
+      "bs": "seize collaborative communities"
+    },
+    "id": 11
+  }
+}

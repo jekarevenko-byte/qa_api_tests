@@ -1,0 +1,35 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 278,
+  "headers": {
+    "Date": "Mon, 16 Nov 2026 15:04:32 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"79-FOhSxMquaKK8tt/RULJZ4yLWxSo\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599994",
+    "x-ratelimit-reset": "1794843965",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=MdR5FZk7dVHU%2BXG2qfUon%2B2VDrhwI02Iy981DsGQNzmtM%2FW%2BVc1fjMamohdG%2B04WdYGL1d9Jty4QsLnghxAfftOISxuVBaxVseRfIg52q5qRbjf0RYjZCGPaKnCNdsYMyfTEBnvHTQ6%2Fod228FbJ\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5b76382a8b3dd6a-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Updated",
+    "body": "Policy fund who produce herself ground. Entire able song.",
+    "id": 1
+  }
+}

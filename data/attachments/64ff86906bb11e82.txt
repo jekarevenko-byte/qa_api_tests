@@ -1,0 +1,2 @@
+15:04:33 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jeanne Rodriguez', 'username': 'zrhodes', 'email': 'jasonpitts@example.org', 'phone': '550-597-2752x407', 'website': 'wang.biz', 'address': {'street': 'Michael Crescent', 'suite': 'Apt. 876', 'city': 'Nicolastown', 'zipcode': '27890'}, 'company': {'name': 'Robbins, Foster and Waters', 'catchPhrase': 'Up-sized static firmware', 'bs': 'seize collaborative communities'}}
+15:04:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (98 ms)

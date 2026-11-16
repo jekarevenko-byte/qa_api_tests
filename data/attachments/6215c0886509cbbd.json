@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 94,
+  "headers": {
+    "Date": "Mon, 16 Nov 2026 15:04:32 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "186",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"ba-JfmmjACZ2UjwkiNcw+jCSi3MBLw\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1794843965",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6ZzGstnNhLG86Wtw5R8EreJe5qGNFl8N76zPoLm6YFWCxjqM3XGgBAWFpE5PUDL87BaPRtBGLYe2sZX9OWjL4wppV61601ZqP4m876c%2Fd5xm0sZX1yLTMM5rG8xHql9%2B4gSrLKfjdsGLwPBwNWpI\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5b763815da2dd6a-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Window tough sure beyond policy environment oil music.",
+    "body": "Throughout part as TV catch study. Personal realize well buy no hard get.",
+    "id": 101
+  }
+}

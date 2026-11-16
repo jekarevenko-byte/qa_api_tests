@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 113,
+  "headers": {
+    "Date": "Mon, 16 Nov 2026 15:04:34 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1af-u7plsNTZBst0ViCEKAUT57V2oQ4\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1794843965",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ym0ouBXcReQxoU%2BsycitPBP2QtyZ6SVp160z6x70j3MwVKNmPY3yjtX7Clm5yX44F4ZoBqF%2BpfF3kGADGQPv8eoRPJFbkv5AJ3oYmiBkdm0ezdIFODOXlT2yTZcpGdba63gGqIYUluDZM4evnFeB\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5b7638cbdbe613d-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "nicholeherrera",
+    "email": "daviskatie@example.org",
+    "phone": "001-249-890-4953x3688",
+    "website": "shaffer.biz",
+    "address": {
+      "street": "Roth Harbor",
+      "suite": "Apt. 017",
+      "city": "Morgantown",
+      "zipcode": "67454"
+    },
+    "company": {
+      "name": "Yu Ltd",
+      "catchPhrase": "Devolved dynamic success",
+      "bs": "integrate user-centric initiatives"
+    },
+    "id": 1
+  }
+}

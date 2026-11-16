@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 100,
+  "headers": {
+    "Date": "Mon, 16 Nov 2026 15:04:33 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "432",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b0-HzxoJGFKqRjxSVYdvrgEPsjN3nE\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1794843965",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CQLjXULIJ87KIKDxiDWDM3PjsIPipRHFe0cpwstzN7u5zmIt5RDMrwFf6MDovS7yQJrClB5KJj0%2BqDfY3ARKcK9bD6XNAuJ%2FmvslEDdDGJfu4zl5wq5DXUVwKHUhY3GBn3jTyo02EKVOZzI%2FN9dM\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5b763882ab8613d-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Adrian Johnson",
+    "username": "lwells",
+    "email": "lewisjennifer@example.net",
+    "phone": "7637584206",
+    "website": "pierce.com",
+    "address": {
+      "street": "Le Path",
+      "suite": "Apt. 456",
+      "city": "East Scott",
+      "zipcode": "54426"
+    },
+    "company": {
+      "name": "Cole, Lee and Torres",
+      "catchPhrase": "Right-sized grid-enabled adapter",
+      "bs": "maximize real-time applications"
+    },
+    "id": 11
+  }
+}
