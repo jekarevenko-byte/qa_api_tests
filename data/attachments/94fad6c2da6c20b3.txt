@@ -1,2 +1,0 @@
-15:04:33 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Adrian Johnson', 'username': 'lwells', 'email': 'lewisjennifer@example.net', 'phone': '7637584206', 'website': 'pierce.com', 'address': {'street': 'Le Path', 'suite': 'Apt. 456', 'city': 'East Scott', 'zipcode': '54426'}, 'company': {'name': 'Cole, Lee and Torres', 'catchPhrase': 'Right-sized grid-enabled adapter', 'bs': 'maximize real-time applications'}}
-15:04:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (100 ms)

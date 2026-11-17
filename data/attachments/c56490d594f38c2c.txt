@@ -1,2 +1,0 @@
-15:04:33 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Beth Trujillo', 'username': 'matthew99', 'email': 'qa@example.com', 'phone': '492-327-5441x508', 'website': 'le.com', 'address': {'street': 'Newton Isle', 'suite': 'Apt. 102', 'city': 'Masontown', 'zipcode': '98436'}, 'company': {'name': 'Hardy, Mitchell and Torres', 'catchPhrase': 'Devolved coherent software', 'bs': 'synthesize end-to-end mindshare'}}
-15:04:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (103 ms)

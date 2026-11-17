@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Grant Day",
+    "username": "millerwendy",
+    "email": "kimberlyjohnson@example.net",
+    "phone": "979.634.9659x8483",
+    "website": "foster.com",
+    "address": {
+      "street": "Liu Ford",
+      "suite": "Suite 000",
+      "city": "West Curtisborough",
+      "zipcode": "32775"
+    },
+    "company": {
+      "name": "Robertson and Sons",
+      "catchPhrase": "Universal discrete help-desk",
+      "bs": "deploy cutting-edge action-items"
+    }
+  }
+}

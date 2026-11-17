@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 106,
+  "headers": {
+    "Date": "Tue, 17 Nov 2026 15:38:51 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "436",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b4-Odw990wvu1IsNMl3EeqIW0Vz1E0\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1794930365",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9nzdoB7cAHHVhn9N2476BNzgiCFGEwVPsTYnVOoknWObODIvhw9JaTKpxKoBsF3zdVKgSMtLiGDl0U8nrr3LJvt7ut%2F69qVM7nsZ3kEkanb5hf%2BUA1IrwsF4qI1ETUs%2F1OG5HbssaQG1KZTcTQoE\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5bfd3284fdab84b-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "alane",
+    "email": "jacobharmon@example.org",
+    "phone": "+1-992-673-8136x97960",
+    "website": "williamson.net",
+    "address": {
+      "street": "Amy Islands",
+      "suite": "Apt. 748",
+      "city": "Roychester",
+      "zipcode": "36833"
+    },
+    "company": {
+      "name": "Wells and Sons",
+      "catchPhrase": "Optional grid-enabled algorithm",
+      "bs": "visualize dynamic e-business"
+    },
+    "id": 11
+  }
+}

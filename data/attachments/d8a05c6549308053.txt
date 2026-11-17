@@ -1,2 +1,0 @@
-15:04:33 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'michael86', 'email': 'aaronmoore@example.com', 'phone': '(329)439-4513x28886', 'website': 'brown.com', 'address': {'street': 'Jones Roads', 'suite': 'Suite 814', 'city': 'Port Sean', 'zipcode': '33474'}, 'company': {'name': 'Smith PLC', 'catchPhrase': 'Function-based mission-critical policy', 'bs': 'implement bricks-and-clicks content'}}
-15:04:34 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (308 ms)

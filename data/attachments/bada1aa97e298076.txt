@@ -1,0 +1,2 @@
+15:38:51 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Alison Martin', 'username': 'christinaconway', 'email': 'pricemartin@example.com', 'phone': '760.876.7097x422', 'website': 'harrington.biz', 'address': {'street': 'Hunter Meadow', 'suite': 'Apt. 449', 'city': 'Melendezland', 'zipcode': '01604'}, 'company': {'name': 'Wilson and Sons', 'catchPhrase': 'Ameliorated disintermediate Internet solution', 'bs': 'expedite synergistic vortals'}}
+15:38:51 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (119 ms)

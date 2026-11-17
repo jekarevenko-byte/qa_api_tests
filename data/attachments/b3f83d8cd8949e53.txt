@@ -1,2 +1,0 @@
-15:04:32 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Anyone form ok window.', 'body': 'Wrong dinner rule different enjoy reveal. Identify direction view out remain thus particularly pattern.'}
-15:04:32 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (104 ms)

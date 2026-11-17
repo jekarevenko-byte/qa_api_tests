@@ -1,0 +1,2 @@
+15:38:50 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Event evening reality section dinner.', 'body': 'Lay organization way week. Only you Congress whose marriage. Fund something attention gun serve action bar.'}
+15:38:50 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (97 ms)
