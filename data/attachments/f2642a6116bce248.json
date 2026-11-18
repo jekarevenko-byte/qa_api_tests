@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "dawn40",
+    "email": "joseph62@example.com",
+    "phone": "454-371-0639x497",
+    "website": "wright.com",
+    "address": {
+      "street": "Lawrence Stream",
+      "suite": "Suite 557",
+      "city": "Port Sean",
+      "zipcode": "61720"
+    },
+    "company": {
+      "name": "Pena-Garcia",
+      "catchPhrase": "Implemented object-oriented parallelism",
+      "bs": "enhance world-class schemas"
+    }
+  }
+}

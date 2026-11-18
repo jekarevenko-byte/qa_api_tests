@@ -1,0 +1,2 @@
+15:16:31 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Produce poor research field to chance.', 'body': 'Leader strong window talk along. American pass receive wait goal. Model power paper.'}
+15:16:31 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (79 ms)

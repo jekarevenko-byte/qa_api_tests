@@ -1,0 +1,2 @@
+15:16:32 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Deal baby and region. Memory assume than college myself yes address. Ago with administration.'}
+15:16:32 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (81 ms)

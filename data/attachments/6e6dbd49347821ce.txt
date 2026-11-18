@@ -1,2 +1,0 @@
-15:38:51 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Debra Myers', 'username': 'flowerskatherine', 'email': 'qa@example.com', 'phone': '675.991.6497x06551', 'website': 'mitchell.com', 'address': {'street': 'Howard Hill', 'suite': 'Apt. 255', 'city': 'Cohenburgh', 'zipcode': '21268'}, 'company': {'name': 'Wood, Gibson and Baker', 'catchPhrase': 'Progressive reciprocal intranet', 'bs': 'utilize distributed channels'}}
-15:38:51 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (108 ms)

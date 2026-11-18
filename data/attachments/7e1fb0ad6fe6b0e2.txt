@@ -1,2 +1,0 @@
-15:38:51 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'alane', 'email': 'jacobharmon@example.org', 'phone': '+1-992-673-8136x97960', 'website': 'williamson.net', 'address': {'street': 'Amy Islands', 'suite': 'Apt. 748', 'city': 'Roychester', 'zipcode': '36833'}, 'company': {'name': 'Wells and Sons', 'catchPhrase': 'Optional grid-enabled algorithm', 'bs': 'visualize dynamic e-business'}}
-15:38:51 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (106 ms)

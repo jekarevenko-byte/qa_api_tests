@@ -1,2 +1,0 @@
-15:38:51 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'blakelisa', 'email': 'fergusoneric@example.net', 'phone': '(373)818-2364', 'website': 'scott.net', 'address': {'street': 'Mendez Plains', 'suite': 'Apt. 940', 'city': 'Matthewstad', 'zipcode': '05330'}, 'company': {'name': 'Fleming-Hunt', 'catchPhrase': 'Optional uniform pricing structure', 'bs': 'extend dynamic e-commerce'}}
-15:38:52 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (120 ms)
