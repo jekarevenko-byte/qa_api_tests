@@ -1,2 +1,0 @@
-15:16:33 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'timothywoods', 'email': 'garnercynthia@example.net', 'phone': '357-637-6992x2523', 'website': 'mckinney.net', 'address': {'street': 'Hunter Rue', 'suite': 'Apt. 147', 'city': 'Port Toniborough', 'zipcode': '48927'}, 'company': {'name': 'Williams-Reilly', 'catchPhrase': 'Configurable web-enabled Local Area Network', 'bs': 'repurpose mission-critical action-items'}}
-15:16:33 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (81 ms)

@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 113,
+  "headers": {
+    "Date": "Thu, 19 Nov 2026 15:23:15 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "461",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1cd-OhKBCsQUrAXDpPi9rOP34kCMrFw\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1795103165",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1J8Vin1eyCJFQfU%2FW33AK%2BzaTEzyPEpCmmIU4woXklHSoMxsUv0n7%2BQMbVLDQaGjCHKoAi%2BKFX3iLd4DxH5ZB9Fh3zFWqDqf%2BZKnLacp330IWqHqL2lDoTTU4wdubpwjaPHYd%2BbOHjcC37ii3z8h\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d0370a3c3c6c17-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "jacobriggs",
+    "email": "diana39@example.net",
+    "phone": "001-460-725-2805x55520",
+    "website": "griffin-meza.net",
+    "address": {
+      "street": "Wheeler Roads",
+      "suite": "Suite 984",
+      "city": "North Erin",
+      "zipcode": "13851"
+    },
+    "company": {
+      "name": "Alvarez, Lindsey and Jordan",
+      "catchPhrase": "Reduced content-based secured line",
+      "bs": "architect innovative mindshare"
+    },
+    "id": 11
+  }
+}

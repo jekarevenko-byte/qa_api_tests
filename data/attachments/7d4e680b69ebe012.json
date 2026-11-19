@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 108,
+  "headers": {
+    "Date": "Thu, 19 Nov 2026 15:23:15 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c8-WHE4ElzyMvqEWP58rXV9YduXThE\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1795103165",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9MoSsJopqdlBNOjoV34RK0Z%2BcAJVXQc%2FvVLYT2a30i1i5TyBFfG5eiA9zZK0B0VPah%2BISuHCh%2BVPVRBlhebAZv3K7L7KsOFhmv2EDuRO%2BhqVz21drkkqrj9Q05lbgfgx5VsyiA8mSM83lIUERk%2BC\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d0370d6b606c17-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "hernandezdaisy",
+    "email": "mwoods@example.org",
+    "phone": "001-607-945-8745x03948",
+    "website": "flores.com",
+    "address": {
+      "street": "Matthew Ville",
+      "suite": "Suite 478",
+      "city": "New Johnfurt",
+      "zipcode": "49319"
+    },
+    "company": {
+      "name": "Francis-Willis",
+      "catchPhrase": "Business-focused needs-based attitude",
+      "bs": "re-contextualize granular convergence"
+    },
+    "id": 1
+  }
+}

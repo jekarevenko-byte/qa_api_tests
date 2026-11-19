@@ -1,0 +1,2 @@
+15:23:14 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Ana Peters', 'username': 'rebecca02', 'email': 'fletcherbrendan@example.com', 'phone': '(264)391-8548', 'website': 'norman.biz', 'address': {'street': 'Mcpherson Drive', 'suite': 'Apt. 097', 'city': 'Aprilmouth', 'zipcode': '95429'}, 'company': {'name': 'Taylor, Hernandez and David', 'catchPhrase': 'Reactive bottom-line concept', 'bs': 'revolutionize turn-key eyeballs'}}
+15:23:14 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (114 ms)

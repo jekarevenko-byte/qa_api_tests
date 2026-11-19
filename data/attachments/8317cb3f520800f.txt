@@ -1,0 +1,2 @@
+15:23:13 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'As quite last TV difficult task.', 'body': 'Become near continue TV policy ball wonder. Right condition assume last.'}
+15:23:13 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (116 ms)

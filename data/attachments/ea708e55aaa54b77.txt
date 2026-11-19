@@ -1,0 +1,2 @@
+15:23:14 [INFO] PATCH https://jsonplaceholder.typicode.com/posts/1 | params=None body={'title': 'Patched Title'}
+15:23:14 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (123 ms)

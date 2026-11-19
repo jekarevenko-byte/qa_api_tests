@@ -1,2 +1,0 @@
-15:16:32 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Ethan Wheeler', 'username': 'cody99', 'email': 'jeffreywatkins@example.org', 'phone': '348.649.8448x26327', 'website': 'clark.com', 'address': {'street': 'Samantha Brooks', 'suite': 'Suite 742', 'city': 'South Ronaldport', 'zipcode': '74707'}, 'company': {'name': 'Rodriguez, Gonzalez and Day', 'catchPhrase': 'Down-sized incremental database', 'bs': 'deliver proactive architectures'}}
-15:16:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (80 ms)

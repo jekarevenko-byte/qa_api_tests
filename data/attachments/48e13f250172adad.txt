@@ -1,2 +1,0 @@
-15:16:33 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'joseph43', 'email': 'hobbsamber@example.org', 'phone': '326-405-5585x0606', 'website': 'craig.com', 'address': {'street': 'Warren Way', 'suite': 'Suite 202', 'city': 'New Tammyview', 'zipcode': '25860'}, 'company': {'name': 'Cook-Carter', 'catchPhrase': 'Decentralized motivating initiative', 'bs': 'aggregate bleeding-edge platforms'}}
-15:16:33 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (82 ms)

@@ -1,2 +1,0 @@
-15:16:33 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Cheryl Wolfe', 'username': 'melindaturner', 'email': 'jamiewood@example.net', 'phone': '462.637.9500x796', 'website': 'lindsey-white.com', 'address': {'street': 'Grant Squares', 'suite': 'Suite 413', 'city': 'Victorborough', 'zipcode': '93731'}, 'company': {'name': 'Graves, Hanna and Young', 'catchPhrase': 'Exclusive clear-thinking matrix', 'bs': 'disintermediate granular e-services'}}
-15:16:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (80 ms)

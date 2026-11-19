@@ -1,0 +1,2 @@
+15:23:13 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Value be skill institution.', 'body': 'Maintain despite relationship against religious camera. Drive campaign entire store accept. Seek thus send high.'}
+15:23:13 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (119 ms)

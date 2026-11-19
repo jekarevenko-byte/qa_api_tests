@@ -1,2 +1,0 @@
-15:16:31 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Happy list model group continue wife.', 'body': 'Begin past once hundred former sing summer. Administration bad suddenly front watch each dark mean. Read there spring feeling issue probably box.'}
-15:16:31 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (81 ms)

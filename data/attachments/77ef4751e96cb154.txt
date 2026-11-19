@@ -1,0 +1,2 @@
+15:23:13 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Painting increase prove day according big. Product dark eight marriage.'}
+15:23:13 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (103 ms)

@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 116,
+  "headers": {
+    "Date": "Thu, 19 Nov 2026 15:23:13 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "163",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"a3-th1GsAtWnxaN3tl5WRmo7bU91hA\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1795103165",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pI%2BRaFydpUw8SYQov37MIfaYWf2J4lW%2FIMDxUzpVvozsf6Qp2QKhP7nkb7hpxI%2F3hBOyz4Ac5SAbSMUCYjwXwjv0Y7RgkfOMAno6DO6CfUIcUhFocRs4m0TafJBNeu4lKlFs1Ma9XZqHU4Cmbu8S\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d0370018b2c3af-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "As quite last TV difficult task.",
+    "body": "Become near continue TV policy ball wonder. Right condition assume last.",
+    "id": 101
+  }
+}

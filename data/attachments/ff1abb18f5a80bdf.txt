@@ -1,2 +1,0 @@
-15:16:33 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Matthew Brown', 'username': 'rhorton', 'email': 'qa@example.com', 'phone': '+1-416-674-6113x5515', 'website': 'wilkinson.biz', 'address': {'street': 'Dennis Pine', 'suite': 'Apt. 248', 'city': 'New Lauren', 'zipcode': '57064'}, 'company': {'name': 'Dunn LLC', 'catchPhrase': 'Vision-oriented composite application', 'bs': 'productize leading-edge portals'}}
-15:16:33 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (81 ms)

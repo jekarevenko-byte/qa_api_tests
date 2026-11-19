@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "jacobriggs",
+    "email": "diana39@example.net",
+    "phone": "001-460-725-2805x55520",
+    "website": "griffin-meza.net",
+    "address": {
+      "street": "Wheeler Roads",
+      "suite": "Suite 984",
+      "city": "North Erin",
+      "zipcode": "13851"
+    },
+    "company": {
+      "name": "Alvarez, Lindsey and Jordan",
+      "catchPhrase": "Reduced content-based secured line",
+      "bs": "architect innovative mindshare"
+    }
+  }
+}
