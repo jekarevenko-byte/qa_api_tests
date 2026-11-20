@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 19,
+  "headers": {
+    "Date": "Fri, 20 Nov 2026 14:59:55 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "460",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1cc-stk7VG+7NK3e9tBii7J0ZhFbCbc\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1795189565",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kJ7tw7TQ46Cw2qLBPRCYX2M5Vei%2F0mVt7JlvWe4rnFTFzXC2%2F4Dff%2Fs9Ct5%2BSL0K5eiQ1Yr8zm83DaS9PE8OMIj9rWQ6iAoE2eqKgotyIf5%2Fn9Qm0VaB1Hs49YLqdKaK6nzmeInglCVso8JU%2FmiD\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d852416d7b4882-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Daniel Larsen",
+    "username": "browngregory",
+    "email": "ablake@example.org",
+    "phone": "001-353-301-8964x7981",
+    "website": "mcknight.com",
+    "address": {
+      "street": "Hernandez Summit",
+      "suite": "Apt. 332",
+      "city": "Aprilfurt",
+      "zipcode": "82217"
+    },
+    "company": {
+      "name": "Farrell LLC",
+      "catchPhrase": "Progressive motivating Graphical User Interface",
+      "bs": "monetize transparent methodologies"
+    },
+    "id": 11
+  }
+}

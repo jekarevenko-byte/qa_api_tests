@@ -1,2 +1,0 @@
-15:23:15 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Michael Khan', 'username': 'kingkevin', 'email': 'qa@example.com', 'phone': '(889)781-9655x129', 'website': 'livingston-sullivan.info', 'address': {'street': 'Hoffman Meadow', 'suite': 'Suite 396', 'city': 'Medinafort', 'zipcode': '90074'}, 'company': {'name': 'Jones LLC', 'catchPhrase': 'Business-focused eco-centric model', 'bs': 'transition 24/7 interfaces'}}
-15:23:15 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (114 ms)

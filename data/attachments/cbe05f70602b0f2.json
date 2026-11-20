@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 23,
+  "headers": {
+    "Date": "Fri, 20 Nov 2026 14:59:55 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1d5-meDTOBnQoIeKZgMxVSqimXJIN0I\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1795189565",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=h%2BAmXyc8Qd2lNHEdjsK30GoKSCyE9eRmoEnI9i8%2FreJWf4EzkmE1o66KZbrD9OEQu9ljRaGhgqH98U5LDWPme2fSJh8lzCE1N9W53uFwpVkMkEeH3C2PcAL6rlF2Y5uG47iv5sJFcYS3v1ad79nj\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d85241de8c4882-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "mitchellcraig",
+    "email": "washingtontiffany@example.org",
+    "phone": "+1-478-930-5907x44226",
+    "website": "fleming-kidd.info",
+    "address": {
+      "street": "Kimberly Key",
+      "suite": "Suite 505",
+      "city": "Port Kevinfort",
+      "zipcode": "82700"
+    },
+    "company": {
+      "name": "Jones, Wilson and Madden",
+      "catchPhrase": "Exclusive user-facing Internet solution",
+      "bs": "incubate rich systems"
+    },
+    "id": 1
+  }
+}

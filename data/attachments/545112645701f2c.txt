@@ -1,2 +1,0 @@
-15:23:14 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'jacobriggs', 'email': 'diana39@example.net', 'phone': '001-460-725-2805x55520', 'website': 'griffin-meza.net', 'address': {'street': 'Wheeler Roads', 'suite': 'Suite 984', 'city': 'North Erin', 'zipcode': '13851'}, 'company': {'name': 'Alvarez, Lindsey and Jordan', 'catchPhrase': 'Reduced content-based secured line', 'bs': 'architect innovative mindshare'}}
-15:23:15 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (113 ms)

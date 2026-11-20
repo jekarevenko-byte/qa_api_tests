@@ -1,2 +1,0 @@
-15:23:15 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'hernandezdaisy', 'email': 'mwoods@example.org', 'phone': '001-607-945-8745x03948', 'website': 'flores.com', 'address': {'street': 'Matthew Ville', 'suite': 'Suite 478', 'city': 'New Johnfurt', 'zipcode': '49319'}, 'company': {'name': 'Francis-Willis', 'catchPhrase': 'Business-focused needs-based attitude', 'bs': 're-contextualize granular convergence'}}
-15:23:15 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (108 ms)

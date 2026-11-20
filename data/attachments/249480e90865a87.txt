@@ -1,0 +1,2 @@
+14:59:55 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Daniel Larsen', 'username': 'browngregory', 'email': 'ablake@example.org', 'phone': '001-353-301-8964x7981', 'website': 'mcknight.com', 'address': {'street': 'Hernandez Summit', 'suite': 'Apt. 332', 'city': 'Aprilfurt', 'zipcode': '82217'}, 'company': {'name': 'Farrell LLC', 'catchPhrase': 'Progressive motivating Graphical User Interface', 'bs': 'monetize transparent methodologies'}}
+14:59:55 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (19 ms)

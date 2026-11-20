@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "mitchellcraig",
+    "email": "washingtontiffany@example.org",
+    "phone": "+1-478-930-5907x44226",
+    "website": "fleming-kidd.info",
+    "address": {
+      "street": "Kimberly Key",
+      "suite": "Suite 505",
+      "city": "Port Kevinfort",
+      "zipcode": "82700"
+    },
+    "company": {
+      "name": "Jones, Wilson and Madden",
+      "catchPhrase": "Exclusive user-facing Internet solution",
+      "bs": "incubate rich systems"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+14:59:55 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Likely place sometimes fall strong be.', 'body': 'Reach someone whose picture.'}
+14:59:55 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (43 ms)

@@ -1,0 +1,35 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 35,
+  "headers": {
+    "Date": "Fri, 20 Nov 2026 14:59:55 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"d8-Ah1aQPskELjD6eXF2rFr10fSGww\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599993",
+    "x-ratelimit-reset": "1795189565",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SLG7z87Hbt3wIQWhv%2BVC6QYPMiD5ZebY5jDW5vcJn8EfJSrswoH1vx6qQRsZkZvr4GmmrsOBupngMMYN8Yzg7Q0ZOyFS7lijRK91bSDgav5j6PCZRxs%2Bx8YL6Q8u%2FrOw%2FSIPIpi4Z2LmGu4Q25e4\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d8523efc3a4231-EWR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Updated Title",
+    "body": "Action coach bit us section. Fight letter board bring catch. Hundred statement rule wind detail. Both least fire religious country energy develop.",
+    "id": 1
+  }
+}

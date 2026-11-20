@@ -1,0 +1,36 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 21,
+  "headers": {
+    "Date": "Fri, 20 Nov 2026 14:59:55 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "max-age=43200",
+    "etag": "W/\"e1-IivojO0CtPZmcMK0iydTbsfG7Wc\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599998",
+    "x-ratelimit-reset": "1791533935",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=TDw5AFPgy6%2Fv9eSIygQ8Jb5dRh%2BBpM9bTnk2YBaok%2Bf4oy6qMGJTlgknxY15UrxWU8Onf%2Fk0CCwOyEHW0K9TcoxONTV5fD2cJQ5MHKI6SETmwI87sIZZv6tETPykesjwu078ZboRfmD1GC%2F2KgTc\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Age": "21269",
+    "cf-cache-status": "HIT",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d8523cb9e34231-EWR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "id": 5,
+    "title": "nesciunt quas odio",
+    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+  }
+}

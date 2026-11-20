@@ -1,0 +1,2 @@
+14:59:55 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Brooke Underwood', 'username': 'tonya25', 'email': 'qa@example.com', 'phone': '+1-975-250-3568x228', 'website': 'meyers-travis.com', 'address': {'street': 'Cole Island', 'suite': 'Apt. 214', 'city': 'New Emilyfurt', 'zipcode': '46695'}, 'company': {'name': 'Bartlett-Nguyen', 'catchPhrase': 'User-friendly attitude-oriented database', 'bs': 'harness bleeding-edge interfaces'}}
+14:59:55 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (17 ms)

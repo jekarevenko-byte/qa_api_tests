@@ -1,0 +1,2 @@
+14:59:55 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jennifer Willis', 'username': 'jasonbrown', 'email': 'pwhitaker@example.com', 'phone': '833.295.5780x10186', 'website': 'garcia.org', 'address': {'street': 'Anderson Branch', 'suite': 'Suite 364', 'city': 'Port Gabrielle', 'zipcode': '41903'}, 'company': {'name': 'Lopez-Mckenzie', 'catchPhrase': 'Focused bandwidth-monitored moderator', 'bs': 'benchmark dot-com communities'}}
+14:59:55 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (25 ms)

@@ -1,2 +1,0 @@
-15:23:14 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Shirley Chambers MD', 'username': 'wbaker', 'email': 'dhenson@example.net', 'phone': '+1-201-445-4700x60078', 'website': 'nelson.biz', 'address': {'street': 'Benson Cape', 'suite': 'Suite 812', 'city': 'Port Melissa', 'zipcode': '25191'}, 'company': {'name': 'Phillips-Murphy', 'catchPhrase': 'Adaptive encompassing encryption', 'bs': 'generate mission-critical e-markets'}}
-15:23:14 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (114 ms)

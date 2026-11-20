@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 43,
+  "headers": {
+    "Date": "Fri, 20 Nov 2026 14:59:55 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "125",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"7d-UYKdzXvMHchFhsnnSnbusl1L5ls\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1795189565",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=euv3TYNJUQ8ZVXJ2M1X6d9FJ%2BdBfc5QYF%2BWGLDcuJsJt5bF0P5Tg%2FwxpeJTiB5QTzN16fu9vMnrVUrP9sHT6fIZ8EIK1QvIa0hvmakdDS9%2BQmLUndprXbbCnlSV8N4DiNN4Uaa8SevCFZrVYmhVU\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d8523e1b404231-EWR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Likely place sometimes fall strong be.",
+    "body": "Reach someone whose picture.",
+    "id": 101
+  }
+}

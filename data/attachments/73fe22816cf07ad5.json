@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 20,
+  "headers": {
+    "Date": "Fri, 20 Nov 2026 14:59:55 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "444",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bc-AbLELNVf4eKhQ+eYlwjR78GFdDQ\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1795189565",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gGFoaiQABdDpLzARQzxNmh%2FsaK7aX0GQGWdH8nPOtyvZ8JoPD67N8sLQpsC0mb07LVOnm9HswWAiSihw9uxZJ%2B%2F16UchfsBeMEOjwQNlbhy1TkI%2BGIuCYQGv%2FJXlw%2FxJfOw1vqrZbTveDkozgHI3\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5d852418dd94882-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "qrodriguez",
+    "email": "penningtonconnor@example.com",
+    "phone": "291.226.6972x682",
+    "website": "wright-davies.biz",
+    "address": {
+      "street": "Bonilla Causeway",
+      "suite": "Suite 759",
+      "city": "Ericfurt",
+      "zipcode": "67850"
+    },
+    "company": {
+      "name": "Jones, Anderson and Gibson",
+      "catchPhrase": "Secured didactic function",
+      "bs": "matrix B2B markets"
+    },
+    "id": 11
+  }
+}

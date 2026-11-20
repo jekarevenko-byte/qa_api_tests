@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Brooke Underwood",
+    "username": "tonya25",
+    "email": "qa@example.com",
+    "phone": "+1-975-250-3568x228",
+    "website": "meyers-travis.com",
+    "address": {
+      "street": "Cole Island",
+      "suite": "Apt. 214",
+      "city": "New Emilyfurt",
+      "zipcode": "46695"
+    },
+    "company": {
+      "name": "Bartlett-Nguyen",
+      "catchPhrase": "User-friendly attitude-oriented database",
+      "bs": "harness bleeding-edge interfaces"
+    }
+  }
+}
