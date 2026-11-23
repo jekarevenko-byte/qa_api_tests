@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 64,
+  "headers": {
+    "Date": "Mon, 23 Nov 2026 17:35:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c0-OQzC0ncXwC4dhCKcKi4RNLXDArs\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1795457961",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fH6TAwLIQSdTn5px6pWVLKM%2B2k5sDYfYb1latVCrJYxz2dWh8LogtBUKbS3AGJL7Ag4PV7vyV8e5m4KSQA4H4W436i4MZeVlnqiFdzvFV7ldl7bxQdw0gGYVbrbI3mIRCjyYnyxpIl9mj1q%2B9af1\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5f1edf9c924ada8-BOS",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "jesse61",
+    "email": "donnadavis@example.net",
+    "phone": "001-708-993-6305x52196",
+    "website": "jones.net",
+    "address": {
+      "street": "Cabrera Drives",
+      "suite": "Suite 292",
+      "city": "Timothyland",
+      "zipcode": "69327"
+    },
+    "company": {
+      "name": "Clark, Rogers and Riley",
+      "catchPhrase": "Re-contextualized fault-tolerant challenge",
+      "bs": "e-enable 24/7 users"
+    },
+    "id": 1
+  }
+}

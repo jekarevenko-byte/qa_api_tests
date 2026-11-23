@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "crystalorozco",
+    "email": "todd48@example.org",
+    "phone": "+1-322-685-2030x783",
+    "website": "morrison.com",
+    "address": {
+      "street": "Olivia Turnpike",
+      "suite": "Apt. 075",
+      "city": "Lake Connie",
+      "zipcode": "36214"
+    },
+    "company": {
+      "name": "Zuniga-Knox",
+      "catchPhrase": "Adaptive heuristic forecast",
+      "bs": "visualize out-of-the-box synergies"
+    }
+  }
+}

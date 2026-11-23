@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 63,
+  "headers": {
+    "Date": "Mon, 23 Nov 2026 17:35:17 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "425",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1a9-ygR9ezk3wiAmdc8bhI3viIXMbxY\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1795457961",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gSEwSZ47Yaqzgg7pfYpdrGn%2FBCGYzW6zdFjhpu4PHLDbI9bgkjhlz3iW9o05SFFLcyogq6rCmz6%2FoqZu4%2B2y6WpU%2BZr9QGKhtBREV151Sad3To%2Fyt0GhuInP5fUrK0j7jm2oQHNRzd3ODvU8hNQ7\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5f1edf7ebbcada8-BOS",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Steven Lowe",
+    "username": "greg99",
+    "email": "douglas37@example.net",
+    "phone": "6043291074",
+    "website": "walker.com",
+    "address": {
+      "street": "Dana Drive",
+      "suite": "Apt. 445",
+      "city": "Jonathanfurt",
+      "zipcode": "42028"
+    },
+    "company": {
+      "name": "Le-Bowman",
+      "catchPhrase": "Function-based actuating knowledge user",
+      "bs": "grow cross-media supply-chains"
+    },
+    "id": 11
+  }
+}

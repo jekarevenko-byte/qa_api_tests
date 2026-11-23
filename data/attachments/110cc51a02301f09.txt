@@ -1,0 +1,2 @@
+17:35:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'fmiles', 'email': 'paulkramer@example.org', 'phone': '001-503-920-3588x784', 'website': 'mccarthy.org', 'address': {'street': 'Jessica Pass', 'suite': 'Suite 300', 'city': 'New Kaitlinstad', 'zipcode': '81552'}, 'company': {'name': 'Hall, Parsons and Garcia', 'catchPhrase': 'Programmable tertiary application', 'bs': 'reinvent 24/365 infrastructures'}}
+17:35:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (61 ms)

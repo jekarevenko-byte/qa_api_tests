@@ -1,0 +1,2 @@
+17:35:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Steven Lowe', 'username': 'greg99', 'email': 'douglas37@example.net', 'phone': '6043291074', 'website': 'walker.com', 'address': {'street': 'Dana Drive', 'suite': 'Apt. 445', 'city': 'Jonathanfurt', 'zipcode': '42028'}, 'company': {'name': 'Le-Bowman', 'catchPhrase': 'Function-based actuating knowledge user', 'bs': 'grow cross-media supply-chains'}}
+17:35:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (63 ms)

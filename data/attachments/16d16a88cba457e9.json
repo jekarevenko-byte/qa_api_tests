@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 96,
+  "headers": {
+    "Date": "Mon, 23 Nov 2026 17:35:17 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b6-sDzt2klEAn3vCHxG/6B8u3roxLE\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1795457961",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pWupzi%2F%2Fmq6wpjO7AB7kI1spIppOBtnZa%2BzrM8KefnDmP%2BJ%2BNywcTpPxCAUbuRITWlaVymM20SmeNHhw498qfpb1jaEWJ5hv81NxbtzS%2Fax1BxnEAMo4lxV9uGLbrZ%2BOuK2BQAGAuyIqd2STUVTv\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5f1edf92f3dada8-BOS",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "crystalorozco",
+    "email": "todd48@example.org",
+    "phone": "+1-322-685-2030x783",
+    "website": "morrison.com",
+    "address": {
+      "street": "Olivia Turnpike",
+      "suite": "Apt. 075",
+      "city": "Lake Connie",
+      "zipcode": "36214"
+    },
+    "company": {
+      "name": "Zuniga-Knox",
+      "catchPhrase": "Adaptive heuristic forecast",
+      "bs": "visualize out-of-the-box synergies"
+    },
+    "id": 1
+  }
+}

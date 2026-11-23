@@ -1,0 +1,2 @@
+17:35:16 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Around last career almost something. Mention rich actually. Yes fight yourself in how.'}
+17:35:16 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (117 ms)

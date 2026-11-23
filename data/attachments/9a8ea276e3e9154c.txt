@@ -1,0 +1,2 @@
+17:35:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jennifer Branch', 'username': 'josehart', 'email': 'amanda74@example.net', 'phone': '416.859.9459x82663', 'website': 'thomas.com', 'address': {'street': 'David Skyway', 'suite': 'Apt. 271', 'city': 'Jonesborough', 'zipcode': '11692'}, 'company': {'name': 'Bell Group', 'catchPhrase': 'Reduced full-range hub', 'bs': 'scale B2C web services'}}
+17:35:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (88 ms)

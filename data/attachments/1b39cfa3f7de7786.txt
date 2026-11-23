@@ -1,2 +1,0 @@
-14:59:55 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'karatrujillo', 'email': 'james79@example.net', 'phone': '936.990.9892', 'website': 'osborn.com', 'address': {'street': 'Bender Overpass', 'suite': 'Suite 617', 'city': 'Lake Kevinbury', 'zipcode': '67034'}, 'company': {'name': 'Thomas LLC', 'catchPhrase': 'Organic holistic projection', 'bs': 'exploit robust metrics'}}
-14:59:55 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (27 ms)

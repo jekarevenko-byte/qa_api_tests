@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 61,
+  "headers": {
+    "Date": "Mon, 23 Nov 2026 17:35:16 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "135",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"87-+ePweee41U6IuR2Eslk7aP1T+T0\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1795457961",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=GRfOFMCaii1R5%2B8jlg8g5jbWm1D6aWffN1tbEhfkA06Q4clGDDaXM81YVpcLzSdel2lD0dVwAzpYCf7znvwjFsqKsBm4hiAIFg7j9X%2BgIXR%2BFwqTaxElGobNzkmXuKxnyEUQWRK0GxdXinE7ka6Z\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5f1edf0cee3a945-DTW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Explain evening win kid blue.",
+    "body": "Like ago support. Modern college approach back.",
+    "id": 101
+  }
+}

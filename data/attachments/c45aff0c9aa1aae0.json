@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 88,
+  "headers": {
+    "Date": "Mon, 23 Nov 2026 17:35:17 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "416",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1a0-CnD504nX1tlnEkSCoSQN2iVAosY\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1795457961",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7GTyaL651OrtpaFjeJXPo7%2BmWAVNGNoKYaWpHQIbGJ9iSWtyz1LRCMDq%2FRCZO86%2FheGY8aDvFxVYe8WkYi7btN1CtgCUvM7tvrRUzbp8O2pCtU9Ii22dwZDs5uk4ZPz%2BjtxE6sgRa85GioPBJFb6\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5f1edf749e7ada8-BOS",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Jennifer Branch",
+    "username": "josehart",
+    "email": "amanda74@example.net",
+    "phone": "416.859.9459x82663",
+    "website": "thomas.com",
+    "address": {
+      "street": "David Skyway",
+      "suite": "Apt. 271",
+      "city": "Jonesborough",
+      "zipcode": "11692"
+    },
+    "company": {
+      "name": "Bell Group",
+      "catchPhrase": "Reduced full-range hub",
+      "bs": "scale B2C web services"
+    },
+    "id": 11
+  }
+}

@@ -1,2 +1,0 @@
-14:59:55 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'qrodriguez', 'email': 'penningtonconnor@example.com', 'phone': '291.226.6972x682', 'website': 'wright-davies.biz', 'address': {'street': 'Bonilla Causeway', 'suite': 'Suite 759', 'city': 'Ericfurt', 'zipcode': '67850'}, 'company': {'name': 'Jones, Anderson and Gibson', 'catchPhrase': 'Secured didactic function', 'bs': 'matrix B2B markets'}}
-14:59:55 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (20 ms)

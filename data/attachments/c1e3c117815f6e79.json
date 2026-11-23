@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 61,
+  "headers": {
+    "Date": "Mon, 23 Nov 2026 17:35:17 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "455",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c7-shZ9f5L7sq/D300Uw2COCWFteKw\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1795457961",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=rotMKXzUYeanvCA2C0cqw4ajngl7fJUZz9tgiPdfKo7g2BXJVewJmBJN2qaeCJTlCC97Z0nHlRttrQh5hpVqw48IPJGCKsbGwIwQPsbEYb9fNSMrZ5oAkP65cNYhD68QbdlZLIG9O2WWo4ExDzJd\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5f1edf84d0cada8-BOS",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "fmiles",
+    "email": "paulkramer@example.org",
+    "phone": "001-503-920-3588x784",
+    "website": "mccarthy.org",
+    "address": {
+      "street": "Jessica Pass",
+      "suite": "Suite 300",
+      "city": "New Kaitlinstad",
+      "zipcode": "81552"
+    },
+    "company": {
+      "name": "Hall, Parsons and Garcia",
+      "catchPhrase": "Programmable tertiary application",
+      "bs": "reinvent 24/365 infrastructures"
+    },
+    "id": 11
+  }
+}
