@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 106,
+  "headers": {
+    "Date": "Tue, 24 Nov 2026 17:06:16 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "462",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1ce-qY1gAiqpcuMpF0A50HGCQqj1gE0\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599988",
+    "x-ratelimit-reset": "1795540761",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ClFs49MyzWf39GxQFm%2FmK3pxw0%2BVhBbIbMwgumeKnnjpyFrw8p%2BGb25My10OxE78CzVRkXpHYWBJSeWhe%2FYoMF34XGTDNtRhR%2FcNWUkotNYcpIQ6KYIzb91dPTLk7tj4aDdVsHl%2BGy%2BcrSceYdeE\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5fa00d74824fef6-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Scott Freeman",
+    "username": "richardsonbrittany",
+    "email": "efuller@example.net",
+    "phone": "648-347-0767x007",
+    "website": "smith.biz",
+    "address": {
+      "street": "Drew Crossing",
+      "suite": "Suite 413",
+      "city": "New Moniqueton",
+      "zipcode": "28068"
+    },
+    "company": {
+      "name": "Bridges, Lawrence and Briggs",
+      "catchPhrase": "Optional zero-defect instruction set",
+      "bs": "exploit one-to-one platforms"
+    },
+    "id": 11
+  }
+}

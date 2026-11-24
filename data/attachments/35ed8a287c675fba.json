@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Brianna Neal",
+    "username": "brian23",
+    "email": "qa@example.com",
+    "phone": "001-499-552-3912x559",
+    "website": "tran.com",
+    "address": {
+      "street": "Reilly Prairie",
+      "suite": "Apt. 285",
+      "city": "Nelsonberg",
+      "zipcode": "28713"
+    },
+    "company": {
+      "name": "Thomas-Sparks",
+      "catchPhrase": "Automated disintermediate solution",
+      "bs": "transform revolutionary ROI"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "dillonjoshua",
+    "email": "johnadams@example.com",
+    "phone": "259-382-0903x821",
+    "website": "salazar-evans.com",
+    "address": {
+      "street": "Pamela Street",
+      "suite": "Suite 726",
+      "city": "Wilsonborough",
+      "zipcode": "33942"
+    },
+    "company": {
+      "name": "Carroll and Sons",
+      "catchPhrase": "Profound optimizing strategy",
+      "bs": "enhance granular portals"
+    }
+  }
+}

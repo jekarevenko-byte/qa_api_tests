@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 109,
+  "headers": {
+    "Date": "Tue, 24 Nov 2026 17:06:17 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b7-Drr92sIh0zfiSfIogsdU2ADNYYI\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1795540761",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BXShkCn78S%2FFs%2FV7izbwTLD%2BnMdGrF8TosSu0CA21%2B8vJ%2F7Gcnr1ch8fCU8cYAzeEyppbQb%2B%2FgKy8%2BuZaTgv%2BkyIt6kJZIGTdrTaK7ZHkMhtoRSDiaS8%2BxHjrm1fImFQMq3MX8mHRxp8WNtS80G%2F\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a5fa00db0a97fef6-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "dillonjoshua",
+    "email": "johnadams@example.com",
+    "phone": "259-382-0903x821",
+    "website": "salazar-evans.com",
+    "address": {
+      "street": "Pamela Street",
+      "suite": "Suite 726",
+      "city": "Wilsonborough",
+      "zipcode": "33942"
+    },
+    "company": {
+      "name": "Carroll and Sons",
+      "catchPhrase": "Profound optimizing strategy",
+      "bs": "enhance granular portals"
+    },
+    "id": 1
+  }
+}

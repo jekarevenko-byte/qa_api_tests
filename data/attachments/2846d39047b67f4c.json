@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 108,
+  "headers": {
+    "Date": "Tue, 24 Nov 2026 17:06:16 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "451",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c3-RFi3IYwzxBcj3El3vSDLPbrLg4k\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1795540761",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5hgPOB%2BJKQp3X6rLnIBBoBNh2p8GX5o4vOxx97VnTFL97kmsQV%2B0xP0DcSRxL7ptUJyrHrXd3psfjy8IAN2MEauulWjqydyexV77JrnDsx1FFuXeKq8M8%2BUsisO0Ya6eB8Ji%2BH3LbsiAR%2FkXCpga\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a5fa00d68e4efef6-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Joseph Ellison",
+    "username": "mayodavid",
+    "email": "angelaanderson@example.org",
+    "phone": "+1-953-666-0843x8138",
+    "website": "banks.com",
+    "address": {
+      "street": "Beth Ways",
+      "suite": "Suite 903",
+      "city": "Richardville",
+      "zipcode": "78966"
+    },
+    "company": {
+      "name": "Woods-Kline",
+      "catchPhrase": "Self-enabling upward-trending function",
+      "bs": "syndicate best-of-breed experiences"
+    },
+    "id": 11
+  }
+}

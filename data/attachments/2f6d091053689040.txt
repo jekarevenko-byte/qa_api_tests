@@ -1,2 +1,0 @@
-17:35:16 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Explain evening win kid blue.', 'body': 'Like ago support. Modern college approach back.'}
-17:35:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (61 ms)

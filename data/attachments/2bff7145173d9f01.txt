@@ -1,2 +1,0 @@
-17:35:17 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'crystalorozco', 'email': 'todd48@example.org', 'phone': '+1-322-685-2030x783', 'website': 'morrison.com', 'address': {'street': 'Olivia Turnpike', 'suite': 'Apt. 075', 'city': 'Lake Connie', 'zipcode': '36214'}, 'company': {'name': 'Zuniga-Knox', 'catchPhrase': 'Adaptive heuristic forecast', 'bs': 'visualize out-of-the-box synergies'}}
-17:35:18 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (96 ms)

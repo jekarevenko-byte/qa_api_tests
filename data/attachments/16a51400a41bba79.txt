@@ -1,0 +1,2 @@
+17:06:17 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'migueloliver', 'email': 'amandabarron@example.org', 'phone': '(820)701-1925x8148', 'website': 'brown.net', 'address': {'street': 'Fuller Creek', 'suite': 'Suite 542', 'city': 'South Steven', 'zipcode': '66109'}, 'company': {'name': 'Andersen LLC', 'catchPhrase': 'Multi-channeled interactive encoding', 'bs': 'strategize B2C technologies'}}
+17:06:17 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (268 ms)

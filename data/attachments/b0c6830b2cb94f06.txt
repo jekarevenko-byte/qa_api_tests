@@ -1,2 +1,0 @@
-17:35:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Steven Taylor', 'username': 'janet69', 'email': 'qa@example.com', 'phone': '+1-788-573-7221x461', 'website': 'hudson-lawrence.biz', 'address': {'street': 'Brendan Hill', 'suite': 'Apt. 200', 'city': 'North Tracy', 'zipcode': '04981'}, 'company': {'name': 'Sanchez Inc', 'catchPhrase': 'Persevering well-modulated extranet', 'bs': 'unleash best-of-breed infrastructures'}}
-17:35:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (63 ms)

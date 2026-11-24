@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Scott Freeman",
+    "username": "richardsonbrittany",
+    "email": "efuller@example.net",
+    "phone": "648-347-0767x007",
+    "website": "smith.biz",
+    "address": {
+      "street": "Drew Crossing",
+      "suite": "Suite 413",
+      "city": "New Moniqueton",
+      "zipcode": "28068"
+    },
+    "company": {
+      "name": "Bridges, Lawrence and Briggs",
+      "catchPhrase": "Optional zero-defect instruction set",
+      "bs": "exploit one-to-one platforms"
+    }
+  }
+}
