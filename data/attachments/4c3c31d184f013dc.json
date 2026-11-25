@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Adrian Dominguez",
+    "username": "benjamin69",
+    "email": "nicolassparks@example.net",
+    "phone": "757.589.9658x239",
+    "website": "dickson-molina.org",
+    "address": {
+      "street": "Kyle Pass",
+      "suite": "Apt. 462",
+      "city": "Lake Christopherside",
+      "zipcode": "33065"
+    },
+    "company": {
+      "name": "Mercer, Guzman and Lucas",
+      "catchPhrase": "Visionary motivating installation",
+      "bs": "whiteboard vertical functionalities"
+    }
+  }
+}

@@ -1,2 +1,0 @@
-17:06:16 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Joseph Ellison', 'username': 'mayodavid', 'email': 'angelaanderson@example.org', 'phone': '+1-953-666-0843x8138', 'website': 'banks.com', 'address': {'street': 'Beth Ways', 'suite': 'Suite 903', 'city': 'Richardville', 'zipcode': '78966'}, 'company': {'name': 'Woods-Kline', 'catchPhrase': 'Self-enabling upward-trending function', 'bs': 'syndicate best-of-breed experiences'}}
-17:06:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (108 ms)

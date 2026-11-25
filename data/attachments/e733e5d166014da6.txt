@@ -1,0 +1,2 @@
+16:54:21 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Adrian Dominguez', 'username': 'benjamin69', 'email': 'nicolassparks@example.net', 'phone': '757.589.9658x239', 'website': 'dickson-molina.org', 'address': {'street': 'Kyle Pass', 'suite': 'Apt. 462', 'city': 'Lake Christopherside', 'zipcode': '33065'}, 'company': {'name': 'Mercer, Guzman and Lucas', 'catchPhrase': 'Visionary motivating installation', 'bs': 'whiteboard vertical functionalities'}}
+16:54:21 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (58 ms)

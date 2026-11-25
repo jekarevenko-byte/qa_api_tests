@@ -1,2 +1,0 @@
-17:06:16 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'nicolefrye', 'email': 'fisherteresa@example.org', 'phone': '+1-868-823-6488x04851', 'website': 'nguyen.com', 'address': {'street': 'Harris Ridges', 'suite': 'Apt. 543', 'city': 'North Wendy', 'zipcode': '38581'}, 'company': {'name': 'Gonzalez-Holloway', 'catchPhrase': 'Team-oriented bi-directional adapter', 'bs': 'transition transparent vortals'}}
-17:06:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (109 ms)

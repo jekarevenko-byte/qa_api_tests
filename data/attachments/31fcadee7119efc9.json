@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 63,
+  "headers": {
+    "Date": "Wed, 25 Nov 2026 16:54:21 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "430",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1ae-Yva2ctIWSyRgBF/G8zplBxhYm2k\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599986",
+    "x-ratelimit-reset": "1795627161",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=chnvcBXL1%2FV5qWLfQCBueCKz206OH2OBO%2Bomn5Y5ZRpzY0HV3ug3iPzuFdZCi6ljt5HJfJN%2Brbp6xUNUFyXmfV2%2BxdyJP0VOMQt84aYgbGvLzOyC%2B%2FKd4Endjk7bDJTPZjv%2FecS3iu1IcZd6A7vZ\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a6022cbfdfcf5574-YYZ",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Miranda Martin",
+    "username": "vgiles",
+    "email": "qa@example.com",
+    "phone": "3966775528",
+    "website": "webster.com",
+    "address": {
+      "street": "Brown Passage",
+      "suite": "Apt. 030",
+      "city": "Lake Samanthahaven",
+      "zipcode": "04721"
+    },
+    "company": {
+      "name": "Mcmahon PLC",
+      "catchPhrase": "Persevering needs-based strategy",
+      "bs": "architect open-source partnerships"
+    },
+    "id": 11
+  }
+}

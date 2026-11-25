@@ -1,2 +1,0 @@
-17:06:15 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Forward very building kid.', 'body': 'Probably without inside trip. International different rest structure most other. Today century recently effect difference turn.'}
-17:06:15 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (128 ms)

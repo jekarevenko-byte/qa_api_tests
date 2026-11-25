@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 59,
+  "headers": {
+    "Date": "Wed, 25 Nov 2026 16:54:21 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "455",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1c7-c56xzsPncn1Tq9ArBAy1DnTMGzs\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1795627161",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=JgWmtBgOpHkJzGc6acgW%2F9sEqKJ5txwElmhgwRvBiuRaSQ3YyeQOJp332jBzP10qrTm17mVAPNpX5u1XELZhFHLQrjoywwYWLsO%2B38kM36Q8wncvMrm0rRnS6gjcOWOk%2BgFRD9pSldGpc01x9832\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a6022cbeb9ed5574-YYZ",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Susan Rodriguez",
+    "username": "walkerconnor",
+    "email": "derek48@example.com",
+    "phone": "363-434-9183",
+    "website": "simon-ward.com",
+    "address": {
+      "street": "Dave Views",
+      "suite": "Suite 349",
+      "city": "Gonzalezchester",
+      "zipcode": "76125"
+    },
+    "company": {
+      "name": "Moore-Henry",
+      "catchPhrase": "Right-sized zero tolerance budgetary management",
+      "bs": "redefine visionary architectures"
+    },
+    "id": 11
+  }
+}

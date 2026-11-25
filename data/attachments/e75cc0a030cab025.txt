@@ -1,0 +1,2 @@
+16:54:20 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Indeed work audience will lawyer interview. Main add positive good. Nice trade daughter career.'}
+16:54:20 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (24 ms)

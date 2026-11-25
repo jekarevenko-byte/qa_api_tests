@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "david31",
+    "email": "buchananjonathan@example.net",
+    "phone": "+1-234-598-4194x245",
+    "website": "gonzalez-martin.com",
+    "address": {
+      "street": "Smith Fork",
+      "suite": "Apt. 366",
+      "city": "East Brandy",
+      "zipcode": "39162"
+    },
+    "company": {
+      "name": "Miller, Rodriguez and Williams",
+      "catchPhrase": "Managed non-volatile hardware",
+      "bs": "e-enable magnetic networks"
+    }
+  }
+}

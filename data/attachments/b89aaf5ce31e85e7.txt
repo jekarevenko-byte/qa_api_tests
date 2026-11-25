@@ -1,2 +1,0 @@
-17:06:15 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Loss daughter population entire. Forget whom hand direction catch close.'}
-17:06:15 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (258 ms)

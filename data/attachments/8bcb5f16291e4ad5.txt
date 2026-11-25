@@ -1,2 +1,0 @@
-17:06:17 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'dillonjoshua', 'email': 'johnadams@example.com', 'phone': '259-382-0903x821', 'website': 'salazar-evans.com', 'address': {'street': 'Pamela Street', 'suite': 'Suite 726', 'city': 'Wilsonborough', 'zipcode': '33942'}, 'company': {'name': 'Carroll and Sons', 'catchPhrase': 'Profound optimizing strategy', 'bs': 'enhance granular portals'}}
-17:06:17 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (109 ms)

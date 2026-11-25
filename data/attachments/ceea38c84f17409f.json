@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 60,
+  "headers": {
+    "Date": "Wed, 25 Nov 2026 16:54:21 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "458",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1ca-vu1NFwx5F4LUwYxUdUpIlUexd9o\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599987",
+    "x-ratelimit-reset": "1795627161",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lcfSHfKAIBe148wskQxhi0HsOL1fr0TJlNPs%2BX0RSE5s44YT9XiTLNWLeEJr9dKMoo%2Bj%2Fga6GryJbAdNi%2FH17AWJ0rQiP0tSHmng%2BQILgW4Ve%2F9nl4kikHcV4NXzr0olhFTah4K1m7PdsbDxVZ2R\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a6022cbf7dde5574-YYZ",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Test User QA",
+    "username": "david31",
+    "email": "buchananjonathan@example.net",
+    "phone": "+1-234-598-4194x245",
+    "website": "gonzalez-martin.com",
+    "address": {
+      "street": "Smith Fork",
+      "suite": "Apt. 366",
+      "city": "East Brandy",
+      "zipcode": "39162"
+    },
+    "company": {
+      "name": "Miller, Rodriguez and Williams",
+      "catchPhrase": "Managed non-volatile hardware",
+      "bs": "e-enable magnetic networks"
+    },
+    "id": 11
+  }
+}

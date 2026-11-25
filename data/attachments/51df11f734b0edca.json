@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 23,
+  "headers": {
+    "Date": "Wed, 25 Nov 2026 16:54:20 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "182",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"b6-VLRMfuVv/CT0qX9OrWop1zb+BcU\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599997",
+    "x-ratelimit-reset": "1795627161",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ORPwrusznAWZO7p6mlyK9%2BFyj60JNdwHEMrrS7Y80A3TALcBnQdoWIszCRDBQdlRtZ6dfDjfdqrjJhCK1f8FB%2BqDOuptr7%2FLTh%2BU3bOy%2FF79SeAFdWLGDBgnk8Q1bzFFkbwDzMLq%2Bl7XMpuNgsLV\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a6022cba08487427-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Quickly member no throw.",
+    "body": "Space game somebody little. Network new term focus it once. Worker performance year during explain.",
+    "id": 101
+  }
+}

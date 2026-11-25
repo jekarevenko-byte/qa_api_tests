@@ -1,2 +1,0 @@
-17:06:17 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Brianna Neal', 'username': 'brian23', 'email': 'qa@example.com', 'phone': '001-499-552-3912x559', 'website': 'tran.com', 'address': {'street': 'Reilly Prairie', 'suite': 'Apt. 285', 'city': 'Nelsonberg', 'zipcode': '28713'}, 'company': {'name': 'Thomas-Sparks', 'catchPhrase': 'Automated disintermediate solution', 'bs': 'transform revolutionary ROI'}}
-17:06:17 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (108 ms)

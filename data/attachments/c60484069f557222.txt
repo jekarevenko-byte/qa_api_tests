@@ -1,0 +1,2 @@
+16:54:21 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'david31', 'email': 'buchananjonathan@example.net', 'phone': '+1-234-598-4194x245', 'website': 'gonzalez-martin.com', 'address': {'street': 'Smith Fork', 'suite': 'Apt. 366', 'city': 'East Brandy', 'zipcode': '39162'}, 'company': {'name': 'Miller, Rodriguez and Williams', 'catchPhrase': 'Managed non-volatile hardware', 'bs': 'e-enable magnetic networks'}}
+16:54:21 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (60 ms)
