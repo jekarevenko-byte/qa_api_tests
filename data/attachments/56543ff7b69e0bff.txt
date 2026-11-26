@@ -1,0 +1,2 @@
+16:32:15 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'First school let last strategy region message actually. Tax order popular. Bit run some thousand.'}
+16:32:15 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (92 ms)

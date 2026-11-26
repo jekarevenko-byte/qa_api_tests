@@ -1,0 +1,2 @@
+16:32:15 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'David Mcconnell', 'username': 'villarrealjames', 'email': 'everettjonathan@example.com', 'phone': '2219126810', 'website': 'francis-francis.info', 'address': {'street': 'Anthony Manors', 'suite': 'Suite 635', 'city': 'Rileymouth', 'zipcode': '45671'}, 'company': {'name': 'Johnson-Bailey', 'catchPhrase': 'Organized hybrid hierarchy', 'bs': 'leverage visionary bandwidth'}}
+16:32:15 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (101 ms)

@@ -1,0 +1,35 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 243,
+  "headers": {
+    "Date": "Thu, 26 Nov 2026 16:32:15 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"94-z41GmRvIBBhSuObvXSdLNpDjUYk\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599994",
+    "x-ratelimit-reset": "1795713561",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dlgiXdj96kNocZ8kAJ23MUJYQcHfDctzelMUdaGD%2BRpccgIJDFJorQAZPvwYYU35vWn7lD6KCEXQddvvi1KySNQmSWFyBfaGfobt5Im%2BkcZT1TJzLLc8gDrtExBlun7RtCPjvTqgToJyyDGqHajm\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a60a49bcd9f7cb5f-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Updated",
+    "body": "Sense continue ground which. Major practice month mission wife fine conference home.",
+    "id": 1
+  }
+}

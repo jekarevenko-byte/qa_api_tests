@@ -1,0 +1,2 @@
+16:32:15 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'burnsjames', 'email': 'justin23@example.com', 'phone': '001-858-607-6006x8633', 'website': 'booker.org', 'address': {'street': 'Jessica Villages', 'suite': 'Suite 823', 'city': 'West Ashley', 'zipcode': '44075'}, 'company': {'name': 'Clayton, Brown and Levy', 'catchPhrase': 'Function-based coherent hardware', 'bs': 'enhance next-generation e-tailers'}}
+16:32:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (101 ms)

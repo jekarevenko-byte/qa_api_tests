@@ -1,2 +1,0 @@
-16:54:21 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Miranda Martin', 'username': 'vgiles', 'email': 'qa@example.com', 'phone': '3966775528', 'website': 'webster.com', 'address': {'street': 'Brown Passage', 'suite': 'Apt. 030', 'city': 'Lake Samanthahaven', 'zipcode': '04721'}, 'company': {'name': 'Mcmahon PLC', 'catchPhrase': 'Persevering needs-based strategy', 'bs': 'architect open-source partnerships'}}
-16:54:21 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (63 ms)

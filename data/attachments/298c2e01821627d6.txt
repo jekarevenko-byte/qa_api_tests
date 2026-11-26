@@ -1,2 +1,0 @@
-16:54:21 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Susan Rodriguez', 'username': 'walkerconnor', 'email': 'derek48@example.com', 'phone': '363-434-9183', 'website': 'simon-ward.com', 'address': {'street': 'Dave Views', 'suite': 'Suite 349', 'city': 'Gonzalezchester', 'zipcode': '76125'}, 'company': {'name': 'Moore-Henry', 'catchPhrase': 'Right-sized zero tolerance budgetary management', 'bs': 'redefine visionary architectures'}}
-16:54:21 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (59 ms)

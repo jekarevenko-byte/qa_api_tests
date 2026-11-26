@@ -1,0 +1,2 @@
+16:32:14 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Development new out hold begin head animal.', 'body': 'Describe end eye general stop wish. Grow capital glass house early painting itself glass. Now authority mention interest relate perhaps trouble.'}
+16:32:14 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (103 ms)

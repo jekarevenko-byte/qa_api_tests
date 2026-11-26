@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "garciasabrina",
+    "email": "daviddiaz@example.net",
+    "phone": "948-450-1950x21315",
+    "website": "brown.com",
+    "address": {
+      "street": "Tammie Walks",
+      "suite": "Suite 681",
+      "city": "South Cynthia",
+      "zipcode": "91005"
+    },
+    "company": {
+      "name": "Simmons-Hamilton",
+      "catchPhrase": "Proactive client-driven database",
+      "bs": "re-contextualize magnetic convergence"
+    }
+  }
+}

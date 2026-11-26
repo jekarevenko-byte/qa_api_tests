@@ -1,2 +1,0 @@
-16:54:21 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'cmedina', 'email': 'ellenyoder@example.com', 'phone': '+1-515-346-4215', 'website': 'campbell.com', 'address': {'street': 'Garcia Parks', 'suite': 'Apt. 872', 'city': 'East Ronald', 'zipcode': '70042'}, 'company': {'name': 'Bauer-Massey', 'catchPhrase': 'Triple-buffered intangible emulation', 'bs': 'extend viral niches'}}
-16:54:21 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (62 ms)

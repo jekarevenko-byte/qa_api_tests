@@ -1,2 +1,0 @@
-16:54:20 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Quickly member no throw.', 'body': 'Space game somebody little. Network new term focus it once. Worker performance year during explain.'}
-16:54:20 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (23 ms)

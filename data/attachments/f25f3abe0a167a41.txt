@@ -1,2 +1,0 @@
-16:54:20 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Drop indeed soldier as character church.', 'body': 'Can near unit ten although public. Modern so clearly machine word business huge. Become field water together live. Brother out either ground order.'}
-16:54:20 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (20 ms)
