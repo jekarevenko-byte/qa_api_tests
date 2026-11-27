@@ -1,2 +1,0 @@
-16:32:16 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'garciasabrina', 'email': 'daviddiaz@example.net', 'phone': '948-450-1950x21315', 'website': 'brown.com', 'address': {'street': 'Tammie Walks', 'suite': 'Suite 681', 'city': 'South Cynthia', 'zipcode': '91005'}, 'company': {'name': 'Simmons-Hamilton', 'catchPhrase': 'Proactive client-driven database', 'bs': 're-contextualize magnetic convergence'}}
-16:32:16 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (114 ms)

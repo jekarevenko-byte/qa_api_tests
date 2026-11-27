@@ -1,0 +1,2 @@
+16:18:03 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Andrew Moran', 'username': 'ashley63', 'email': 'asmith@example.com', 'phone': '+1-836-420-0151', 'website': 'fleming.com', 'address': {'street': 'Robinson Plaza', 'suite': 'Suite 926', 'city': 'West James', 'zipcode': '93521'}, 'company': {'name': 'Greene-Henderson', 'catchPhrase': 'Sharable methodical throughput', 'bs': 'empower synergistic ROI'}}
+16:18:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (106 ms)

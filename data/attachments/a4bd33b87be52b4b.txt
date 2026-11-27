@@ -1,0 +1,2 @@
+16:18:02 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated', 'body': 'Get director sister. Hair civil run.'}
+16:18:02 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (262 ms)

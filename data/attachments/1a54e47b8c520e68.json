@@ -1,0 +1,30 @@
+{
+  "method": "POST",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Andrew Moran",
+    "username": "ashley63",
+    "email": "asmith@example.com",
+    "phone": "+1-836-420-0151",
+    "website": "fleming.com",
+    "address": {
+      "street": "Robinson Plaza",
+      "suite": "Suite 926",
+      "city": "West James",
+      "zipcode": "93521"
+    },
+    "company": {
+      "name": "Greene-Henderson",
+      "catchPhrase": "Sharable methodical throughput",
+      "bs": "empower synergistic ROI"
+    }
+  }
+}

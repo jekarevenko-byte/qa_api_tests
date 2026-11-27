@@ -1,0 +1,2 @@
+16:18:03 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Test User QA', 'username': 'smithrachel', 'email': 'tracycole@example.com', 'phone': '(584)783-2487', 'website': 'fox.org', 'address': {'street': 'Freeman Mission', 'suite': 'Apt. 685', 'city': 'West Joanna', 'zipcode': '90143'}, 'company': {'name': 'Barker and Sons', 'catchPhrase': 'Mandatory actuating groupware', 'bs': 'morph seamless functionalities'}}
+16:18:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (105 ms)

@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 270,
+  "headers": {
+    "Date": "Fri, 27 Nov 2026 16:18:04 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1b7-z4pgnx9luRkpZ1SfM3wS/Y7tbDw\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599985",
+    "x-ratelimit-reset": "1795796361",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jpgSmpkUFpYoGQ%2B0qoYS8ipKs%2FqN01LZM5ypGu1H644cBMJJo%2Bl1WK9JwIf5Qmg%2BNtl11uKx9VEva74FMhQLqcjBYQTQJoq64xkdjkliwWjSoGmkzs%2FwIWjvyZLQHIZMHPF9T6SaSVdhjEYpFb2W\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a61272578a4fef73-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "rmarsh",
+    "email": "djackson@example.com",
+    "phone": "212-873-1549x386",
+    "website": "horton.com",
+    "address": {
+      "street": "Michael Rest",
+      "suite": "Suite 492",
+      "city": "Vasquezburgh",
+      "zipcode": "44679"
+    },
+    "company": {
+      "name": "Howard PLC",
+      "catchPhrase": "Enterprise-wide zero administration migration",
+      "bs": "engineer e-business bandwidth"
+    },
+    "id": 1
+  }
+}

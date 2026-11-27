@@ -1,2 +1,0 @@
-16:32:14 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Almost music suffer someone collection.', 'body': 'Including training practice case animal. Night actually book.'}
-16:32:14 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (100 ms)

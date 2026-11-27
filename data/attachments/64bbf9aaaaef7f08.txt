@@ -1,0 +1,2 @@
+16:18:02 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Pm speak rock dream simply month.', 'body': 'Learn first parent bad finish pull they. To ball run. Better difference hope. Democrat should service understand.'}
+16:18:02 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (269 ms)

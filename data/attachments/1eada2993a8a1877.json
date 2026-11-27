@@ -1,0 +1,36 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 101,
+  "headers": {
+    "Date": "Fri, 27 Nov 2026 16:18:02 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "168",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"a8-icoxe2R8To9EnJ/IoX+8Y/sizBE\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/posts/101",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599996",
+    "x-ratelimit-reset": "1795796361",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=C%2B7nPUPBW1WzItbgV0uZA1WOVWtHbHmKWqLTdjkhkroUxL1Yp53MXTqERZOLDmIF3OW1DgzXoNVHSEvw%2BpUIBsKMQRu4Psi4tvmH9U8Ih4JOMNDuu%2B4Fm29FQRLfAB3WNT3RX5pHxRUAHvtjrK4V\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a612724d690d1319-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "userId": 1,
+    "title": "Newspaper mean almost we alone seek.",
+    "body": "Down off conference page each same. Something program from compare after.",
+    "id": 101
+  }
+}

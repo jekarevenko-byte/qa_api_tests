@@ -1,0 +1,30 @@
+{
+  "method": "PUT",
+  "url": "https://jsonplaceholder.typicode.com/users/1",
+  "params": null,
+  "headers": {
+    "User-Agent": "python-requests/2.34.2",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "rmarsh",
+    "email": "djackson@example.com",
+    "phone": "212-873-1549x386",
+    "website": "horton.com",
+    "address": {
+      "street": "Michael Rest",
+      "suite": "Suite 492",
+      "city": "Vasquezburgh",
+      "zipcode": "44679"
+    },
+    "company": {
+      "name": "Howard PLC",
+      "catchPhrase": "Enterprise-wide zero administration migration",
+      "bs": "engineer e-business bandwidth"
+    }
+  }
+}

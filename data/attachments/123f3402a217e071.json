@@ -1,0 +1,48 @@
+{
+  "status_code": 200,
+  "reason": "OK",
+  "elapsed_ms": 99,
+  "headers": {
+    "Date": "Fri, 27 Nov 2026 16:18:04 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1bb-3h/ou5iLM9joh+S8l2t7JwVBQlE\"",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599984",
+    "x-ratelimit-reset": "1795796361",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SEnZNGsCZ4NxWa5PeVpe9m9%2Bxf5wPP98IZCm3c%2FrLJ0MQxuITlYjQIPowdeWnXxuoWlxwyhp42Jqdu7vkV7aYKjo2U7IUQTtbmnaOj9OMrxSxPtedRCitYMEHM7bMfcGoKPFXoSlB97nZRw%2FmDib\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a61272594cdfef73-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Updated Name",
+    "username": "steven09",
+    "email": "ymoreno@example.net",
+    "phone": "001-351-314-8567x454",
+    "website": "arellano.com",
+    "address": {
+      "street": "Hughes Manors",
+      "suite": "Apt. 256",
+      "city": "West Cynthiaton",
+      "zipcode": "45642"
+    },
+    "company": {
+      "name": "Gaines Inc",
+      "catchPhrase": "Stand-alone local moratorium",
+      "bs": "disintermediate transparent technologies"
+    },
+    "id": 1
+  }
+}

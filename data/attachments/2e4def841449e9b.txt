@@ -1,0 +1,2 @@
+16:18:02 [INFO] PUT https://jsonplaceholder.typicode.com/posts/1 | params=None body={'userId': 1, 'title': 'Updated Title', 'body': 'Edge pull as institution Congress there. Pretty thought find head grow argue begin.'}
+16:18:03 [INFO] ← 200 https://jsonplaceholder.typicode.com/posts/1  (99 ms)

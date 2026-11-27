@@ -1,2 +1,0 @@
-16:32:16 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Lynn Miranda', 'username': 'joseph20', 'email': 'qa@example.com', 'phone': '367.595.2245x61858', 'website': 'stafford.info', 'address': {'street': 'Jessica Bypass', 'suite': 'Suite 686', 'city': 'North Chelsey', 'zipcode': '55109'}, 'company': {'name': 'Wilson-Thomas', 'catchPhrase': 'Polarized maximized adapter', 'bs': 'transition turn-key e-markets'}}
-16:32:16 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (102 ms)

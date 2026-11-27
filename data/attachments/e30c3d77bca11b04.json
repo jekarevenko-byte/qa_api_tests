@@ -1,0 +1,49 @@
+{
+  "status_code": 201,
+  "reason": "Created",
+  "elapsed_ms": 106,
+  "headers": {
+    "Date": "Fri, 27 Nov 2026 16:18:03 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "425",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Location",
+    "Cache-Control": "no-cache",
+    "etag": "W/\"1a9-KdfK35wozBiwzgysfeVeRSVS3kI\"",
+    "expires": "-1",
+    "location": "https://jsonplaceholder.typicode.com/users/11",
+    "pragma": "no-cache",
+    "vary": "Origin, X-HTTP-Method-Override, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "Express",
+    "x-ratelimit-limit": "3600000",
+    "x-ratelimit-remaining": "3599989",
+    "x-ratelimit-reset": "1795796361",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CW15UcBNgI7noaO9etCrtb76b7UXyNC%2BuSsZl2%2FQ3YhzL07jogah8%2F%2BegQI6hnvRbUl2WViSovD4wl%2B3w6l5GLYakfNjZT4XKtxuz3%2FNwgU%2FW9iaTqEQNywB%2F123liEHP2pUUPr5DG6qRSpFDsDN\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a6127254dee7ef73-PDX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "name": "Andrew Moran",
+    "username": "ashley63",
+    "email": "asmith@example.com",
+    "phone": "+1-836-420-0151",
+    "website": "fleming.com",
+    "address": {
+      "street": "Robinson Plaza",
+      "suite": "Suite 926",
+      "city": "West James",
+      "zipcode": "93521"
+    },
+    "company": {
+      "name": "Greene-Henderson",
+      "catchPhrase": "Sharable methodical throughput",
+      "bs": "empower synergistic ROI"
+    },
+    "id": 11
+  }
+}

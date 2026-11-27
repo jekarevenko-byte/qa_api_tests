@@ -1,2 +1,0 @@
-16:32:15 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Jennifer Chang', 'username': 'kimrobin', 'email': 'aprice@example.com', 'phone': '001-320-604-3964x8652', 'website': 'schmitt.com', 'address': {'street': 'Renee Islands', 'suite': 'Apt. 391', 'city': 'East Christopherberg', 'zipcode': '23141'}, 'company': {'name': 'Mitchell and Sons', 'catchPhrase': 'Persistent intermediate conglomeration', 'bs': 'transition clicks-and-mortar e-tailers'}}
-16:32:15 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (100 ms)

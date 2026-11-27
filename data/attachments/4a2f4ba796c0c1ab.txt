@@ -1,0 +1,2 @@
+16:18:03 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Matthew Mason', 'username': 'xsuarez', 'email': 'qa@example.com', 'phone': '5172125059', 'website': 'holder-alexander.com', 'address': {'street': 'Jeff Rest', 'suite': 'Apt. 702', 'city': 'Johnborough', 'zipcode': '66778'}, 'company': {'name': 'Morales Group', 'catchPhrase': 'Configurable responsive archive', 'bs': 'drive mission-critical schemas'}}
+16:18:04 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (105 ms)

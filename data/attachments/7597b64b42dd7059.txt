@@ -1,0 +1,2 @@
+16:18:03 [INFO] POST https://jsonplaceholder.typicode.com/users | params=None body={'name': 'Andrew Fernandez', 'username': 'dbrooks', 'email': 'susan97@example.org', 'phone': '301-580-2803', 'website': 'roach.info', 'address': {'street': 'Oneal Islands', 'suite': 'Suite 953', 'city': 'Jonesfurt', 'zipcode': '83154'}, 'company': {'name': 'Reed-Stokes', 'catchPhrase': 'Cross-platform global interface', 'bs': 'implement ubiquitous e-services'}}
+16:18:03 [INFO] ← 201 https://jsonplaceholder.typicode.com/users  (106 ms)

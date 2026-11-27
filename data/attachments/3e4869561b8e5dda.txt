@@ -1,0 +1,2 @@
+16:18:04 [INFO] PUT https://jsonplaceholder.typicode.com/users/1 | params=None body={'name': 'Updated Name', 'username': 'steven09', 'email': 'ymoreno@example.net', 'phone': '001-351-314-8567x454', 'website': 'arellano.com', 'address': {'street': 'Hughes Manors', 'suite': 'Apt. 256', 'city': 'West Cynthiaton', 'zipcode': '45642'}, 'company': {'name': 'Gaines Inc', 'catchPhrase': 'Stand-alone local moratorium', 'bs': 'disintermediate transparent technologies'}}
+16:18:04 [INFO] ← 200 https://jsonplaceholder.typicode.com/users/1  (99 ms)

@@ -1,0 +1,2 @@
+16:18:02 [INFO] POST https://jsonplaceholder.typicode.com/posts | params=None body={'userId': 1, 'title': 'Newspaper mean almost we alone seek.', 'body': 'Down off conference page each same. Something program from compare after.'}
+16:18:02 [INFO] ← 201 https://jsonplaceholder.typicode.com/posts  (101 ms)
